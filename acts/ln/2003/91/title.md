@@ -1,0 +1,1 @@
+# L.N. 91 of 2003: Bachelor of Science in Information Technology - B.Sc.I.T. - and Bachelor of Science in Information Technology (Honours) - B.Sc.I.T. (Hons) - Degree Course (Amendment) Regulations, 2003
