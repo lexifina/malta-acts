@@ -1,0 +1,17 @@
+## SCHEDULE II
+# schedule-ii
+BINDING BIOLOGICAL LIMIT VALUES AND HEALTH SURVEILLANCE
+MEASURES
+1. Lead and its ionic compounds
+1.1. Biological monitoring must include measuring the blood-lead level (PbB) using
+absorption spectrometry or a method giving equivalent results. The binding biological
+limit value is:
+70 µg Pb/100 ml blood
+1.2 Medical surveillance is carried out if:
+- exposure to a concentration of lead in air is greater than 0,075 mg/m 3 , calculated as a
+time-weighted average over 40 hours per week, or
+- a blood-lead level greater than 40 lg Pb/100 ml blood is measured in individual
+workers.
+1.3 Practical guidelines for biological monitoring and medical surveillance must be
+developed in accordance with regulation 13. These must include recommendations of
+biological indicators (e.g. ALAU, ZPP, ALAD) and biological monitoring strategies.
