@@ -1,0 +1,7 @@
+## SCHEDULE B
+# schedule-b
+Restraint of animals before stunning, slaughter or killing
+1. Animals must be restrained in an appropriate manner in such a way as to spare them any avoidable pain, suffering, agitation, injury or contusions. However, in the case of ritual slaughter, restraint of bovine animals before slaughter using a mechanical method intended to avoid any pain, suffering or agitation and any injuries or contusions to the animals is obligatory.
+2. Animals' legs must not be tied, and animals must not be suspended before stunning or killing. However, poultry and rabbits may be suspended for slaughter provided that appropriate measures are taken to ensure that, on the point of being stunned, they are in a sufficiently relaxed state for stunning to be carried out effectively and without undue delay. Furthermore, holding an animal in a restraint system may in no circumstances be regarded as suspension.
+3. Animals which are stunned or killed by mechanical or electrical means applied to the head must be presented in such a position that the equipment can be applied and operated easily, accurately and for the appropriate time. The competent authority may, however, in the case of solipeds and cattle, authorise the use of appropriate means to restrain head movements.
+4. Electrical stunning equipment must not be used as a means of restraint or immobilisation or to make animals move.
