@@ -1,0 +1,17 @@
+## SCHEDULE 2
+# schedule-2
+List of the European Union Directives referred to in Regulation 12 A
+1. 64/429/EWG: Council Directive of 7 July 1964, concerning the attainment of freedom of establishment and freedom to provide services in respect of activities of self-employed persons in manufacturing and processing industries falling within Industry and small craft industries
+64/427/EEC: Council Directive of 7 July 1964, laying down detailed provisions concerning transitional measures in respect of activities of self-employed persons in manufacturing and processing industries falling within Industry and small craft industries
+2. 68/365/EEC: Council Directive of 15 October 1968, concerning the attainment of freedom of establishment and freedom to provide services in respect of activities of self-employed persons in the food manufacturing and beverage industries
+68/366/EEC: Council Directive of 15 October 1968, laying down detailed provisions concerning transitional measures in respect of activities of self-employed persons in the food manufacturing and beverage industries
+3. 64/223/EEC: Council Directive of 25 February 1964 concerning the attainment of freedom of establishment and freedom to provide services in respect of activities in wholesale trade
+64/224/EEC: Council Directive of 25 February 1964 concerning the attainment of freedom of establishment and freedom to provide services in respect of activities of intermediaries in commerce, industry and small craft industries
+64/222/EEC: Council Directive of 25 February 1964 laying down detailed provisions concerning transitional measures in respect of activities in wholesale trade and activities of intermediaries in commerce, industry and small craft industries
+4. 68/363/EEC: Council Directive of 15 October 1968 concerning the attainment of freedom of establishment and freedom to provide services in respect of activities of self-employed persons in retail trade
+68/364/EEC: Council Directive of 15 October 1968 laying down detailed provisions concerning transitional measures in respect of activities of self-employed persons in retail trade
+5. 70/522/EEC: Council Directive of 30 November 1970 concerning the attainment of freedom to provide services in respect of activities of self-employed persons in the wholesale coal trade and activities of intermediaries in the coal trade
+70/523/EEC: Council Directive of 30 November 1970 laying down detailed provisions concerning transitional measures in respect of activities of intermediaries in the coal trade
+6. 74/557/EEC: Council Directive of 4 June 1974 on the attainment of freedom of establishment and freedom to provide services in respect of activities of self-employed persons and of intermediaries engaging in the trade and distribution of toxic products
+7. 68/367/EEC: Council Directive of 15 October 1968 concerning the attainment of freedom of establishment and freedom to provide services in respect of activities of self-employed persons in the personal services sector: 1. restaurants, cafes, taverns and other drinking and eating places; 2. hotels, rooming houses, camps and other lodging places
+68/368/EEC: Council Directive of 15 October 1968 laying down detailed provisions concerning transitional measures in respect of activities of self-employed persons in the personal services sector: 1. restaurants, cafes, taverns and other drinking and eating places; 2. hotels, rooming houses, camps and other lodging places
