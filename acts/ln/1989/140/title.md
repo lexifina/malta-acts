@@ -1,0 +1,1 @@
+# L.N. 140 of 1989: Regulations for the evening courses leading to a Higher Diploma/B.Sc. Pass Degree in Mathematics: 1986-1988; Mathematics and Computing: 1985-1988; Mathematics, Computing and Logic: 1987-1990
