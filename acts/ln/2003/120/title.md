@@ -1,0 +1,1 @@
+# L.N. 120 of 2003: Regulations establishing a first list of indicative occupational exposure limit values on the protection of the health and safety of workers from the risks related to chemical agents at work, 2003
