@@ -1,0 +1,1 @@
+# L.N. 168 of 2001: Directive by the MInister of Finance for the Issue of Lm30,000,000 with the option to increase the offer to an amount not exceeding Lm40,000,000 6.25% Malta Government Stock 2011 (Second Issue)
