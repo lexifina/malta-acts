@@ -1,0 +1,2 @@
+# Act XXXIII of 1990: Malta Stock Exchange Act, 1990
+THE MALTA STOCK EXCHANGE ACT, 1990
