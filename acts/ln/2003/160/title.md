@@ -1,0 +1,7 @@
+# L.N. 160 of 2003: Motor Vehicles (Carriage Of Passengers By Road) Regulations
+L.N. 160 of 2003
+MOTOR VEHICLES (CARRIAGE OF PASSENGERS BY
+ROAD) REGULATIONS, 2003
+PART I
+PRELIMINARY
+Regulation
