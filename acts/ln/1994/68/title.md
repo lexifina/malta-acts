@@ -1,0 +1,1 @@
+# L.N. 68 of 1994: Directive by the Minister of Finance for the Conversion of Lm6,885,000 6% Local Development Registered Stock 1994 (I) into Lm6,885,000 5.65% Malta Government Stock 1998 (Third Issue)
