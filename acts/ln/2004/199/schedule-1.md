@@ -1,0 +1,537 @@
+## SCHEDULE 1
+## Barley
+## Blackberries
+## Citrus fruits
+## Maize
+## Oats
+## Potato
+## Raspberries (Red and Black)
+## Rice
+## Rye
+## Sorghum
+## Vaccinium berries, including bearberry
+## Wheat
+## Almonds
+## Apples
+## Apricots
+## Asparagus
+## Aubergine
+## Avocados
+## Bananas
+## Beans
+## Beans (with pods)
+## Beans (without pods)
+## Beet leaves (chard)
+## Beetroot
+## Berries and small fruit Others
+## Brazil Nuts
+## Broccoli
+## Brussels sprouts
+## Buckwheat
+## Bulb Vegetables others
+## Cane Fruit Others
+## Cardoons
+## Carrots
+## Cashew Nuts
+## Cauliflower
+## Celeriac
+## Celery
+## Celery leaves
+## Cereals others
+## Cherries
+## Chervil
+## Chestnuts
+## Chinese cabbage
+## Chives
+## Citrus Fruit Others
+## Coconuts
+## Cotton seed
+## Courgettes
+## Cranberries
+## Cress
+## Cucumbers
+## Cucurbits edible peel others
+## Cucurbits inedible peel others
+## Cultivated mushrooms
+## Currants (Black, Red andWhite)
+## Dates
+## Dewberries
+## Early potatoes
+## Fennel
+## Figs
+## Flowering brassicas others
+## Gherkins
+## Globe artichoke
+## Gooseberry
+## Grapefruit
+## Hazelnuts
+## Head brassicas others
+## Head cabbages
+## Herbs others
+## Horseradish
+## Jerusalem artichoke
+## Kale
+## Kiwi Fruit
+## Kohlrabi
+## Kumquats
+## Lamb's lettuce
+## Leafy brassicas others
+## Leeks
+## Legume vegetables fresh others
+## Lemons
+## Lentils
+## Lettuce
+## Lettuce and similar others
+## Limes
+## Linseed
+## Litchis
+## Loganberries
+## Macadamia Nuts
+## Mandarins
+## Mangoes
+## Melons
+## Millet
+## Miscellaneous Fruit Others
+## Mustard seed
+## Oilseeds others
+## Olives
+## Oranges
+## Papaya
+## Parsley
+## Parsley root
+## Parsnips
+## Passion Fruit
+## Peaches
+## Peanuts
+## Pears
+## Peas
+## Peas (with pods)
+## Peas (without pods)
+## Pecans
+## Peppers
+## Pine Nuts
+## Pineapples
+## Pistachios
+## Plums
+## Pome Fruit Others
+## Pomegranates
+## Pomelo
+## Poppy seeds
+## Pulses others
+## Quinces
+## Radishes
+## Rapeseed
+## Raspberries
+## Rhubarb
+## Root and tuber vegetables others
+## Salsify
+## Scarole
+## Sesame seeds
+## Shallots
+## Solanacea others
+## Spices
+## Spinach
+## Spinach and similar (others)
+## Spring onion
+## Squashes
+## Stem vegetables fresh others
+## Stone Fruit Others
+## Strawberries
+## Sunflower seeds
+## Swedes
+## Sweet corn
+## Sweet potato
+## Table Grapes
+## Tea
+## Tomatoes
+## Tree Nuts Others
+## Triticale
+## Turnip
+## Walnuts
+## Ware potatoes
+## Watercress
+## Watermelons
+## Wild Berries and Wild Fruit
+## Wild mushrooms
+## Wine Grapes
+## Witloof
+## Yams
+## Bilberries
+## Garlic
+## Onions
+## Small Fruit and Berries Others
+## Root and Tuber Vegetables others
+## Soya bean
+## Potatoes
+## Tobacco (fresh)
+## Aubergines
+## Clementines
+## French beans
+## Grapes
+## Prunes
+## Vegetable marrows
+## Artichokes
+## Citrus
+## Head cabbage
+## Soya bean seed
+## Sugar beet
+## Tobacco
+## Cane berries
+## Currants (Black, Red and White)
+## Small Fruit and Berries others
+## Root and Tuber Vegetables Others
+## Small Fruit And Berries Others
+## Maize fodder
+## Maize forage
+## Sugar beet leaves or tops
+## Brassica vegetables
+## Chicory
+## Wheat bran (unprocessed)
+## Wheat flour
+## Avocado
+## Broad bean (green pods and immature seeds)
+## Cabbage (head)
+## Cereal grains
+## Cucumber
+## Fruit others
+## Lettuce (head)
+## Okra
+## Peppers (sweet)
+## Radish
+## Squash
+## Strawberry
+## Tomato
+## Turnip greens
+## Wheat wholemeal
+## Sugar beet (leaves)
+## Sugar beet (roots)
+## Bulb Vegetables Others
+## Legume Vegetables Fresh Others
+## Forage (beet)
+## Legume vegetables fresh Others
+## Legume vegetables freshothers
+## Bulb vegetables
+## Banana
+## Cucurbits (inedible peel)
+## Currants
+## Flowering brassicas
+## Gooseberries
+## Grapes (wine)
+## Herbs others (fresh)
+## Hops
+## Pome fruits
+## Pulses
+## Vegetables others
+## Forages
+## Cereals
+## Coffee (raw)
+## Fruit
+## Oilseeds
+## Tabacco
+## Vegetables
+## Lettuce and similars
+## Sunflower oil
+## Leafy brassicas
+## Legumes fresh
+## Tabacco (green)
+## Products of vegetable origin
+## Broad beans
+## Forage
+## Brassica vegetables others
+## Cucurbits
+## Spinach and similars
+## Sweet Potatoes
+## Medicinal herbs
+## Mint
+## Root and Tuber Vegetables
+## Cucurbits inedible peel
+## Stone fruit
+## Soyabean
+## Olive oil
+## others
+## Stem vegetables fresh
+## Forage (maize)
+## Clover
+## Sugar beet (roots and leaves)
+## Turnip cabbage
+## Walnut
+## Cherry (sour)
+## Savoy
+## Brusells sprouts
+## Endives
+## Red chicory
+## Others
+## Turnips
+## Cereals (Maize and Sorghum excluded)
+## Tabacco (fresh)
+## Grapes (table and wine)
+## Nuts others
+## MYCLOBUTANIL
+## Globe artichokes
+## Pome fruit others
+## Cereals (escluding Maize, Sorghum and Rice)
+## Chickpeas
+## Cabbage
+## Nuts
+## Cereals (for grains)
+## Forages (leguminous)
+## Vegetables others (escluding mushrooms)
+## Sunflower Seeds
+## Brassica Vegetables
+## Red Chicory
+## Currants (black and red)
+## Pomengrenades
+## Vegetables (escluding mushrooms)
+## TEBUFENPYRAD
+## Brassica vegatables
+## Maize da foraggio
+## Bean (grains)
+## Head cabbage (excluding Brussels sprouts)
+## Basil
+## Canola
+## Cotton
+## Sunflowers
+## Wine grapes
+# schedule-1
+List of Produce and the Part of Produce to Which Maximum Residue Levels Apply
+(Regulation 2)
+Groups of produce Produce included in the groups Part of product to which maximum residue levels apply
+1. FRUIT, FRESH, PRESERVED BY FREEZING, NOT CONTAINING ADDED SUGAR; NUTS i) CITRUS FRUIT Grapefruit
+Whole Product Lemons Limes
+Mandarins (including Clementines
+and similar hybrids)
+Oranges Pomelos
+(ii) TREE NUTS (SHELLED Almonds Whole product after OR Brazil nuts removal of shell UNSHELLED) Cashew nuts
+Chestnuts Coconuts Hazelnuts Macadamia nuts Pecans Pine nuts Pistachios
+Walnuts
+(iii) POME FRUIT Apples Whole product after Pears removal of Stems Quinces
+(iv) STONE FRUIT Apricots Whole product after Cherries removal of Stems
+Peaches (including nectarines and
+similar hybrids) Plums
+(v) BERRIES AND SMALL (a) Table and wine grapes Whole product after FRUIT (b) Strawberries (other than removal of caps and wild) stems (if any) and, in
+(c) Cane fruit (other than wild) the case of currants, Blackberries fruits with stems Loganberries Raspberries
+(d) Other small fruit and berries
+(other than wild) Bilberries Cranberries
+Currants (red, black and white)
+Gooseberries
+(e) Wild berries and wild fruit
+(vi) MISCELLANEOUS Avocados Whole fruit after FRUIT Bananas removal of stems (if Dates any) and in the case of Figs pineapple after Kiwi fruit removal of the crown Kumquats Litchis Mangoes Passion fruit Pineapples Pomegranates
+(vi) Olives Whole fruit after removal of stems (if any) after removal of soil (if any) by rinsing in running water 2. VEGETABLES, FRESH OR UNCOOKED, FROZEN OR DRY
+(i) ROOT AND TUBER Beetroot Whole product after VEGETABLES Carrots removal of tops and Celeriac adhering soil (if any) Horseradish (removal of soil by Jerusalem artichokes rinsing in running Parsnips water or by gentle Parsley root brushing of the dry Radishes product) Salsify Sweet potatoes Swedes Turnips Yams
+(ii) BULB VEGETABLES: Garlic Onions, shallots and Onions garlic other than dry, Shallots spring onions: whole Spring onions product after removal of roots and soil (if any)
+Onions (dry), shallots (dry), whole product after garlic(dry) removal of easily detachable skin and soil (if any).
+(iii) FRUITING a) Solanacea Whole product after Tomatoes removal of VEGETABLES
+Peppers stems
+(b) Cucurbits - edible peel
+Cucumbers Gherkins Courgettes
+(c) Cucurbits - inedible peel
+Melons Squashes Watermelons
+(d) Sweet corn Kernels or cobs without husks
+(iv) BRASSICA (a) Flowering brassicas Curd only VEGETABLES Broccoli
+Cauliflower
+(b) Head brassicas Product after removal Brussels sprouts of decayed Head cabbage Leaves (if any)
+(c) Leafy brassicas Product after removal Chinese cabbage of decayed Kale leaves (if any)
+(d) Kohlrabi Whole product after removal of tops and adhering soil by rinsing in running water or by gentle brushing of the dry product
+(v) LEAF VEGETABLES (a) Lettuce and similar Whole product after AND Cress removal of FRESH HERBS Lamb's lettuce decayed outer leaves, Lettuce root and Broad-leaf endive soil (if any)
+(b) Spinach and similar
+Beat leaves (chard)
+(c) Watercress
+(d) Witloof
+(e) Herbs Chervil Chives Parsley
+(vi) LEGUME Beans Whole product after VEGETABLES Peas removal of (FRESH) pods or with pods if they are intended to be eaten
+(vii) STEM VEGETABLES Asparagus Whole product after Cardoons removal of Celery decayed tissue and soil Fennel (if any);
+Globe artichokes leeks and fennel: Leeks whole product after removal of roots Rhubarb and soil (if any) 3. CEREALS
+Wheat Whole product Rye Barley Oats Maize Rice Grain sorghum Buckwheat, Millet other cereals Maximum Residue Levels
+(Regulation 2)
+Methods of Sampling Produce of Plant Origin for the Determination of Pesticide Residues
+for Checking Compliance With MRLs
+(Regulation 4)
+1. OBJECTIVE
+Samples intended for the official control of the levels of pesticide residues in and on fruit,
+vegetables and cereals shall be taken according to the methods described below. The objective of
+these sampling procedures is to enable a representative sample to be obtained from a lot for
+analysis to determine compliance with maximum residue levels (MRLs) for pesticides
+established in the Schedule II and, in the absence of National MRLs and European Community
+harmonized MRLs, with other MRLs such as those established by or the Codex Alimentarius
+Commission. The methods and procedures laid down in this Schedule incorporate those
+recommended by the Codex Alimentarius Commission.
+2. PRINCIPLES
+National MRLs are based on good agricultural practice data and raw commodities as well as
+foods derived from them that comply with the MRLs are intended to be toxicologically
+acceptable. MRLs for plant produce apply to a composite bulk sample derived from one to ten
+primary samples.
+3.1 Analytical portion
+A representative quantity of material removed from the analytical sample, of proper size for
+measurement of the residue concentration. A sampling device may be used to withdraw the
+analytical portion.
+3.2 Analytical sample
+The material prepared for analysis from the laboratory sample, by separation of the portion of
+the product to be analysed and then by mixing, grinding, fine chopping, and other processes for
+the removal of analytical portions with minimal sampling error. Preparation of the analytical
+sample must reflect the procedure used in setting MRLs and thus the portion of the product to be
+analysed may include parts that are not normally consumed.
+3.3 Bulk sample/Aggregate sample
+The combined and well-mixed aggregate of the primary samples taken from a lot.
+(a) The primary samples must contribute sufficient material to enable all laboratory samples
+to be withdrawn from the bulk sample.
+(b) Where separate laboratory samples are prepared during collection of the primary
+sample(s), the bulk sample is the conceptual sum of the laboratory samples, at the time
+of taking the samples from the lot.
+The sample sent to, or received by, the laboratory. A representative quantity of material removed
+from the bulk sample.
+(a) The laboratory sample may be the whole or a part of the bulk sample.
+(b) Units should not be cut or broken to produce the laboratory sample(s), except where
+subdivision of units is specified in Table 2.
+(c) Replicate laboratory samples may be prepared.
+3.5 Lot
+A quantity of a food material delivered at one time and known, or presumed, by the sampling
+officer to have uniform characteristics such as origin, producer, variety, packer, type of packing,
+markings, consignor etc. A suspect lot is one which, for any reason, is suspected to contain an
+excessive residue. A non-suspect lot is one for which there is no reason to suspect that it may
+contain an excessive residue.
+(a) Where a consignment is comprised of lots which can be identified as originating from
+different growers, each lot should be considered separately.
+(b) A consignment may consist of one or more lots.
+(c) Where the size or boundary of each lot in a large consignment is not readily established,
+each one of a series of wagons, lorries, ships bays, etc., may be considered to be a
+separate lot.
+(d) A lot may be mixed by grading or manufacturing processes, for example.
+One or more units taken from one position in a lot.
+(a) The position from which a primary sample is taken in the lot should preferably be
+chosen randomly but, where this is physically impractical, it should be from a random
+position in the accessible parts of the lot.
+(b) The number of units required for a primary sample should be determined by the
+minimum size and number of laboratory samples required.
+(c) Where more than one primary sample is taken from a lot, each should contribute an
+approximately similar proportion to the bulk sample.
+(d) Units may be allocated randomly to replicate laboratory samples at the time of collecting
+the primary sample(s), in cases where the units are of medium or large size and mixing
+the bulk sample would not make the laboratory sample(s)more representative, or where
+the units (e.g. soft fruit) could be damaged by mixing.
+(e) Where primary samples are taken at intervals during loading or unloading of a lot, the
+sampling "position" is a point in time.
+(f) Units should not be cut or broken to produce the primary sample(s), except where
+subdivision of units is specified in Table 1.
+3.7 Sample
+One or more units selected from a population of units, or a portion of material selected from a
+larger quantity of material. For the purposes of these recommendations, a representative sample content and not necessarily in respect of other attributes.
+3.8 Sampling
+The procedure used to draw and constitute a sample.
+3.9 Sampling device
+(a) A tool such as a scoop, dipper, borer, knife or spear, used to remove a unit from bulk
+material, from packages which are too large to be taken as primary samples, or
+(b) A tool such as a riffle box, used to prepare a laboratory sample from a bulk sample, or to
+prepare an analytical portion from an analytical sample.
+(i) Specific sampling devices are described by ISO (a) (b) (c) standards as
+detailed in 4.2 below.
+(ii) For materials such as loose leaves, the hand of the sampling officer may be
+considered to be a sampling device.
+3.10 Sampling officer
+A person trained in sampling procedures and, where required, authorised by the appropriate
+authorities to take samples. The sampling officer is responsible for all procedures leading to and
+including preparation, packing and shipping of the laboratory sample(s). The officer must
+understand that consistent adherence to the specified sampling procedures is necessary, must
+provide complete documentation for samples, and should collaborate closely with the laboratory. The number of units, or quantity of material, constituting the sample.
+3.12 Unit
+The smallest discrete portion in a lot, which should be withdrawn to form the whole or part of a
+primary sample. Units should be identified as follows.
+(a) Fresh fruit and vegetables: Each whole fruit, vegetable or natural bunch of them should
+form a unit, except where these are small. Units of packaged small produce may be
+identified as in (b) below. Where a sampling device may be used without damaging the
+material, units may be created by this means. Individual fresh fruit or vegetables, or
+cereals must not be cut or broken to produce units. Where packaged, units may be
+identified as in (b), below. Where a sampling device may be used without affecting
+residues, units may be created by this means.
+(b) Packaged materials: The smallest discrete packages should be taken as units. Where the
+smallest packages are very large, they should be sampled as bulk, as in (c) below. Where
+the smallest packages are very small, a pack of packages may form the unit.
+(c) Bulk materials and large packages which are individually too large to be taken as
+primary samples: The units are created with a sampling device.
+4. SAMPLING PROCEDURES
+4.1 Precautions to be taken
+Contamination and deterioration of samples must be prevented at all stages, because they may
+affect the analytical results. Each lot to be checked for compliance must be sampled separately. Each primary sample should be taken from a randomly chosen position in the lot, as far as
+practicable. The primary samples must consist of sufficient material to provide the laboratory
+sample(s) required from the lot. Sampling devices required for grain (a), pulses (b) and tea (c)
+are described in ISO recommendations as outlined below:
+(a) International Organisation for Standardisation, 1979. International standard ISO 950:
+Cereals - sampling (as grain).
+(c) International Organisation for Standardisation, 1979. International standard ISO 951:
+Pulses in bags - sampling.
+(c) International Organisation for Standardisation, 1979. International standard ISO 951:
+Pulses in bags - sampling.
+4.3 Preparation of the bulk sample
+The procedures for preparation of the bulk sample are described in Table 1 below. The primary
+samples should be combined and mixed well, if practicable, to form the bulk sample.
+Where mixing to form the bulk sample is inappropriate or impractical, the following alternative
+procedure may be followed. Where units may be damaged (and thus residues may be affected)
+by the processes of mixing or subdivision of the bulk sample, or where large units cannot be
+mixed to produce a more uniform residue distribution, the units should be allocated randomly to
+replicate laboratory samples at the time of taking the primary samples. In this case, the result to
+be used should be the mean of valid results obtained from the laboratory samples analysed. MINIMUM NUMBER OF PRIMARY SAMPLES TO BE TAKEN FROM A LOT Produce of Plant Origin Minimum number of primary samples to be taken from the lot Produce, packaged or in bulk, which can be assumed to be well mixed or homogeneous (A lot may be mixed by grading or manufacturing processes, for example) Produce, packaged or in bulk, which may not be well For produce comprised of large mixed or homogeneous units, being primary food commodities of plant origin only, the minimum number of primary samples should comply with the minimum number of units required for the laboratory sample (see Table 2) either:
+Weight of lot:
+< 50 Kg 50-500 Kg > 500 Kg
+or:
+Number of cans, cartons or other 1-25 containers in 26-100 the lot > 100
+PRIMARY FOOD COMMODITIES OF PLANT ORIGIN:
+DESCRIPTION OF PRIMARY SAMPLES AND MINIMUM SIZE OF LABORATORY
+SAMPLES
+Commodity Nature of primary Minimum size of each classification sample to be laboratory sample
+taken
+1.1 Whole units, or Small sized fresh produce 1kg
+packages, or units taken units generally <25 g
+with a sampling device
+1.2 Whole units Medium sized fresh produce, 1kg units generally 25 to 250 g 1.3 Whole unit(s) Large sized fresh produce, 2kg units generally >250 g (at least 5 units) 2. Whole unit(s) Pulses 1kg
+Whole unit(s) Cereal grains 1kg Whole unit(s) Tree nuts: Except coconuts 1kg Whole units Tree nuts : coconuts 5 units Whole units Oilseeds 0,5 kg Whole units Seeds for beverages and 0,5 kg sweets 3. Whole units Fresh Herbs: other than fresh 0,2 kg parsley
+Whole units Fresh Herbs: parsley 0,5 kg
+(1) EC classification of foods: Annex I to Directive 86/362/EEC and Annex I to Directive 86/363/EEC, both as amended by Directive 93/57/EC (OJ L 211, 23.8.1993, p. 1) and Annex I to Directive 90/642/EEC, as amended by Directive 95/38/EC (OJ L 197, 22.8.1995, p. 14).
+Where the bulk sample is larger than is required for a laboratory sample, it should be divided to
+provide a representative portion. A sampling device, quartering, or other appropriate size
+reduction process may be used but units of fresh plant produce should not be cut or broken.
+Where required, replicate laboratory samples should be withdrawn at this stage or they may be
+prepared using the alternative procedure described above. The minimum sizes required for
+laboratory samples are given in Table 2 above.
+4.5. Sampling record
+The sampling officer must record the nature and origin of the lot; the owner, supplier or carrier
+of it; the date and place of sampling; and any other relevant information. Any departure from the
+recommended method of sampling must be recorded. A signed copy of the record must
+accompany each replicate laboratory sample and a copy should be retained by the sampling
+officer. A copy of the sampling record should be given to the owner of the lot, or a
+representative of the owner, whether or not they are to be provided with a laboratory sample. If
+sampling records are produced in computerised form, these should be distributed to the same
+recipients and a similar verifiable audit trail maintained.
+4.6. Packaging and transmission of the laboratory sample
+The laboratory sample must be placed in a clean, inert container which provides secure
+protection from contamination, damage and leakage. The container should be sealed, securely
+labelled and the sampling record must be attached. Where a bar code is utilised, it is
+recommended that alphanumeric information is also provided. The sample must be delivered to
+the laboratory as soon as practicable. Spoilage in transit must be avoided.
+The laboratory sample should be given a unique identifier which, together with the date of
+receipt and the sample size, should be added to the sample record. The part of the commodity to
+be analysed i.e. the analytical sample, should be separated as soon as practicable. Where the
+residue level must be calculated to include parts which are not analysed, the weights of the
+separated parts must be recorded.
+4.8. Preparation and storage of the analytical portion
+The analytical sample should be comminuted, if appropriate, and mixed well, to enable
+representative analytical portions to be withdrawn. The size of the analytical portion should be
+determined by the analytical method and the efficiency of mixing. The methods for comminution
+and mixing should be recorded and should not affect the residues present in the analytical
+sample. Where appropriate, the analytical sample should be processed under special conditions
+e.g. at sub-zero temperature, to minimise adverse effects. Where processing could affect residues
+and where practical alternative procedures are not available, the analytical portion may consist of
+whole units, or segments removed from whole units. If the analytical portion thus consists of few
+units or segments, it is unlikely to be representative of the analytical sample and sufficient
+replicate portions must be analysed, to indicate the uncertainty of the mean value. If analytical
+portions are to be stored before analysis, the method and length of time of storage should be such
+that they do not affect the level of residues present. Additional portions must be withdrawn for
+replicate and confirmatory analyses, as required.
+5. CRITERIA FOR DETERMINING COMPLIANCE
+Analytical results must be derived from one or more laboratory samples taken from the lot and
+received in a fit state for analysis. The results must be supported by acceptable quality control
+data. Where a residue is found to exceed a MRL, its identity should be confirmed and its from the original laboratory sample(s).
+The MRL applies to the bulk sample.
+The lot complies with a MRL where the MRL is not exceeded by the analytical result(s).
+Where results for the bulk sample exceed the MRL, a decision that the lot is non-compliant must
+take into account the:
+(a) results obtained from one or more laboratory samples, as applicable, and
+(b) accuracy and precision of analysis, as indicated by the supporting quality control data.
