@@ -1,0 +1,1 @@
+# L.N. 92 of 2003: Bachelor of Arts (Tourism Studies) - B.A. (Tourism Studies) - and Bachelor of Arts (Honours)(Tourism Studies) - B.A. (Hons) (Tourism Studies) - Degree Course (Amendment) Regulations, 2003
