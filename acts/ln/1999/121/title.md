@@ -1,0 +1,1 @@
+# L.N. 121 of 1999: Directive by the Minister of Finance for the Conversion into Lm16,500,000 5.6% Malta Government (Conversion) Stock 2005 (Second Issue) from Lm9,000,000 6.3% Malta Government Stock 1999 (Third Issue) and Lm7,500,000 6.3% Malta Government Stock (Fourth Issue)
