@@ -1,0 +1,1 @@
+# L.N. 92 of 1997: Industrial Development (Amendment) Act, 1997 (Act No. XI of 1997) and Industrial Development (Exercise of Corporation's Functions) Act, 1997 (Act No. XV of 1997): Notice of coming into force
