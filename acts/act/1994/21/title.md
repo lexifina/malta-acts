@@ -1,0 +1,2 @@
+# Act XXI of 1994: Insider Dealing Act, 1994
+TIlE INSIDER DEALING ACT, 1994
