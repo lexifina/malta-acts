@@ -1,0 +1,17 @@
+## SCHEDULE
+## _______________________________________________________________________________________________________________________ Ippubblikat mid-Dipartiment ta' l-Informazzjoni (doi.gov.mt) - Valletta - Published by the Department of Information (doi.gov.mt) - Valletta
+## Prezz 16ç - Price 16c
+# schedule
+Regulation 4(4)
+Declaration In Lieu of Tax Return In Respect of a Licensed Shipping Organisation
+Name of Licensed Shipping Organisation Name of Ship Official Number Declaration made by Year of assessment
+(1) I the undersigned do solemnly declare that I have ascertained to the best of my ability that the above mentioned licensed shipping organisation is the owner#operator#manager#administrator (1) of the above mentioned ship which is a tonnage tax ship under the provisions of the Merchant Shipping (Taxation And Other Matters Relating To Shipping Organisations) Regulations, 2004, and that the objects of the licensed shipping organisation limit its operations to shipping activities as listed in article 84Z (1) of the Merchant Shipping Act, and that the licensed shipping organisation qualifies for the concessions granted by the said regulations for the period commencing _______________ and ending_______________ and that the relative registration fees and tonnage taxes as applicable for this period have been paid.
+(1) (2) I the undersigned solemnly declare that the above mentioned licensed shipping organisation is not yet#no longer (1) an owner#operator#manager#administrator (1) of a tonnage tax ship pursuant to the Merchant Shipping (Taxation And Other Matters Relating To Shipping Organisations) Regulations, 2004 but the objects of the licensed shipping organisation limit its operations to the shipping activities mentioned in article 84Z(1) of the Merchant Shipping Act, and the licensed shipping organisation qualifies for the concessions granted by the said regulations for the period commencing
+and tonnage taxes for this period have been paid.
+(1) I also declare that I have ascertained to the best of my ability that the licensed shipping organisation has not engaged in any business other than the ownership and, or, operation and, or, management and, or, administration of tonnage tax ships and that during any period not covered by the above mentioned dates the licensed shipping organisation has not traded and has not had any income which would not be exempted under the said regulations.
+(1) I also declare that the licensed shipping organisation has other objects which are not shipping activities as contemplated by article 84Z(1) of the Merchant Shipping Act, apart from the shipping activities so contemplated. I understand that the concessions applicable under the Act and the regulations do not apply in this case and that a full tax return will be submitted in relation to income which is both income arising from shipping activities and income which is not income arising from shipping activities.
+I finally declare that to the best of my knowledge the licensed shipping organisation does not stand to lose any of the concessions granted nor has it waived any of the said concessions under the regulations and the Act.
+I make this declaration in full knowledge of the consequence of false declarations under Maltese law.
+Signature Identity Document No Status Date
+Delete as necessary.
+Where the licensed shipping organisation does not yet or, no longer owns, operates, manages or administers a ship, a statement to that effect shall be made.
