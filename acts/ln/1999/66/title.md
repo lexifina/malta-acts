@@ -1,0 +1,1 @@
+# L.N. 66 of 1999: Directive by the Minister of Finanace for the Conversion into Lm10,000,000 5.9% Malta Government (Conversion) Stock 2007 (Second Issue) from Lm10,000,000 6% Malta Government Stock 1999 (First Issue).
