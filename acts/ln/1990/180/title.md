@@ -1,0 +1,1 @@
+# L.N. 180 of 1990: Regulations for the degree of Bachelor of Arts in Socio-Legal Studies - B.A. (Socio-Legal Studies) and for the Diploma of Legal Procurator (L.P.) - (applicable to courses starting in January 1987 or later)
