@@ -1,0 +1,15 @@
+## SCHEDULE 9
+# schedule-9
+(Article 62 (2))
+Air TratrlC Controllers: Ratings
+I. The holder of a licence which includes ratings of two or more of the classes specified in paragraph 2 of this Schedule shall not at anyone time perform the (unctions specified in respect of more than onc ofth~ ratings:
+Provided that the functions of anyone of the following groups of ratings may be exercised at the same time:
+(a) The Aerodrome Control Rating and Ihe Approach Control Rating;
+(b) The Approach Control Rating and the Approach RadarControl Rating; except that the functions of the Approach Control Rating shall not be exercised at the same time as the functionsofthe Approach RadarCantrol Rating if the service being provided under the latter is a surveillance radar approach terminating at a poim less than 2 nautical miles from the poinT of intersection of The glide path wiTh the runway:
+(c) The Area Control Rating and the Area Radar ConTrol Rating.
+2. Ratings of the following classes may be included in an air traffic controller's licence (other lhall a student air traffic controller's licence) granted under Article 62 of the Order and subject to the provisions of this Order and oflhe licence, the inclusion of a rating in a licence shall have the consequences respectively specified as follows:
+(\) Aerodrome Control Rating shall entitle the holder of the licence. al any aerodrome for which the rating is valid. to provide air traffic control service (but not with any type of radar equipment for which a radar control rating is required under this paragraph) for any aircraft on the manoeuvring area or apron of that aerodrome or which is flying in the vicinity of the aerodrome traffic zone by visual reference to the surface or which is continuously visible from the aeroorome control position,
+(2) Approach Control Rating shall entitle the holder of the licence. at any aerodrome for which the rating is valid, to provide air traffic control service (but not with any type of radar equipment for which a radar control rating is required under this paragraph) for any aircraft which is flying in the vicinity of the aerodrome traffic zone whether or not it is flying by visual reference to the surface.
+(3) Approach Radar Control Rating shall in addition to the privileges of the Approach Control Rating emitle the holder of the licence. al any aerodrome for which the rating is valid, to provide air traffic control service with the aid of any type of surveillance radar equipment for which the rating is valid for any aircraft it is flying within 40 nautical miles of the aerodrome traffic ZOne whether or not it is flying by visual reference to the surface.
+(4) Area Control Rating shall entitle the holder 01 the licence. at any place for which the rating is valid, to provide air traffic control servicc within control arcas without the aid of any surveillance radar equipment.
+(5) Area Radar Control Rating shalt entitle the holder of the licence, at any place for which the rating is valid. to provide air traffic control service within control areas with the aid of any type of surveillance radar equipment for which the rating is valid.
