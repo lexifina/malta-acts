@@ -1,0 +1,1 @@
+# L.N. 179 of 1999: Directive by the Min ister of Finance for the Conversion into Lm15,000,000 5.9% Malta Government (Conversion) Stock 2010 (First Issue) from Lm15,000,000 6% Malta Government Stock 1999 (Second Issue)
