@@ -1,0 +1,1 @@
+# L.N. 233 of 1998: Bachelor of Science - B.Sc. - and Bachelor of Science (Honours) - B.Sc. (Hons) - in Informatics, Computer Science and Computer Systems Engineering Degree Course (Amendment) Regulations
