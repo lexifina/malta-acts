@@ -1,0 +1,6 @@
+# L.N. 356 of 2004: Fees (Passport and Visas) (Amendment) Regulations, 2004
+L.N. 356 of 2004
+FEES ORDINANCE
+(CAP. 35)
+Fees (Passport and Visas) (Amendment) Regulations, 2004
+IN exercise of the powers conferred by article 2 of the Fees Ordinance, the Deputy Prime Minister and Minister of Justice and Home Affairs with the concurrence of the Prime Minister and Minister of Finance, has made the following regulations:-
