@@ -1,0 +1,2 @@
+# Act XV of 1993: Local Councils Act, 1993
+lTJ1.£, COMMENCEMENT AND INTERPRETATION
