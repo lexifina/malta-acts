@@ -1,0 +1,1 @@
+# L.N. 73 of 2000: Bachelor of Science in Information Technology - B.Sc. I.T. - and Bachelor of Science in Information Technology (Honours) - B.Sc. I.T. (Hons) - Degree Course (Amendment) Regulations, 2000
