@@ -1,0 +1,9 @@
+# L.N. 297 of 2004: Publication of a Further Provision (Number No. 2 of 2004) to a Directive by the Malta communications Authority
+L.N. 297 of 2004
+TELECOMMUNICATIONS (REGULATION) ACT
+(CAP. 399)
+Publication of a Further Provision (Number No. 2 of 2004) to a Directive by the Malta Communications Authority
+THE Malta Communications Authority (hereinafter referred to as "the Authority") is hereby publishing the following Further Provision (Number 2 of 2004) to the Directive published on the 14th October, 2003 by means of Legal Notice 303 of 2003 for the purposes of article 4(5) of the Telecommunications (Regulation) Act, of the Telecommunications Services (General) Regulations, 2000, and of the Internet and Other Data Networks (Service Providers) Regulations, 1999.
+"Further Provision (Number 2 of 2004) to the Directive by the Malta Communications Authority published on the 14th October, 2003 by means of Legal Notice 303 of 2003.
+Further to article 3 of its Directive of the 14th October 2003 published by means of Legal Notice 303 of 2003, the Malta Communications Authority, whereby the Authority stated that access to any internet access service, however so described, must be made only by using 2188XXXX or 2186XXXX or as otherwise stipulated by the Authority, the Authority hereby stipulates that access to any internet access service however so described may also be made through freephone numbers as allocated in the National Numbering Plan.
+In doing so the Authority considers that Internet Service Providers may wish to utilise a payment scheme that involves freephone calls for access to their services. Under such a scheme the user may access the service without incurring the call charge. The Authority further considers that it is important for the person making the call to know that a freephone number is being accessed, therefore necessitating the use of an "80X" prefix to identify the use of a freephone service."
