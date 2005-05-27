@@ -1,0 +1,11 @@
+# L.N. 163 of 2005: Bye-Laws of 2005 amending the Bye-Laws for the Degree of Bachelor of Science (Business and Computing) - B.Sc. (Bus. & Comp.) - under the auspices of the Faculty of Economics, Management and Accountancy
+L.N.163 of 2005
+EDUCATION ACT
+(CAP. 327)
+Bye-Laws of 2005 amending the Bye-Laws
+for the Degree of Bachelor of Science (Business and Computing)
+- B.Sc. (Bus. & Comp.) -
+under the auspices of the Faculty of Economics, Management and Accountancy
+IN exercise of the powers conferred upon him by sections 30(5) and 31(6) of the Education Act (Cap. 327), the Chancellor of the University of Malta has promulgated the following bye-laws made by the Board of the Faculty of Economics, Management and Accountancy in virtue of the powers conferred upon it by section 37 (1) of the said Act and which have been approved by the Senate of the University of Malta as required by section 37
+(2) of the said Act:
+Citation
