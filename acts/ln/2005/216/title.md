@@ -1,0 +1,1 @@
+# L.N. 216 of 2005: Bye-Laws of 2005 in terms of the General Regulations for University Undergraduate Awards, 2004 for the Degree of Bachelor of Documentation Studies (Honours) - B.Doc. (Hons) - under the auspices of the Institute for Conservation and Restoration Studies
