@@ -1,0 +1,5 @@
+## SCHEDULE III
+# schedule-iii
+CONTRACTING ENTITIES IN THE SECTORS OF PRODUCTION, TRANSPORT OR DISTRIBUTION OF DRINKING WATER
+1. Water Services Corporation
+2. Water Desalination Services
