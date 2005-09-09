@@ -1,0 +1,4 @@
+## SCHEDULE A
+# schedule-a
+MALTA NATIONAL REFERENCE LABORATORY FOR DISEASES OF BIVALVE MOLLUSCS
+ISTITUTO ZOOPROFILATTICO SPERIMENTALE DELLE VENEZIE, Area Ittiopatologia Laboratorio Patologia Molluschi, Via della Roggia, 94 I-33030 Basaldella di Campoformido (UD) Italy.
