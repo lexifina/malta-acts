@@ -1,0 +1,13 @@
+## SECOND SCHEDULE
+## Vote Amount
+## Lm
+## _______________________________________________________________________________________________________________________ Ippubblikat mid-Dipartiment ta' l-Informazzjoni (doi.gov.mt) - Valletta - Published by the Department of Information (doi.gov.mt) - Valletta
+## Prezz 16ç - Price 16c
+# second-schedule
+19. Ministry of Finance ...................................................................
+49. Public Debt Servicing ................................................................
+III. Ministry of Finance ...................................................................
+Total Schedule …………………………
+Passed by the House of Representatives at Sitting No. 329 of 18th November, 2005.
+ANTON TABONE Speaker
+RICHARD J. CAUCHI Clerk to the House of Representatives
