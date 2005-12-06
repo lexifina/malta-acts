@@ -1,0 +1,7 @@
+# L.N. 400 of 2005: Investment Services Act (Control of Assets) (Amendment) (No. 2) Regulations, 2005
+L.N. 400 of 2005
+INVESTMENT SERVICES ACT
+(CAP. 370)
+Investment Services Act(Control of Assets) (Amendment)
+(No. 2) Regulations, 2005
+IN exercise of the powers conferred by article 12 of the Investment Services Act, the Prime Minister and Minister of Finance, acting on the advice of the Malta Financial Services Authority, has made the following regulations>-
