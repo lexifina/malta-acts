@@ -1,0 +1,5 @@
+## SCHEDULE
+# schedule
+(Section 3)
+2006 2007 2008 2009 2010
+Attorney General Lm13,697 Lm14,102 Lm14,847 Lm15,610 Lm16,392
