@@ -1,0 +1,9 @@
+## SCHEDULE 2
+## 2For products authorised by the mutual recognition procedure/decentralised procedure (Malta Reference Member State) there is a 20% additional fee to the national fee. The variations for products that were authorised during the transitional arrangement and their line extensions are included in the annual fee, provided that the variation is already approved in another European Union/European Economic Area country. 3For type 1A and 1B variation applications a bulk 'discount' applies where a number of simultaneous applications are made for identical variations. The first of those applications is charged at the full rate shown above and second and subsequent applications are charged at 50%. 4Variations to change the strain in viral vaccines are charged at 35% of the fees shown for type 2 complex variations. The reduction in fee to change the strain in viral vaccines will not apply when Malta is the reference member state in a mutual recognition/decentralised procedure. 5For type 2 variation applications a bulk 'discount' applies where a number of simultaneous applications are made for identical variations. The first of those applications is charged at the full rate shown above and second and subsequent applications are charged at 50%.
+# schedule-2
+(Regulation 3)
+VARIATION FEES PER PRODUCT
+Fee Variation Type Lm National² Type I
+Change in the name and, or address of the marketing authorisation holder Change in the name of the medicinal product Change in name of the active substance Change in the name and, or address of a manufacturer of the active substance where no European Pharmacopoeia certificate of suitability is available Change in the name and, or address of a manufacturer of the finished product Type I (Other) National
+All other Type IA3 All other Type IB3 Type II4 National
+Type II Simple5 Type II Complex5
