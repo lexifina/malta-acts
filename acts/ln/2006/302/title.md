@@ -1,0 +1,1 @@
+# L.N. 302 of 2006: Bye-Laws of 2006 to amend the Bye-Laws of 2005 in terms of the General Regulations for University of Undergraduate Awards, 2004 for the Degree of Bachelor of Engineering (Honours) - B.Eng. (Hons) under the auspices of the Faculty of Engineering
