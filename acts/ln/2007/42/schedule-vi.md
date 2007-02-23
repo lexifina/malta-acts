@@ -1,0 +1,76 @@
+## SCHEDULE VI
+# schedule-vi
+1. The provisions referred to in regulation 8(1) shall be:
+- use as animal feed after heat treatment such that there is no risk of the organism surviving, or
+- disposal at an officially approved dedicated waste disposal site at which there is no identifiable risk of escape of the organism into the environment e.g. through seepage to agricultural land or contact with water sources which could be used for irrigation of agricultural land, or
+- incineration, or
+- industrial processing through direct and immediate delivery to a processing plant with officially approved waste disposal facilities for which it has been established that there is no identifiable risk of the organism spreading, and with a system of cleansing and disinfection of at least the departing vehicles, or
+- other measures, provided that it has been established that there is no identifiable risk of the organism spreading; such measures and their justification to be notified to the Commission and to the other Member States.
+Any remaining waste associated with and arising from the above options shall be disposed of by officially approved methods in accordance with Schedule VII.
+2. The appropriate use or disposal of the listed plant material referred to in regulation 8(2), under the control of the responsible official bodies of the Plant Health Department concerned, with appropriate communication between responsible official bodies to ensure such control at all times and approval by the responsible official body of the area where the potatoes are to be packed or processed in respect of the waste disposal facilities referred to in the first and second indents, shall be:
+(i) for potato tubers,
+- use as ware potatoes intended for consumption, packed ready for direct delivery and use without repacking, on a site with appropriate waste disposal facilities. Potatoes intended for planting may only be handled at the same site, if this is done separately or after cleansing and disinfection, or
+- use as ware potatoes intended for industrial processing, and intended for direct and immediate delivery to a processing plant with appropriate waste disposal facilities and a system of cleansing and disinfection of at least the departing vehicles, or
+- some other use or disposal, provided that it is established that there is no identifiable risk of the organism spreading and subject to approval by the said responsible official bodies;
+(ii) for other plant parts including stem and foliage debris,
+- destruction, or
+- some other use or disposal, provided that it is established that there is no identifiable risk of the organism spreading; and subject to approval by the said responsible official bodies.
+3. The appropriate methods for decontamination of the objects referred to in regulation 8(3) shall be cleansing and, where appropriate, disinfection, such that there is no identifiable risk of the organism spreading and shall be employed under the supervision of the responsible official bodies of the Plant Health Department.
+4. The series of measures to be implemented by the Plant Health Department within the demarcated zone(s) established under regulation 7(1)(a)(iv) and (c)(iii) and referred to in regulation 8(4) shall include:
+4.1. In cases where places of production have been designated as contaminated under regulation 7(1)(a)(ii):
+(a) in a field or unit of protected crop production designated to be contaminated under regulation 7(1)(a)(ii), either -
+(i) during at least the four growing years following the designated contamination,
+- measures shall be taken to eliminate volunteer potato and tomato plants as well as other host plants of the organism including solanaceous weeds, and
+- the following shall not be planted:
+- potato tubers, plants or true seeds,
+- tomato plants and seeds,
+- taking into account the biology of the organism,
+- other host plants,
+- plants of species of Brassica, for which there is an identified risk of the organism surviving, - crops for which there is an identified risk of the organism spreading;
+- in the first potato or tomato cropping season following the period specified in the preceding indent, and on the condition that the field has been found free from volunteer potato and tomato plants and other host plants including solanaceous weeds during official inspections for at least the two consecutive growing years prior to planting,
+- in the case of potatoes, only ware potato production shall be allowed,
+- in the case of potatoes and tomatoes, the harvested potato tubers, or the tomato plants, as appropriate, shall be tested according to the procedure detailed in Schedule II;
+- in the potato or tomato cropping season succeeding that referred to in the previous indent and following an appropriate rotation cycle, which shall be at least two years if seed potatoes are to be grown, an official survey as detailed in regulation 3 shall be conducted; or
+(ii) during the five growing years following that of the designated contamination,
+- measures shall be taken to eliminate volunteer potato and tomato plants as well as other naturally found host plants of the organism including solanaceous weeds, and
+- the field shall be established and maintained during the first three years either, in bare fallow or, in cereals according to the risk identified, or, in permanent pasture with frequent close cutting or intensive grazing or, as grass for seed production, followed by planting in the succeeding two years with non-host plants of the organism for which there is no identified risk of the organism surviving or spreading,
+- in the first potato or tomato cropping season following the period specified in the preceding indent, and on the condition that the field has been found free from volunteer potato and tomato plants and other host plants including solanaceous weeds during official inspections for at least the two consecutive growing years prior to planting,
+- in the case of potatoes, seed or ware potato production shall be allowed, - the harvested potato tubers, or the tomato plants, as appropriate, shall be tested according to the procedure detailed in Schedule II;
+(b) in all other fields of the contaminated place of production and on the condition that the responsible official bodies are satisfied that the risk of volunteer potato plants and tomato plants and other naturally found host plants of the organism including solanaceous weeds as appropriate have been eliminated:
+- in the growing year following that of the designated contamination,
+- either no potato tubers or plants or true seeds, or
+other host plants of the organism shall be planted, or
+- in the case of potato tubers, certified seed potatoes
+may be planted for ware production only,
+- in the case of tomato plants, tomato plants grown from seed which meets the requirements of Directive 2000/
+29/EC may be planted for fruit production only;
+- in the second growing year following that of the designated contamination,
+- in the case of potatoes, only certified seed potatoes or seed potatoes officially tested for the absence of brown rot and grown under official control on places of production other than those referred to in paragraph 4.1 shall be planted for either seed or ware production,
+- in the case of tomatoes, only tomato plants grown from seed which meets the requirements of Directive 2000/ 29/EC or, if vegetatively propagated, from tomato plants produced from such seed and grown under official control on places of production other than those referred to in paragraph 4.1, shall be planted for either plant or fruit production;
+- for at least in the third growing year following that of the designated contamination,
+- in the case of potatoes, only certified seed potatoes or seed potatoes grown under official control from certified seed potatoes shall be planted for either seed or ware production,
+- in the case of tomatoes, only tomato plants grown from seed which meets the requirements of Directive 2000/ 29/EC or tomato plants grown under official control from such plants shall be planted for either plant or fruit production;
+- in each of the growing years referred to in the previous indents, measures shall be taken to eliminate volunteer potato plants and other naturally found host plants of the organism if present and, an official inspection of the growing crop at appropriate times shall be conducted and in each potato field, official testing of the harvested potatoes shall be conducted according to the procedure detailed in Schedule II;
+(c) immediately following the designation of contamination under regulation 7(1)(a)(ii) and after the first subsequent growing year:
+- all machinery and storage facilities on the place of production and involved in potato or tomato production shall be cleansed and, where appropriate, disinfected using appropriate methods, as specified in point 3,
+- official controls on irrigation and spraying programmes, including a ban thereof, shall be introduced as appropriate in order to prevent the spread of the organism;
+(d) in an unit of protected crop production designated as contaminated under regulation 7(1)(a)(ii) where complete replacement of the growing medium is possible,
+- no potato tubers, plants or true seeds, or other host plants of the organism including tomato plants and seeds shall be planted unless the production unit has been subjected to officially supervised measures to eliminate the organism and to remove all host plant material, including, at least, a complete change in growing medium and cleansing and, where appropriate, disinfection of the said unit and all equipment, and subsequently has been granted approval for potato or tomato production by the responsible official bodies, and
+- for potato production, this production shall be from certified seed potatoes, or from mini-tubers or microplants derived from tested sources,
+- for tomato production, this production shall be from seed which meets the requirements of Directive 2000/29/EC or, if vegetatively propagated, from tomato plants produced from such seed and grown under official control, - official controls on irrigation and spraying programmes, including a ban thereof, shall be introduced as appropriate, in order to prevent the spread of the organism;
+4.2. Within the demarcated zone, without prejudice to the measures detailed under paragraph 4.1, the Plant Health Department shall:
+(a) immediately following the designated contamination ensure that all machinery and storage facilities on such premises and involved with potato or tomato production be cleansed and disinfected, as appropriate, and using appropriate methods, as specified in paragraph 3,
+(b) immediately, and for at least three growing years following the designated contamination:
+(ba) in cases where the demarcated zone has been determined under regulation 7(1)(a)(iv),
+- ensure supervision by their responsible official bodies of premises growing, storing or handling potato tubers or tomatoes, together with premises which operate machinery
+for potato or tomato production under contract,
+- require the planting of only certified seed or seed grown under official control for all potato crops within that zone, and testing after harvest of seed potato crops grown in places of production determined as probably contaminated under regulation 7(1)(a)(iii),
+- require the separate handling of harvested seed potato stocks to those of ware on all premises within the zone, or a system of cleansing and, where appropriate, disinfection to be carried out between the handling of seed and ware stocks,
+- require the planting of only tomato plants grown from seed which meets the requirements of Directive 2000/ 29/EC or, if vegetatively propagated, from tomato plants produced from such seed and grown under official control,
+for all tomato crops within that zone,
+- conduct an official survey as detailed in regulation 3;
+(bb) in cases where surface water has been designated as contaminated under regulation 7(1)(c)(ii) or included in the elements for the possible spread of the organism in accordance with Schedule V, point 2, - conduct an annual survey at appropriate times including sampling of surface water and where appropriate solanaceous host plants in the relevant water sources and testing in accordance with the relevant methods set out in Schedule II for the listed plant material and for other cases,
+- introduce official controls on irrigation and spraying programmes, including a ban on the use of the water designated as contaminated for the irrigation and spraying of listed plant material, and, where appropriate, other host plants in order to prevent the spread of the organism. This ban may be reviewed on the basis of the results obtained in the said annual survey, and designations revoked where the responsible official bodies are satisfied that the surface water is no longer contaminated. The use of water subject to a ban may be permitted, under official control, for irrigation and spraying of host plants, where officially approved techniques are employed which eliminate the organism and prevent its spread,
+- in cases where liquid waste discharges are contaminated, introduce official controls on the disposal of solid or liquid waste discharges from industrial processing or
+packaging premises handling listed plant material;
+(c) establish a programme, where appropriate, for the replacement of all seed potato stocks over an appropriate period of time.
