@@ -1,0 +1,117 @@
+## SCHEDULE 1B
+# schedule-1b
+(Regulation 4)
+List of products which shall be taken into account for the purpose of these regulations and which fall under the categories of Schedule 1A
+1. Large household appliances
+1.1 Large cooling appliances;
+1.2 Refrigerators;
+1.3 Freezers;
+1.4 Other large appliances used for refrigeration, conservation and storage of food;
+1.5 Washing machines;
+1.6 Clothes dryers;
+1.7 Dish washing machines;
+1.8 Cooking;
+1.9 Electric stoves;
+1.10 Electric hot plates;
+1.11 Microwaves;
+1.12 Other large appliances used for cooking and other processing of food;
+1.13 Electric heating appliances;
+1.14 Electric radiators;
+1.15 Other large appliances for heating rooms, beds, seating furniture;
+1.16 Electric fans;
+1.17 Air conditioner appliances;
+1.18 Other fanning, exhaust ventilation and conditioning equipment.
+2. Small household appliances
+2.1 Vacuum cleaners;
+2.2 Carpet sweepers;
+2.3 Other appliances for cleaning;
+2.4 Appliances used for sewing, knitting, weaving and other processing for textiles;
+2.5 Irons and other appliances for ironing, mangling and other care of clothing;
+2.6 Toasters;
+2.7 Fryers;
+2.8 Grinders, coffee machines and equipment for opening or sealing containers or packages;
+2.9 Electric knives;
+2.10 Appliances for hair-cutting, hair drying, tooth brushing, shaving, massage and other body care appliances;
+2.11 Clocks, watches and equipment for the purpose of measuring, indicating or registering time;
+2.12 Scales.
+3. IT and telecommunications equipment
+3.1 Centralised data processing:
+3.1.1 Mainframes;
+3.1.2 Minicomputers;
+3.1.3 Printer units.
+3.2 Personal computing:
+3.2.1 Personal computers (CPU, mouse, screen and keyboard included);
+3.2.2 Laptop computers (CPU, mouse, screen and keyboard included);
+3.2.3 Notebook computers;
+3.2.4 Notepad computers;
+3.2.5 Printers;
+3.2.6 Copying equipment;
+3.2.7 Electrical and electronic typewriters;
+3.2.8 Pocket and desk calculators;
+3.2.9 Other products and equipment for the collection, storage, processing, presentation or communication of information by electronic means;
+3.2.10 User terminals and systems;
+3.2.11 Facsimile;
+3.2.12 Telex;
+3.2.13 Telephones;
+3.2.14 Pay telephones;
+3.2.15 Cordless telephones;
+3.2.16 Cellular telephones;
+3.2.17 Answering systems;
+3.2.18 Other products or equipment of transmitting sound, images or other information by telecommunications.
+4. Consumer equipment
+4.1 Radio sets;
+4.2 Television sets;
+4.3 Videocameras;
+4.4 Video recorders;
+4.5 Hi-fi recorders;
+4.6 Audio amplifiers;
+4.7 Musical instruments; and
+4.8 Other products or equipment for the purpose of recording or reproducing sound or images, including signals or other technologies for the distribution of sound and image than by telecommunications.
+5. Lighting equipment
+5.1 Luminaires for fluorescent lamps with the exception of luminaires in households;
+5.2 Straight fluorescent lamps;
+5.3 Compact fluorescent lamps;
+5.4 High intensity discharge lamps, including pressure sodium lamps and metal halide lamps;
+5.5 Low pressure sodium lamps;
+5.6 Other lighting or equipment for the purpose of spreading or
+controlling light with the exception of filament bulbs.
+6. Electrical and electronic tools (with the exception of large-scale stationary industrial tools)
+6.1 Drills;
+6.2 Saws;
+6.3 Sewing machines;
+6.4 Equipment for turning, milling, sanding, grinding, sawing, cutting, shearing, drilling, making holes, punching, folding, bending or similar processing of wood, metal and other materials;
+6.5 Tools for riveting, nailing or screwing or removing rivets, nails, screws or similar uses;
+6.6 Tools for welding, soldering or similar use;
+6.7 Equipment for spraying, spreading, dispersing or other treatment
+of liquid or gaseous substances by other means;
+6.8 Tools for mowing or other gardening activities.
+7. Toys, leisure and sports equipment
+7.1 Electric trains or car racing sets;
+7.2 Hand-held video game consoles;
+7.3 Video games;
+7.4 Computers for biking, diving, running, rowing, etc.;
+7.5 Sports equipment with electric or electronic components;
+7.6 Coin slot machines.
+8. Medical devices (with the exception of all implanted and infected products)
+8.1 Radiotherapy equipment;
+8.2 Cardiology;
+8.3 Dialysis;
+8.4 Pulmonary ventilators;
+8.5 Nuclear medicine;
+8.6 Laboratory equipment for in-vitro diagnosis;
+8.7 Analysers;
+8.8 Freezers;
+8.9 Fertilization tests;
+8.10 Other appliances for detecting, preventing, monitoring, treating, alleviating illness, injury or disability.
+9. Monitoring and control instruments
+9.1 Smoke detector;
+9.2 Heating regulators;
+9.3 Thermostats;
+9.4 Measuring, weighing or adjusting appliances for household or as laboratory equipment;
+9.5 Other monitoring and control instruments used in industrial installations (e.g. in control panels).
+10. Automatic dispensers
+10.1 Automatic dispensers for hot drinks;
+10.2 Automatic dispensers for hot or cold bottles or cans;
+10.3 Automatic dispensers for solid products;
+10.4 Automatic dispensers for money;
+10.5 All appliances which deliver automatically all kind of products.
