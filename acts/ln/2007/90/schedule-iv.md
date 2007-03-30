@@ -1,0 +1,44 @@
+## SCHEDULE IV
+# schedule-iv
+1. The officially supervised measures referred to in regulation 5(4) of the principal regulations shall be:
+- use as animal feed after heat treatment such that there is no risk of the organism surviving, or
+- disposal at an officially approved dedicated waste disposal site at which there is no identifiable risk of escape of the pathogen into the environment e.g. through seepage to agricultural land, or
+- incineration, or
+- industrial processing through direct and immediate delivery to a processing plant with officially approved waste disposal facilities for which it has been established that there is no identifiable risk of the organism spreading, and with a system of cleansing and disinfection of at least the departing vehicles, or
+- other measures, provided that it has been established that there is no identifiable risk of the organism spreading; such measures and their justification to be notified to the Commission and to the other Member States.
+Any remaining waste associated with and arising from the above shall be disposed of by officially approved methods in accordance with Schedule V.
+2. The appropriate use or disposal of tubers or plants determined as probably contaminated under regulation 5(1)(b) and referred to in regulation 5(5), under the control of the responsible official bodies of the Member States concerned, with appropriate communication between responsible official bodies to ensure such control at all times and approval by the responsible official bodies of the Member State where the potatoes are to be packed or processed in respect of the waste disposal facilities referred to in the first and second indent, shall be:
+- use as ware potatoes intended for consumption, packed ready for direct delivery and use without repacking, on a site with appropriate waste disposal facilities. Potatoes intended for planting may only be handled at the same site, if this is done separately or after cleansing and disinfection, or
+- use as ware potatoes intended for industrial processing, and intended for direct and immediate delivery to a processing plant with appropriate waste disposal facilities and a system of cleansing and disinfection of at least the departing vehicles, or
+- some other use or disposal, provided that it is established that there is no identifiable risk of the organism spreading and subject to approval by the said responsible official bodies.
+3. The appropriate methods for cleansing and disinfecting of the objects referred to in regulation 5(6) shall be those for which it has been established that there is no identifiable risk of the organism spreading and shall be employed under the supervision of the responsible official bodies of the Member States.
+4. The series of measures to be implemented within the demarcated zone established under regulation 5(1)(c) and referred to in regulation 5(7) shall include:
+4.1. in places of production designated as contaminated under regulation 5(1)(a):
+(a) in a field designated to be contaminated under regulation 5(1)(a), either
+(i) - during at least the three growing years following the year of the designated contamination,
+- measures shall be taken to eliminate volunteer potato plants and other naturally found host plants of the organism, and
+- no potato tubers, plants or true seeds, or other naturally found host plants of the organism, or crops for which there is an identified risk of the organism spreading, shall be planted,
+- in the first potato cropping season following the period specified in the preceding indent, and on the condition that the field has been found free from volunteer potato plants and other naturally found host plants of the organism during official inspections for at least the two consecutive growing years prior to planting, only ware potato production shall be allowed and the harvested tubers shall be tested according to the procedure detailed in Schedule I;
+- in the potato cropping season succeeding that referred to in the previous indent and following an appropriate rotation cycle, which shall be at least two years if seed potatoes are to be grown, potatoes may be planted for either seed or ware production, and an official survey as detailed in regulation 3(1) shall be conducted; or
+(ii) - during the four growing years following that of the designated contamination,
+- measures shall be taken to eliminate volunteer potato plants and other naturally found host plants of the organism, and
+- the field shall be laid to, and maintained either, in bare fallow or in permanent pasture with frequent close cutting or intensive grazing,
+- in the first potato cropping season following the period specified in the preceding indent, and on the condition that the field has been found free from volunteer potato plants and other naturally found host plants of the organism during official inspections for at least the two consecutive growing years prior to planting, seed or ware potato production shall be allowed and the harvested tubers shall be tested according to the procedure detailed in Schedule I;
+(b) in all other fields of the contaminated place of production, and on the condition that the responsible official bodies are satisfied that the risk of volunteer potato plants and other naturally found host plants of the organism have been eliminated:
+- in the growing year following that of the designated contamination either no potato tubers, plants or true seeds or other naturally found host plants of the organism shall be planted, or
+- certified seed potatoes may be planted for ware production only,
+- in the second growing year following that of the designated contamination, only certified seed or seed potatoes officially tested for the absence of ring rot and grown under official control on places of production other than those referred to in paragraph 4.1 shall be planted for either seed or ware production,
+- for at least the third growing year following the designated contamination, only certified seed potatoes or seed potatoes grown under official control from certified seed potatoes shall be planted for either seed or ware production,
+- in each of the growing years referred to in the previous indents, measures shall be taken to eliminate volunteer potato plants and other naturally found host plants of the organism if present and in each potato field official testing of the harvested potatoes shall be conducted according to the procedure detailed in Schedule I,
+(c) immediately following the designation of contamination under regulation 5(1)(a) and after the first subsequent growing year, all machinery and storage facilities on the place of production and involved in potato production shall be cleansed and disinfected as appropriate using appropriate methods, as specified in paragraph 3;
+(d) in an unit of protected crop production where complete replacement of the growing medium is possible,
+- no tubers, plants or true seeds shall be planted unless the production unit has been subjected to officially supervised measures to eliminate the organism and to remove all host plant material, including, at least, a complete change in growing medium and cleansing and disinfection of the production unit, and all equipment, and, subsequently has been granted approval for potato production by the responsible official bodies, and
+- potato production shall be from certified seed potatoes, or from mini-tubers or micro-plants derived from tested sources;
+4.2. within the demarcated zone, without prejudice to the measures detailed under paragraph 4.1, the competent authority shall:
+(a) immediately following the designated contamination, ensure that all machinery and storage facilities on such premises and involved with potato production be cleansed and disinfected, as appropriate, and using appropriate methods, as specified in paragraph 3;
+(b) immediately, and for at least three growing seasons, after the designated contamination:
+- ensure supervision by their responsible official bodies of premises growing, storing or handling potato tubers, together with
+premises which operate potato machinery under contract,
+- require the planting of only certified seed or seed grown under official control for all potato crops within that zone, and testing after harvest of seed potato crops grown in places of production designated as probably contaminated under regulation 5(1)(b),
+- require the separate handling of harvested seed potato stocks to those of ware on all premises within the zone, or a system of cleansing and disinfection to be carried out between the handling of seed and ware stocks, - conduct an official survey as detailed in regulation 3(1)(a);
+(c) establish a programme, where appropriate, for the replacement of all seed potato stocks over an appropriate period of time.".
