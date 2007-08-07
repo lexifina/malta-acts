@@ -1,0 +1,1 @@
+# L.N. 217 of 2007: Bye-Laws of 2007 to amend the Bye-Laws of 2005 in terms of the General Regulations for University Undergraduate Awards, 2004 for the Degrees of Bachelor of Science in Information Technology (Honours) - B.Sc. I.T. (Hons) - and Bachelor of Science in Information Technology - B.Sc. I.T. - under the auspices of the Board of Studies for Information Technology
