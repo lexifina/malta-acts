@@ -1,0 +1,2 @@
+# L.N. 258 of 2007: Bye-Laws of 2007 to amend the Bye-Laws of 2005 in terms of the General Regulations for University Undergraduate Awards, 2004 for the Degrees of Science - B.Sc. - and Bachelor of Science (Honours) - B.Sc (Hons) - under the auspices of the Faculty of Science
+L.N. 258 of 2007
