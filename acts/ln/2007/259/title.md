@@ -1,0 +1,1 @@
+# L.N. 259 of 2007: Bye-Laws of 2007 to amend the Bye-Laws of 2005 in terms of the General Regulations fo University Undergraduate Awards, 2004 for the Degrees of Psyshology (Honours) - B.Ssy. (Hons) under the auspices of the Faculty of Education
