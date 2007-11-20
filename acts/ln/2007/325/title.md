@@ -1,0 +1,7 @@
+# L.N. 325 of 2007: European Passport Rights for Investment Firms Regulations, 2007
+Suppliment tal-Gazzetta tal-Gvern ta' Malta, Nru. 18,141, 30 ta' Ottubru, 2007 Taqsima B --------------------------------------------------------------------
+L.N. 325 of 2007
+INVESTMENT SERVICES ACT
+(CAP. 370)
+European Passport Rights for Investment Firms Regulations,
+IN exercise of the powers conferred by article 12 of the Investment Services Act, the Prime Minister and Minister of Finance, acting on the advice of the Malta Financial Services Authority, has made the following regulations>-
