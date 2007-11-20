@@ -1,0 +1,6 @@
+# L.N. 343 of 2007: Exemption of Duty in terms of article 23 Order, 2007
+L.N. 343 of 2007
+DUTY ON DOCUMENTS AND TRANSFERS ACT
+(CAP. 364)
+Exemption of Duty in terms of article 23 Order, 2007
+BY VIRTUE of the powers invested in him by article 23 of the Duty on Documents and Transfers Act, the Prime Minister and Minister of Finance has ordered that as from the 16th October, 2007 in respect of transfers by a gratuitous title by a person to his descendants in the direct line who acquire immovable property for the purpose of establishing therein or constructing thereon their sole, ordinary residence, the duty otherwise chargeable in terms of the said Act, shall be chargeable on the value thereof at the rate of three liri and fifty cents per one hundred liri or part thereof, provided that this is the first transfer by such a person to such a descendant for this purpose and in this manner and provided that the notary who receives any deed of such a transfer shall record in the deed a written declaration by the person so transferring and the person so acquiring that the property is being acquired for the said purpose for the first time and the notary shall warn the said person and descendant of the importance of the truthfulness of such declaration.
