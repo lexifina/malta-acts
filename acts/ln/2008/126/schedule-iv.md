@@ -1,0 +1,8 @@
+## SCHEDULE IV
+# schedule-iv
+INTERNATIONAL CONVENTIONS REFERRED TO IN REGULATION 5(2)
+(a) the International Convention of 27 November 1992 on Civil Liability for Oil Pollution Damage;
+(b) the International Convention of 27 November 1992 on the Establishment of an International Fund for Compensation for Oil Pollution Damage;
+(c) the International Convention of 23 March 2001 on Civil Liability for Bunker Oil Pollution Damage;
+(d) the International Convention of 3 May 1996 on Liability and Compensation for Damage in Connection with the Carriage of Hazardous and Noxious Substances by Sea;
+(e) the Convention of 10 October 1989 on Civil Liability for Damage Caused during Carriage of Dangerous Goods by Road, Rail and Inland Navigation Vessels.
