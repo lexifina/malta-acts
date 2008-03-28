@@ -1,0 +1,34 @@
+## SCHEDULE II
+# schedule-ii
+PART A
+Techniques or methods of genetic modification yielding micro-organisms to be excluded from the Regulation on the condition that they do not involve the use of recombinant-nucleic acid molecules or GMMs other than those produced by one or more of the techniques/methods listed below
+1. Mutagenesis.
+2. Cell fusion (including protoplast fusion) of prokaryotic species that exchange genetic material by known physiological processes.
+3. Cell fusion (including protoplast fusion) of cells of any eukaryotic species, including production of hybridomas and plant cell fusions.
+4. Self-cloning consisting in the removal of nucleic acid sequences from a cell of an organism which may or may not be followed by reinsertion of all or part of that nucleic acid (or a synthetic equivalent) with or without prior enzymic or mechanical steps, into cells of the same species or into cells of phylogenetically closely related species which can exchange genetic material by natural physiological processes where the resulting micro-organism is unlikely to cause disease to humans, animals or plants.
+Self-cloning may include the use of recombinant vectors with an extended history of safe use in the particular micro-organisms.
+PART B
+Criteria establishing the safety of GMMs for human health and the environment
+This Schedule describes in general terms the criteria to be met when establishing the safety of types of GMMs for human health and the environment.
+1. GENERAL CRITERIA
+2.1. Strain verification/authentication
+Identity of the strain must be precisely established. Modification must be known and verified.
+2.2. Documented and established evidence of safety
+Documented evidence of the safety of the organism must be provided.
+2.3. Genetic stability
+Where any instability could adversely affect safety, evidence of stability is required.
+2. SPECIFIC CRITERIA
+3.1. Non-pathogenic
+The GMM should not be capable of causing disease or harm to a healthy human, plant or animal. Since pathogenicity includes both toxigenicity and allergenicity, the GMM should therefore be:
+3.1.1. Non-toxigenic
+The GMM should not produce increased toxigenicity as a result of the genetic modification nor be noted for its toxigenic properties.
+3.1.2. Non-allergenic
+The GMM should not produce increased allergenicity as a result of the genetic modification nor be a noted allergen, having, for example, allergenicity comparable in particular with that of the micro-organisms identified in Legal Notice 228 of 2003 on the protection of workers from risks related to exposure to biological agents at work.
+3.2. No harmful adventitious agents
+The GMM should not harbour known harmful adventitious agents such as other micro-organisms, active or latent, existing alongside or inside the GMM that could cause harm to human health and the environment.
+3.3. Transfer of genetic material
+The modified genetic material must not give rise to harm if transferred nor should it be self-transmissible or transferable at a frequency greater than other genes of the recipient or parental micro-organism.
+3.4. Safety for the environment in the event of a significant and unintended release
+GMMs must not produce adverse effects on the environment, immediate or delayed, should any incident involving a significant and unintended release occur.
+PART C
+Types of GMMs which meet the criteria listed in Part B can be referred to Schedule III of the Protection of Workers from Risks related to Exposure to Biological Agents at Work Regulations, 2003 (Legal Notice 228 of 2003).
