@@ -1,0 +1,32 @@
+## SCHEDULE A
+# schedule-a
+(Regulation 22)
+ETHICS OF MEDICAL PRACTITIONERS
+1. (a) The Medical profession occupies a position of trust in society. A doctor's calling is to serve humanity under all conditions. Members of the profession have built up a tradition of placing the needs of the patient above all else.
+(b) On admission to the medical field every new member not only succeeds to benefit of its special place in society, but also takes upon himself the duty of maintaining this high position. The justification for the freedom of medicine lies in the hands of those who practise it.
+2. In all matters bearing on faith or morals the catholic member of the profession shall abide by the tenets of the Roman Catholic Apostolic Religion in terms of article 2 of the Constitution.
+3. The attention of members of the medical profession is drawn to the General Notice issued by the Medical Council for the guidance of members of the professions upon which it exercises disciplinary jurisdiction.
+4. In addition to the requirements of the Medical Council, there are customs and ethical rules which are observed by the profession as a code of conduct. The endless number of situations that might and do arise in the course of professional life cannot be all specifically covered by any set of rules. The following rulings are accepted as covering the major and the more common features of professional life and will serve to illustrate the principles of behaviour. These principles can and should be applied to such other problems and situations as may arise.
+5. A doctor shall by his conduct and in all matters set a high standard.
+6. A doctor in the pursuit of his profession must not allow himself to be influenced by motives of profit.
+7. A doctor shall neither instigate nor condone any advertisement relating to his professional status of work. (Also see circular MC#435#93 of 1.10.1993 relating to the publication of announcements about career and academic achievements.)
+8. A doctor shall not accept conditions of service which do not ensure his professional independence. (Also see circular MC#145#93 of 22.2.1993 on safeguarding professional independence.)
+9. A doctor shall not in any circumstances do, authorise to be done or condone anything that would weaken the physical or mental resistance of a human being, except for the prevention and treatment of disease.
+10. A doctor must always bear in mind the importance of preserving human life from the time of conception until death.
+11. (a) A doctor shall not hesitate to propose or to accept consultation with a professional colleague when, for any reason, this appears to be desirable in the interest of the patient. The attendance of a consulting practitioner shall cease when the consultation is concluded, unless another appointment is arranged by the medical attendant.
+(b) When a consultant sees a patient in his rooms at the request of his medical attendant, it is his duty to write to the latter stating his opinion on the case and the mode of treatment which he thinks should be adopted.
+(c) Whenever an irreconcilable difference of opinion between practitioners occurs, the circumstances should be frankly and impartially explained to the patient or his relatives either by the consultant or by the medical attendant in the presence of the former.
+(d) When it becomes the duty of a practitioner occupying an official position to see and report on a case of illness or injury, he should communicate with the patient and inform him that he is entitled to ask his practitioner to be present during the examination. The practitioner who is officially reviewing the case shall scrupulously avoid any interference with, or remarks on, the treatment or diagnosis that has been adopted. (Also see circulars MC#145#93 of 22.3.1993 and MC#180#99 of October 1999 on clarifying the procedure to be adopted during such visits.)
+12. (a) A medical practitioner shall not voluntarily disclose without the consent of the patient, preferably to be given in writing, any information, including any certification, which he has obtained in the course of his professional relationship with the patient. An exception to this rule may only be made in terms of the requirements of local laws.
+(b) Any conviction under this provision may also involve disciplinary action to be taken by the Medical Council.
+13. (a) When the medical practitioner is requested to attend a patient who is already under the care of another practitioner, where the case is not one of emergency, he shall decline to do so except in consultation with the practitioner in attendance or in cases where the consultation is not agreed to, until the practitioner in attendance has been informed, preferably in writing, that his services are no longer desired.
+(b) A medical practitioner who has been called upon in an emergency to visit a patient who, under ordinary circumstances, would have been attended to by another practitioner, shall, after the emergency has been provided for, retire in favour of the ordinary medical attendant but shall still be entitled to charge the patient for his services.
+(c) When a practitioner is consulted in his own office, it shall not be necessary for him to enquire whether the patient is under the care of another practitioner.
+14. It is desirable that the family doctor be present during operations and in that case he shall charge a fee for his attendance. If he assists, his fee shall be included in the fee for the operation and the patient or his family will be informed accordingly.
+15. A medical practitioner shall not circulate professional cards to chemists or opticians< nor should he have any salary or commission or any other arrangement with a chemist or optician< he shall not have any financial interest either directly or indirectly in a local chemist's shop.
+16. In respect of -
+(a) untrue certification or report<
+(b) covering and association with unqualified or unlicensed persons<
+(c) contravention of the Dangerous Drugs Ordinance, Cap. 101, and regulations made thereunder<
+(d) advertising, canvassing, lectures, broadcasting, etc.,
+the attention of members of the medical profession is drawn to the General Notice mentioned in paragraph 3 hereof issued by the Medical Council and published in the Government Gazette of the 23rd June, 1981, with amendments as published in the Government Gazette of the 27th January, 1984.
