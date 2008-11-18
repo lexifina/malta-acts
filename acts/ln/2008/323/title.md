@@ -1,0 +1,1 @@
+# L.N. 323 of 2008: Bye-Laws of 2008 in terms of the General Regulations for University Postgraduate Awards, 2008 for the Degree of Master of Diplomacy under the auspices of the Mediterranean Academy of Diplomatic Studies
