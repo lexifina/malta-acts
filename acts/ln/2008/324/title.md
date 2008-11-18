@@ -1,0 +1,1 @@
+# L.N. 324 of 2008: Bye-Laws of 2008 in terms of the General Regulations for University Postgraduate Awards, 2008 for the Postgraduate Diploma in Probation Services under the auspices of the Institute of Forensic Studies
