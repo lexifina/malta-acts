@@ -1,0 +1,17 @@
+## SECOND SCHEDULE
+# second-schedule
+[(Article 8(3) and (4)]
+Cooperation with a competent authority of another Member State
+(1) When a service is being provided in another Member State by a provider established in Malta, a competent authority shall cooperate with the relevant competent authority of another Member State, and fulfill its obligations as stipulated hereunder:
+(a) when receiving a request from the relevant competent authority of another Member State, a competent authority shall confirm whether a provider is established in Malta and that to its knowledge the provider is not exercising his activity in an unlawful manner;
+(b) the competent authority shall carry out such checks, inspections and investigations as requested and, or necessary, and shall inform the relevant competent authority in the other Member State of the results and, or of any measures taken by it:
+Provided that a competent authority may decide on which measures are appropriate;
+(c) in the event that a competent authority encounters difficulty in meeting a request for information or in carrying out checks, inspections or investigations, it shall rapidly inform the requesting competent authority with such difficulties in order to find a solution.
+(2) Upon gaining actual knowledge of any conduct or specific acts by a provider established in Malta which provides services in other Member States, that, to its knowledge, could cause serious damage to the health and safety of persons or to the environment, the competent authority shall inform all other relevant competent authorities of other Member States and the Commission within the shortest possible period of time.
+(3) When a service is being provided in Malta, in the event of a temporary movement by a provider established in another Member State:
+(a) at the request of the relevant competent authority of the Member State of establishment, the competent authority shall carry out checks, inspections and investigations necessary for ensuring the effective supervision by the competent authority of establishment:
+Provided that a competent authority may decide on the most appropriate manner to meet the request by the Member State of establishment;
+(b) the competent authority may, on its own initiative, conduct checks, inspections and investigations on the spot, provided that those checks, inspections and investigations are not discriminatory, motivated by the fact that the provider is established in another Member State and are proportionate;
+(c) in the event that a competent authority encounters difficulty in meeting a request for information or in carrying out checks, inspections or investigations, it shall rapidly inform the requesting competent authority with such difficulties in order to find a solution;
+(d) with respect to the requirements imposed by the competent authority in terms of article 6(3), the competent authority shall take all measures necessary to ensure that the provider complies with these requirements and shall carry out checks, inspections and controls necessary to supervise the service provided.
+(4) Where a competent authority becomes aware of serious and specific acts or circumstances relating to a service activity that could cause serious damage to health and safety of persons or to the environment in Malta or in the territory of other Member States, the competent authority shall inform the relevant competent authority of the Member State of establishment, the other Member States concerned and the Commission within the shortest possible time.
