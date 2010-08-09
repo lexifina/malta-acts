@@ -1,0 +1,26 @@
+# L.N. 384 of 2010: Bye-Laws of 2010 to amend the Bye-Laws of 2005 in terms of the General Regulations for University Undergraduate Awards, 2004 for the Degrees of Bachelor of Arts - B.A. - and Bachelor of Arts (Honours) - B.A. (Hons) - under the auspices of the Faculty of Arts
+L.N. 384 of 2010
+EDUCATION ACT
+(CAP.327)
+Bye-Laws of 2010 to amend the Bye-Laws of 2005 in terms of the General Regulations for University Undergrduate Awards, 2004 for the Degrees of Bachelor of Arts - B.A. - and Bachelor of Arts (Honours) - B.A. (Hons) -
+under the auspices of the Faculty of Arts
+IN EXERCISE of the powers conferred upon him by articles 74 (5) and 75 (6) of the Education Act (Cap. 327), the Chancellor of the University of Malta has promulgated the following bye-laws made by the Board of the Faculty of Arts in virtue of the powers conferred upon it by article 81 (1) of the said Act and which have been approved by the Senate of the University of Malta as required by article 81 (2) of the said Act:
+Citation
+1. These bye-laws may be cited as the Bye-Laws of 2010 to amend the Bye- Laws of 2005 in terms of the General Regulations for University Undergraduate Awards, 2004 for the Degrees of Bachelor of Arts - B.A. - and Bachelor of Arts (Honours) - B.A. (Hons) - under the auspices of the Faculty of Arts and shall be read and construed as one with the Bye-Laws of 2005 in terms of the General Regulations for University Undergraduate Awards, 2004 for the Degrees of Bachelor of Arts - B.A. - and Bachelor of Arts (Honours) - B.A. (Hons) - under the auspices of the Faculty of Arts, published as Legal Notice 11 of 2005, hereinafter referred to as "the principal bye-laws".
+Applicability
+2. These bye-laws shall apply to courses commencing in October 2010 or later.
+Amendment to bye-law 3 of the principal bye-laws
+3. For bye-law 3 of the principal bye-laws there shall be substituted the following:
+"Areas of Study
+3. (1) The degree of Bachelor of Arts (Honours) may be awarded in any one of the following areas of study:
+Anthropology, Arabic, Archaeology, Classical Hebrew, Classics, Contemporary Mediterranean Studies, English, French, Geography, German, , History, History of Art, International Relations, Italian, Linguistics, Maltese, Music Studies, Near Eastern Studies, Philosophy, Social Studies, Sociology, Spanish Studies, Theatre Studies and any other area of study recommended by the Board and approved by Senate.
+(2) The degree of Bachelor of Arts may be awarded in any two areas of study from those listed in paragraph (1) of this bye-law and/or from:
+American Studies, Communication Studies, Comparative Religion, Economics, Greek, Latin, Mediterranean Studies, Psychology and any other area of study recommended by the Board and approved by Senate."
+Amendment to bye-law 5 of the principal bye-laws
+4. For bye-law 5 of the principal bye-laws there shall be substituted the following:
+"5. To be registered as regular students in the Course, applicants shall, apart from satisfying the general requirements for admission as specified in the Admission Regulations, be in possession of the following special course requirements:
+(a) for Economics, English, French, German, History, Italian, Maltese, Music Studies (Music), a pass at Grade C or better at Advanced Matriculation Level, or equivalent, in the subject, or as indicated in brackets;
+(b) for International Relations, either as a Main area of study or as a Subsidiary area of study, a pass at Grade C or better at Advanced Matriculation Level, or equivalent, in either Economics or History;
+(c) for Sociology either as a Main area of study or as a Subsidiary area of study, a pass at Grade C or better at Advanced Matriculation Level, or equivalent, in one of the following four subjects: Sociology, Philosophy, Economics, History;
+(d) for Social Studies either as a Main area of study or as a Subsidiary area of study, a pass at Grade C or better at Intermediate Matriculation Level, or equivalent, in one of the following four subjects: Sociology, Philosophy, Economics, History; and
+(e) for Spanish Studies either as a Main Area of study or as a Subsidiary area of study, a pass at Grade C or better at Advanced Matriculation Level, or equivalent, in Spanish."
