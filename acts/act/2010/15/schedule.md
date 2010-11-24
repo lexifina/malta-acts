@@ -1,0 +1,17 @@
+## SCHEDULE
+## €0.37
+# schedule
+1. Recurrent Expenditure
+Vote Title Amount €
+1. Office of the President …………………………………………… 2,175,394 2. House of Representatives ………………………………………… 3,459,000 5. Office of the Prime Minister ………………………………….…… 26,350,000 6. Public Service Commission ……………………………………..… 401,755 7. Armed Forces of Malta ………………………………………...… 40,630,000 8. Tourism and Culture ……………………………………………… 46,469,000 9. Industrial and Employment Relations …………………………… 1,276,000 10. Local Government ………………………………………………. 33,038,000 11. Consumer and Competition ……………………………………… 1,944,000 12. Information ……………………………………………………… 1,331,000 13. Government Printing Press ………………………...……………… 1,446,000 14. Electoral Office ………………………………………………….. 1,760,000 15. Ministry of Foreign Affairs ……………………………………… 26,748,000 16. Ministry for Gozo ………………………………………………… 56,862,924 17. Ministry for Infrastructure, Transport and Communications …… 45,825,000 18. Land and Public Registry Division ……………………………… 2,397,000 19. Ministry for Resources and Rural Affairs ………………………… 81,415,000 20. Ministry of Education, Employment and the Family …………… 188,039,000 21. Education ………………………………………………………… 143,254,000 22. Libraries ………...………………………………………………… 1,466,000 23. Social Security ………………………………………………...… 201,376,000 25. Social Welfare Standards ………………………………………… 896,000 26. Ministry of Finance, the Economy and Investment ……………… 119,513,000 27. Treasury …………………………………………………………… 37,119,000 28. Pensions …………………………………………………………… 1,645,000 30. Inland Revenue …………………………………………………… 7,134,000 31. Customs …………………………………………………………… 11,504,000 32. V.A.T. …………………………………………………………… 4,412,000 33. Contracts ………………………………………………………… 1,113,000 34. Economic Policy ………………………………………………… 1,134,000 35. Government Property Division …………………………………… 4,487,000 36. Commerce ...................................................................................... 1,958,000 Vote Title Amount €
+37. Ministry for Justice and Home Affairs …………………………… 19,406,524 38. Judicial …………………………………………………………… 8,473,343 39. Police ……………………………………………………………… 47,960,000 40. Correctional Services ……………………………………………. 8,903,000 41. Civil Protection …………………………………………………… 4,051,000 42. Ministry for Health, the Elderly and Community Care …………… 302,147,000 43. Elderly and Community Care …………………………………… 44,969,000
+Total Recurrent Expenditure ...................................... 1,534,487,940
+II. Capital Programme Expenditure
+Vote Title Amount €
+I Office of the Prime Minister ……………………………………… 35,224,000 II Ministry of Foreign Affairs ……………………………………… 1,420,000 III Ministry for Gozo .......................................................................... 16,441,000 IV Ministry for Infrastructure, Transport and Communications …… 126,515,000 V Ministry for Resources and Rural Affairs ………………………… 83,252,000 VI Ministry of Education, Employment and the Family….………… 55,567,000 VII Ministry of Finance, the Economy and Investment ……………… 77,439,000 VIII Ministry for Justice and Home Affairs .......................................... 19,053,000 IX Ministry for Health, the Elderly and Community Care ................. 31,213,000
+446,124,000 Total Capital Programme Expenditure .................
+Total Schedule ...............................................… 1,980,611,940
+Passed by the House of Representatives at Sitting No. 283 of 11th November, 2010.
+Michael Frendo Speaker
+Pauline Abela
+Clerk to the House of Representatives
