@@ -1,0 +1,1 @@
+# L.N. 143 of 2011: Bye-Laws of 2011 in terms of the General Regulations for University Postgraduate Awards, 2008 for the Degree of Master of Arts in Anglo-Italian Studies under the auspices of the Institute for Anglo-Italian Studies in collaboration with the Faculty of Arts
