@@ -1,0 +1,5 @@
+# L.N. 184 of 2011: The Waste Regulations, 2011
+L.N. 184 of 2011
+ENVIRONMENT AND DEVELOPMENT PLANNING ACT
+(CAP. 504)
+The Waste Regulations, 2011
