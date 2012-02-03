@@ -1,0 +1,36 @@
+## SCHEDULE I
+# schedule-i
+(Regulation 2)
+Scheduled Offences
+• participation in a criminal organisation,
+• terrorism,
+• trafficking in human beings,
+• sexual exploitation of children and child pornography,
+• illicit trafficking in narcotic drugs and psychotropic substances,
+• illicit trafficking in weapons, munitions and explosives,
+• corruption,
+• fraud, including that affecting the financial interests of the European Communities within the meaning of the Convention of 26 July 1995 on the protection of the European Communities' financial interests,
+• laundering of the proceeds of crime,
+• counterfeiting currency, including of the euro,
+• computer-related crime,
+• environmental crime, including illicit trafficking in endangered animal species and in
+• endangered plant species and varieties,
+• facilitation of unauthorised entry and residence,
+• murder, grievous bodily injury,
+• illicit trade in human organs and tissue,
+• kidnapping, illegal restraint and hostage-taking,
+• racism and xenophobia,
+• organised or armed robbery,
+• illicit trafficking in cultural goods, including antiques and works of art,
+• swindling, • racketeering and extortion,
+• counterfeiting and piracy of products,
+• forgery of administrative documents and trafficking therein,
+• forgery of means of payment,
+• illicit trafficking in hormonal substances and other growth promoters,
+• illicit trafficking in nuclear or radioactive materials,
+• trafficking in stolen vehicles,
+• rape,
+• arson,
+• crimes within the jurisdiction of the International Criminal Court,
+• unlawful seizure of aircraft/ships,
+• sabotage.
