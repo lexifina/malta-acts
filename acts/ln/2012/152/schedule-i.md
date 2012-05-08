@@ -1,0 +1,31 @@
+## SCHEDULE I
+# schedule-i
+SCOPE
+1. Irrespective of the label which might be attached to the container of the product, products will be considered as being paints and varnishes within the scope of these regulations if at least one of their intended uses is described by product sub-categories (a) to (l) in paragraph 1.1 below. Only those paints and varnishes covered by the derogations in regulation 3 of these regulations are excluded from compliance with these regulations.
+1.1 Sub-categories:
+(a) "matt coatings for interior walls and ceilings" means coatings designed for application to indoor walls and ceilings with a degree of gloss ≤ 25 @ 60°;
+(b) "glossy coatings for interior walls and ceilings" means coatings designed for application to indoor walls and ceilings with a degree of gloss > 25 @ 60°;
+(c) "coatings for exterior walls of mineral substrate" means coatings designed for application to outdoor walls of masonry, brick or stucco;
+(d) "interior/exterior trim and cladding paints for wood, metal or plastic" means coatings designed for application to trim and cladding which produce an opaque film. These coatings are designed for either a wood, metal or a plastic substrate. This sub-category includes undercoats and intermediate coatings;
+(e) "interior/exterior trim varnishes and woodstains" means coatings designed for application to trim which produce a transparent or semi-transparent film for decoration and protection of wood, metal and plastics. This sub-category includes opaque woodstains. Opaque woodstains means coatings producing an opaque film for the decoration and protection of wood, against weathering, as defined in EN 927-1, within the semi-stable category;
+(f) "minimal build woodstains" means woodstains which, in accordance with EN 927-1:1996, have a mean thickness of less than 5µm when tested according to ISO 2808: 1997, method 5A;
+(g) "primers" means coatings with sealing and, or blocking properties designed for use on wood or walls and ceilings;
+(h) "binding primers" means coatings designed to stabilise loose substrate particles or impart hydrophobic properties and, or to protect wood against blue stain;
+(i) "one-pack performance coatings" means performance coatings based on film-forming material. They are designed for applications requiring a special performance, such as primer and topcoats for plastics, primer coat for ferrous substrates, primer coat for reactive metals such as zinc and aluminium, anti-corrosion finishes, floor coatings, including for wood and cement floors, graffiti resistance, flame retardant, and hygiene standards in the food or drink industry or health services;
+(j) "two-pack performance coatings" means coatings with the same use as one-performance coatings, but with a second component (e.g. tertiary amines) added prior to application;
+(k) "multicoloured coatings" means coatings designed to give a two-tone or multiple-colour effect, directly from the primary application;
+(l) "decorative effect coatings" means coatings designed to give special aesthetic effects over specially prepared pre-painted substrates or base coats and subsequently treated with various tools during the drying period.
+2. Irrespective of the label which might be attached to the container of the product, products will be considered as being vehicle refinish products within the scope of these regulations if at least one of their intended uses is described by product sub-categories (a) to (e) in paragraph 2.1 below. Only those vehicle refinishing products covered by the derogations in regulation 3 of these regulations are excluded from compliance with these regulations.
+2.1 Sub-categories:
+(a) "preparatory and cleaning" means products designed to remove old coatings and rust, either mechanically or chemically, or to provide a key for new coatings:
+(i) preparatory products include gunwash (a product designed for cleaning spray-guns and other equipment), paint strippers, degreasers (including anti-static types for plastic) and silicone removers;
+(ii) "precleaner" means a cleaning product designed for the removal of surface contamination during preparation for and prior to the application of coating materials;
+(b) "Bodyfiller/stopper" means heavy-bodied compounds designed to be applied to fill deep surface imperfections prior to the application of the surfacer/filler;
+(c) "primer" means any coating that is designed for application to bare metal or existing finishes to provide corrosion protection prior to application of a primer surfacer:
+(i) "surfacer/filler" means a coating designed for application immediately prior to the application of topcoat for the purpose of corrosion resistance, to ensure adhesion of the topcoat, and to promote the formation of a uniform surface finish by filling in minor surface imperfections;
+(ii) "general metal primer" means a coating designed for application as primers, such as adhesion promoters, sealers, surfacers, undercoats, plastic primers, wet-on-wet, non-sand fillers and spray fillers;
+(iii) "wash primer" means coatings containing at least 0,5% by weight of phosphoric acid designed to be applied directly to bare metal surfaces to provide corrosion resistance and adhesion; coatings used as weldable primers; and mordant solutions for galvanised and zinc surfaces;
+(d) "topcoat" means any pigmented coating that is designed to be applied either as a single-layer or as a multiple-layer base to provide gloss and durability. It includes all products involved such as base coatings and clear coatings:
+(i) "base coatings" means pigmented coatings designed to provide colour and any desired optical effects, but not the gloss or surface resistance of the coating system;
+(ii) "clear coating" means a transparent coating designed to provide the final gloss and resistance properties of the coating system;
+(e) "special finishes" means coatings designed for application as topcoats requiring special properties, such as metallic or pearl effect, in a single layer, high-performance solid-colour and clear coats, (e.g. anti-scratch and fluorinated clear-coat), reflective base coat, texture finishes (e.g. hammer), anti-slip, under-body sealers, anti-chip coatings, interior finishes; and aerosols.
