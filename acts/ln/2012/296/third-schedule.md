@@ -1,0 +1,18 @@
+## THIRD SCHEDULE
+## _________________________________________________________________________________________________________________________ Ippubblikat mid-Dipartiment tal-Informazzjoni (doi.gov.mt) - Valletta - Published by the Department of Information (doi.gov.mt) - Valletta
+## Prezz/Price €4.23
+# third-schedule
+[Regulation 43]
+CATEGORIES OF PROGRAMME ACCREDITATION
+"Further education programme"
+An academic, vocational or professional programme which is of non-compulsory formal education and is accredited by the Commission under these regulations as one which leads to a national qualification classified up to and including Malta Qualifications Framework Level 4 or a foreign qualification at a comparable level.
+"Further education module"
+Part of a "further education programme" offered by a provider which simultaneously offers one or more "further education programmes", accredited by the Commission under these regulations as a module and which serves to obtain, only in part, a national qualification classified up to and including Malta Qualifications Framework Level 4 or a foreign qualification at a comparable level. "Higher education programme"
+An academic, vocational or professional programme which is of non-compulsory formal education, training or research and is accredited by the Commission under these regulations as one which leads to a national qualification with the title of Degree, Certificate, Diploma or other similar title at Malta Qualifications Framework Level 5 or higher or a foreign qualification of a similar title at a comparable level.
+"Higher education module"
+Part of a "higher education programme" offered by a provider which simultaneously offers one or more "higher education programmes", accredited by the Commission under these regulations as a module and which serves to obtain, only in part, a national qualification at Malta Qualifications Framework Level 5 or higher or a foreign qualification at a comparable level.
+"Approved foreign further education programme"
+An academic, vocational or professional programme of non-compulsory formal education which is accredited by a recognised foreign accreditation agency and leads to an award awarded by a foreign provider and a foreign qualification classified as comparable to a level up to and including Malta Qualifications Framework Level 4.
+This programme does not lead to a national qualification.
+"Approved foreign higher education programme"
+An academic, vocational or professional programme of non-compulsory formal education, training or research which is accredited by a recognised foreign accreditation agency and leads to an award awarded by a foreign higher education provider and a foreign qualification classified at a level comparable to Malta Qualifications Framework Level 5 or higher. This programme does not lead to a national qualification.
