@@ -1,0 +1,9 @@
+## SCHEDULE 5
+# schedule-5
+(Regulation 11)
+Accounts threshold adjustments
+1. A Category 1 enrolled voluntary organisation shall automatically convert into a Category 2 enrolled voluntary organisation when the revenue of the enrolled voluntary organisation exceeds twenty thousand euro (€ 20,000) for three consecutive calendar years but does not exceed or is equal to two hundred thousand euro (€ 200,000). When this happens the enrolled voluntary organisation shall inform the Commissioner in writing within fourteen days from the day on which this comes to the enrolled voluntary organisation's knowledge.
+2. A Category 2 enrolled voluntary organisation shall automatically convert into:
+(a) a Category 1 enrolled voluntary organisation when the revenue of such enrolled voluntary organisation does not exceed twenty thousand euro (€ 20,000) for three consecutive calendar years. When this happens the enrolled voluntary organisation shall inform the Commissioner in writing within fourteen days from the day on which this comes to the enrolled voluntary organisation's knowledge;
+(b) a Category 3 enrolled voluntary organisation when the revenue of such enrolled voluntary organisation exceeds two hundred thousand euro (€ 200,000) for three consecutive calendar years. When this happens the enrolled voluntary organisation shall inform the Commissioner in writing within fourteen days from the day on which this comes to the enrolled voluntary organisation's knowledge.
+3. A Category 3 enrolled voluntary organisations shall automatically convert into a Category 2 enrolled voluntary organisation when the revenue of the enrolled voluntary organisation does not exceed two hundred thousand euro (€ 200,000) for three consecutive calendar years. When this happens the enrolled voluntary organisation shall inform the Commissioner in writing within fourteen days from the day on which this comes to the enrolled voluntary organisation's knowledge.
