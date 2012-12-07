@@ -1,0 +1,2 @@
+# Act XXII of 2012: Mental Health Act, 2012
+MENTAL HEALTH ACT, 2012
