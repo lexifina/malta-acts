@@ -1,0 +1,541 @@
+## SECOND SCHEDULE
+## 2016 2017
+## 0.50% 0.50% 1.00% 1.00%
+## 0.50% 0.50%
+## (0.10%) (0.10%)
+## (0.20%) (0.20%) (0.10%) (0.10%)
+## Landings in Metric Tonnes
+## 2011
+## 2006
+## 6-12 m vessels 12-18 m vessels
+## 40 50 60 70
+## 2008
+## 2010
+## N Individuals Landed
+## 48 58 68
+# second-schedule
+[Article 3(1)]
+Fisheries Management Plan
+Lampuki FAD Fishery
+Table of Contents
+List of figuresii
+List of tablesii
+Abbreviationsii
+1 Introduction
+2 The Common Fisheries Policy and the Mediterranean Sea
+3 The Maltese fisheries:
+3.1 The 25 nautical mile Fisheries Management Zone (25NM FMZ)
+3.2 The Maltese commercial fishing fleet
+3.3 Recreational fisheries
+4 Fisheries covered by the multi-annual national management plan
+5 Fisheries covered by the multi-annual national management plan
+6 Description of the fishery
+7 Maltese management plan for the lampuki FAD fishery
+7.1 Objectives
+7.2 Status of the stocks
+7.3 Potential management tools
+7.3.1 List of possible management tools
+7.4 Assessment of the socio-economic impact of the potential management measures
+7.4.1 Estimate of production and fishing effort
+7.4.2 Projected price trends
+7.4.3 Projected income streams
+7.4.4 Supporting workings with respect to loss of profits estimates
+7.4.5 Carbon footprint of capture fisheries
+7.4.6 Projected results - lampuki
+7.5 Selection of best management tools
+7.6 Implementation of management measures
+7.7 Review of management measures 8 Conclusion
+Annex 1 - Lampuki FAD Fishery
+1. Description of the fishery
+1.1 General description
+1.2 The Lampuki Net
+2. Maltese Fleet Structure and Capacity
+3. Fishing effort data
+3.2 Trends in Total Effort
+3.3 Trends in Monthly Effort
+4. Biological characteristics of the main species caught
+5. Conservation Status of the Stock
+5.1 Trends in Regional Catches
+5.2 Trends in Maltese Catches
+5.3 Catch per Unit Effort
+5.4 Population State Indicators from Maltese Data
+6. Impact on By-Catch Species and the Environment
+6.2 By-catch species
+6.3 Environmental Impacts
+7. Ongoing Research
+8. Socio-economic characteristics of the fishery
+References
+List of figures
+Figure 1 Declining growth rate of fish production
+Figure 2 Landings in Metric Tonnes under each scenario
+Figure 3 Income in 2017 under each scenario
+Figure 4 Fish Aggregating Device (FAD) typically used in the Maltese Islands (adapted from [10]).
+Figure 5 Diagram of a Lampuki net [11].
+Figure 6 Temporal variation in nominal fishing effort, expressed in terms of number of FADs fished * number of fishing trips by the lampuki FAD fishing fleet in 2006- 2011, with fitted regression line.
+Figure 7 Mean monthly fishing effort (+/- 1 SD) for the lampuki FAD fishing fleet in 2006-2011; units are effort as number of FADs fished * number of fishing trips.
+Figure 8 Evolution of total lampuki landings from the Mediterranean in the period 1970- 2010 (GFCM Capture Production 1970-2010).
+Figure 9 Evolution of lampuki landings by different Mediterranean countries in the
+period 1970-2010 (GFCM Capture Production 1970-2010).
+Figure 10 C. hippurus landings in the Maltese Islands since 1954 (historical Maltese data).
+Figure 11 Mean monthly landings (+/- 1 SD) for the lampuki FAD fishing fleet in 2006- 2011.
+Figure 12 Catch per unit effort (as t/number of FADs fished * number of fishing trips) for lampuki (C. hippurus) estimated for the Maltese FAD fishery during the period 2006-2011, with fitted regression line.
+Figure 13 Density map of average CPUE in kg day-1 FAD-1 of C. hippurus for the 2009 fishing season (August - December) [46].
+Figure 14 Mean C. hippurus landings per transect per season (kg/transect/season) for each district in 2005, 2006, 2008 and 2009 FAD fishing seasons; error bars show 95% confidence intervals [46].
+Figure 15 Length frequency distributions of FAD lampuki (C. hippurus) catches in by the 6-12 m and 12-18 m vessel length fleet segments in the Maltese Islands.
+Figure 16 Average monthly length frequency distribution of C. hippurus recorded in the Maltese Islands in 2009-2011; fork length composition of catches increases rapidly over the fishing season as a result of the high growth rates of this species.
+Figure 17 Minimum size of lampuki (C. hippurus) caught by the 6-12 m and 12-18 m fleet segments in the Maltese Islands
+Figure 18 Maximum size of lampuki (C. hippurus) caught by the 6-12 m and 12-18 m fleet segments in the Maltese Islands
+Figure 19 Average size of lampuki (C. hippurus) caught by the 6-12 m and 12-18 m fleet segments in the Maltese Islands.
+Figure 20 Age in days against fork length (cm), for market samples of lampuki (C.
+hippurus) caught in the Maltese islands in 2005-2010.
+List of tables
+Table 1 Objectives, indicators and targets for the lampuki fishery management plan
+Table 2 Price elasticity co-efficient for some of the species targeted in Malta
+Table 3 Profitability estimate per vessel
+Table 4 Assumptions made in the scenario analysis
+Table 5 Economic net present value of all scenarios compared to scenario 1
+Table 6 2006-2011 fleet capacity data for the vessels licensed to fish for lampuki (C. hippurus) using FADs
+Table 7 Characteristics of vessels licensed to participate in the 2011 lampuki (C. hippurus) fishery.
+Table 8 Species distribution of main species caught when fishing for lampuki using FADs
+Table 9 Maximum age, maturity and spawning season of main species caught when fishing for lampuki using FADs.
+Table 10 Average percentage contribution of lampuki landings by country from the 1970s
+onwards (GFCM Capture Production 1970-2010).
+Table 11 Mean sagitta age (days), mean lapillus age (days) and mean fork length (cm) for market samples of lampuki (C. hippurus) caught in the Maltese islands in 2005- 2010.
+Table 12 Values for the economic variables and indicators for the vessels licensed to fish for lampuki (C. hippurus) using FADs.
+Abbreviations
+CPUE Catch per Unit Effort ENPV Economic Net Present Value FAO Food and Agriculture Organisation FAD Fish Aggregating Device FMZ Fisheries Management Zone
+OECD Organization for Economic Co-operation and Development
+STECF Scientific, Technical and Economic Committee for Fisheries (STECF)
+1. Introduction
+The Maltese archipelago lies more or less at the centre of the Mediterranean, 93 km south of Sicily and 288 km north of Africa in a maritime area largely characterised by international waters.
+Malta is geographically the smallest EU Member State and its coastline amounts to around 0.8% of the total EU coastline*.
+The Maltese fleet is predominantly small-scale with a rich and extensive artisanal portfolio. It accounts for around 0.03% of the total EU catch**.
+The Scientific, Technical and Economic Committee for Fisheries (STECF) notes that because most of the resources are shared with other countries, the current status of stocks depends little on the activity of the Maltese fleet. The STECF concludes that this fact creates many problems for identifying actions that the Management Plan can carry out unilaterally.
+Malta's geographic position and size, the scale of its fishery, and the scale of its fishery, the spatial distribution of exploited stocks and fishing grounds shared with neighbouring EU and non EU countries, severely restrain the scope of any unilateral conservation effort and de-facto limit the applicability of Article 19 of Council Regulation 1967/2006.
+2 The Common Fisheries Policy and the Mediterranean Sea
+The Common Fisheries Policy (CFP) sets out the main framework for managing the fisheries sector in the EU. Because of the characteristics of the Mediterranean fishery, EU catch limits or quotas are not applicable, with the exception of limits on bluefin tuna that have been introduced in response to recommendations by the International Commission on Conservation of Atlantic Tuna (ICCAT). Apart from the general absence of catch limits, in all other respects, the region is subject to a range of EU wide management
+* Including data on Croatia ** Based on 2009 Eurostat data measures, including requirements relating to the EU vessel register, licensing, monitoring and control arrangements, and data collection measures.
+The core of EU Mediterranean fisheries management measures are set out in EU Council Regulation (EC) 1967/2006 concerning management measures for the sustainable exploitation of fishery resources in the Mediterranean. Article 19 of the said regulation, together with Council Regulation (EC) No 2371/2002 on the conservation and sustainable exploitation of fisheries resources under the Common Fisheries Policy, form the legal framework for the implementation of management plans.
+3 The Maltese fisheries:
+3.1 The 25 nautical mile Fisheries Management Zone (25NM FMZ)
+The provisions related to the 25 nautical mile management zone (25 NM FMZ) around Malta are outlined in Article 26 of the Council Regulation 1967/2006. Therefore the fisheries covered by this management plan are already subject to a number of targeted measures including measures limiting fishing effort, capacity, vessel size, engine power and fishing areas for certain modes of fishing.
+The main fleet segment which is allowed to fish in the 25 NM FMZ is that composed of vessels smaller than 12 m. The small scale artisanal sector is the most sustainable fishing segment and this measure limits impacts on the marine environment to a minimum. The maximum fishing capacity for the 25 NM FMZ is set in the Treaty of Accession and is reflected in Council Regulation (EC) 1967/2006.
+A number of fishing activities conducted by vessels larger than 12 m are allowed to fish in the FMZ by way of derogation. These include a limited number of trawlers, vessels fishing for lampuki and vessels fishing with small pelagic purse seines and longlines.
+3.2 The Maltese commercial fishing fleet
+As from January 2013, the Maltese fishing fleet is currently composed of 399 full time vessels and 635 part time vessels. Out of these vessels 959 (92.7%) vessels are below 12 m and are considered to be small-scale fishing vessels, while the remaining 75 (7.3 %) vessels are over 12 m.
+The main fisheries in Maltese waters are those for bluefin tuna, lampuki, swordfish, demersal and small pelagics. These fisheries are mostly operated on a seasonal basis, according to the particular targeted species' migratory or biological behaviour.
+3.3 Recreational fisheries
+As of January 2013, the recreational category of vessels in the Maltese Fishing Vessel Register (FVR) is composed of 1,915 vessels. In accordance with Article 17 of Council Regulation 1967/2006, the use of towed nets, surrounding nets, purse seines, boat dredges, mechanised dredges, gillnets, trammel nets and combined bottom-set nets and longlines for highly migratory species are prohibited for recreational fisheries. Fish caught by vessels in this category cannot be sold.
+A Recreational Fisheries Board to discuss possible management measures including the possibility of restricting fishing effort has been set up. The Recreational Fisheries Board will provide a report with possible management measures and this, together with a consultation exercise with stakeholders, will be used as a basis to draft a Legal Notice on recreational fishing establishing minimum thresholds in terms of effort, gear selectivity and licensing to fish.
+4 Fisheries covered by the multi-annual national management plan
+The Maltese fisheries authority's main mission is to manage the Maltese Fisheries Management Zone (FMZ) through responsible and sustainable fishing. Provisions for the lampuki FAD (fish aggregating device) fishery are set out in Article 27 of Council Regulation 1967/2006 and Article 12 of Regulation No 1343/2011 of the Parliament and Council.
+The lampuki (Coryphaena hippurus) is a shared stock which cannot be managed unilaterally but requires joint management measures. In fact, the Scientific, Technical and Economic Committee for Fisheries (STECF) also notes that this stock shows a wide spatial distribution and management has to be co-ordinated with all the countries with fleets targeting such resources [1]. Furthermore, only limited data is available on the stock since data on the adult portion of the stock is limited as fisheries generally target juveniles and C. hippurus has a very wide geographical range and it being highly migratory it is not known if it is a single population or several subpopulations of the species exist. Due to these facts Malta's efforts in order to manage the lampuki resource are mainly focused on better monitoring and surveillance of the fishing fleet and its activity, together with enhancing data collection and knowledge about the biology of the species and the behaviour of the local fleet targeting it. In order to do so the following management plan has been developed.
+As for other fisheries within the 25 NM FMZ, a scientific review was made in order to give a detailed description of the fishery, to establish the fleet structure and capacity, to identify the biological characteristics of the stocks involved, and to identify the impact on by-catch species and the environment. This review is appended as Annex 1 to this report.
+Based on this scientific review, a list of findings and recommendations are put forward and based on these recommendations management measures were proposed.
+5 Fisheries covered by the multi-annual national management plan
+In line with Article 19 of Council Regulation 1967/2006, a management plan for fishing with a surrounding net has been developed. This plan has been developed for the Maltese fishing fleet licensed to fish for the lampuki using FADs inside and outside the 25NM FMZ.
+The management plan has been developed taking into account biological, economic and social objectives. For this plan the following steps will be followed:
+1. Definition of the objectives and quantification of targets to reach such objectives 2. Review of the status of the stocks based on Catch per Unit Effort (CPUE) and population state indicators obtained from local catches 3. Review of potential management tools and possible scenarios 4. Assessment of the socio-economic impact of the potential management measures 5. Selection of best management tools 6. Implementation of the management measures, and 7. Monitoring and evaluation of the results.
+The present plan should be considered as a living document. The plan will be revised on the basis of new information (data) and in terms of the biological and socio-economic performance of the chosen measures. Step 7 is therefore of paramount importance.
+6 Description of the fishery
+The lampuki (C. hippurus), in Malta known as 'lampuka' (plural: 'lampuki'), is one of the most important species for the economy of the Maltese fishing industry.
+Due to its traditional appeal, a consistent number of boat owners participate in this seasonal activity. Every season, in line with existent management measures, a maximum of 130 vessels are authorised to fish for lampuki using FADs in accordance to paragraph 2 of Article 27 of Council Regulation 1967/2006 and a surrounding net with a central body and 2 wings, which does not have a purse line and does not enclose the fish from below.
+Lampuki FADs are of an artisanal nature. They consist of a floating rectangular artisanal float anchored to the bottom by means of a limestone block. Attached to the artisanal float are a number of palm fronds which serve as primitive devices to attract fish.
+The FADs are distributed along transects all around the Maltese Islands, with the exception of another existent management measure reserving an area known as the swordfish corridor to the south-west of Malta, which is reserved for surface longline fishing. During the fishing season, during which the lampuki aggregate under the FADs, authorised vessels catch the species by the use of the surrounding net.
+In line with Council Regulation 1967/2006, the surrounding net has a maximum mesh size of 18 mm bar, a maximum total length ranging between 180 and 200 m and a maximum total drop of 36 m.
+7 Maltese management plan for the lampuki FAD fishery
+7.1 Objectives
+Based on the biological, social and economic aspects of the fishery the following objectives have been defined:
+1. Ensuring the sustainability of the stock through better monitoring of Maltese vessels 2. Ensuring financial stability for fishers
+For each objective, specific indicators and benchmarks were established so as to reach the objectives of the plan.
+Stock assessments for the related stocks are not available and thus the long time series of landings data, together with population state indicators such as yearly minimum size at first capture and average length are used in order to deduce status of the stock. Target reference points are set based on the findings.
+The socio-economic indicators and targets were calculated based on a set of variables and indicators using the economic data collected annually.
+With the findings several scenarios were presented and assessed in order to select the best management measures for the Maltese lampuki FAD fishery within the 25 NM FMZ.
+The objectives, indicators and targets are presented in Table 1 below.
+Table 1 Objectives, indicators and targets for the lampuki fishery management plan
+Objectives Indicator Targets Biological
+1. Ensuring sustainability 1. Historical, stable series of 1. Trends in local catches landings remain stable taking into consideration natural oscillations of the stock biomass.
+2. Catches should remain oscillating at an annual average of 350 t Socio-economic-
+1. Ensuring financial 1. Stability or increase in 1. Gross profit per vessel stability of fishers profit per vessel
+7.2 Status of the stocks
+C. hippurus is an epipelagic, oceanic species known to migrate over considerable distances. Traditional small-scale fisheries targeting the juvenile portion of this species take place in the central Mediterranean (Sicily, Malta, Tunisia and Libya) and the Western Mediterranean (Balearic Islands). Due to the fisheries targeting only the juvenile portion of the stock, complete stock assessments of this species in the Mediterranean have never been performed, since data about the adult portion is very limited.
+In view of this lack of stock assessments, other available data was used in order to deduce the status of the C. hippurus stock, which the Maltese fishers have been traditionally harvesting for several decades.
+Overall length frequency distribution of lampuki catches in the Maltese Islands in 2005- 2011 shows a decreasing trend in the minimum size of juvenile C. hippurus landed. The average size of the fish was found constant between 2005 and 2010, before declining from circa 40 cm to ca. 30 cm in 2011. Even though a stock assessment for C. hippurus in the Mediterranean is currently not present, from these results it is clear that growth overfishing is being exerted on the stock targeted by the Maltese fleet. Nonetheless trends in Maltese landings, for which data is available since 1954, showed a stable historic data series, with total lampuki landings oscillating around 350 t per year. This stability shows that when considered on its own, the Maltese lampuki fishery is sustainable, since catches remained stable over a long series of years. It is the recent regional increase in catches that has resulted in growth overfishing. This needs to be firmly considered for the development of any regional measures. The lampuki fishery can be described as the backbone of the Maltese fleet which has exploited the stock in a stable manner across time.
+Analysed regional data showed a significant increase in the total lampuki landings in the Mediterranean, especially over the last decade. While in the 1970s the main contributor of landings was Malta (average of 96% at around 357 t), during the 1980s landings from Tunisia increased in such a way (reaching an average of 30% of a total of 556 t) that in the 1990s Tunisia became the main contributor (average 60% of a total of 793 t). The average total landings in the Mediterranean reached 2,544 t in the 2000s, this level heightening to an average of 4,015 t between 2005 and 2010. While between 2001 and 2005 on average lampuki landings in the Mediterranean were attributed 63% to Tunisia, 26% to Malta and 11% to Spain, on average between 2006 and 2010 Italy was responsible for 56%, Tunisia for 26%, Malta for 10%, Spain for 4% and Libya for 4% of landings.
+Malta clearly has a long history of targeting lampuki, and seems to be the only country which did not increase its total lampuki landings over the last decade. Italian landings on the other hand seem to have increased dramatically since 2005; Tunisian and Spanish landings have increased steadily since the 1980s and the 1990s respectively, and Libyan fishermen for the first time harvested as many lampuki as Malta in 2009.
+7.3 Potential management tools
+As explained in section 3, in line with Council Regulation 1967/2006, several management tools are already in force for the Maltese fisheries. In addition to these management tools, other tools are also being considered. In this section a list of possible management tools is established and a brief description of each tool is given.
+7.3.1 List of possible management tools
+Due to the migratory characteristics of the stock, the only possible management tools that were considered are those that can be implemented at a national level.
+Catch Logbook - Article 14 of the Control Regulation (EC) 1224/2009 obliges vessels over 10m to record catches in a fishing logbook. The requirement of a paper logbook will be extended to all vessels licensed to partake in the lampuki FAD fishery to better monitor the catches and landings.
+Vessel Monitoring System- Article 9 of the Control Regulation (EC) 1224/2009 obliges vessels over 12 m to have a satellite based monitoring system to better monitor fishing activities. This requirement will be extended to all vessels in the fishery.
+Fishing authorisations: Article 19 of Council Regulation 1967/2006 obliges MS to have fishing authorisation for vessels included fishing in the FAD fishery. This system has already been in place.
+Fishing season: By Article 12 of Regulation 1343/2011 the fishing season for the lampuki fisheries using FADs extends from the 15th August till the end of December of the same year. By way of derogation from paragraph, if a Member State can demonstrate that, due to bad weather, the fishing vessels flying its flag were unable to make use of their normal fishing days that Member State may carry over days lost by its vessels in FAD fisheries until 31 January of the following year.
+Designated ports: All vessels authorised to fish in the FAD fishery are obliged to land in one of the designated ports and weigh their landing prior to first sale as required under article 60 of Council Regulation 1224/2009.
+7.4 Assessment of the socio-economic impact of the potential
+management measures
+For the lampuki FAD fisheries the following possible scenarios were identified:
+Scenario 1: Freezing all fishing effort. This would be achieved by stabilising both the number of licences as well as the number of fishing trips allowed to the current level. This should lead to a stabilisation of the fishing effort which in turn should minimise the risk on the stock. Increase in fishermen's earnings would therefore depend on increases in catches per unit effort (CPUE) and increases in prices. These increases are, however, not expected to be significant.
+Scenario 2: Freezing fishing capacity by number of vessels but allowing the number of fishing trips to fluctuate. The allowed increase in fishing trips could have an adverse effect on the stock levels of lampuki. Fishermen's income will benefit from reduced competition resulting from stabilisation of vessel capacity.
+Scenario 3: Reduce fishing effort through the introduction of a temporary cessation for the period spanning from 1 January to 31 January. This scenario will minimise the risk of stock exploitation, whilst limiting the adverse impact on fishermen earnings.
+7.4.1 Estimate of production and fishing effort
+For each of the identified scenarios, we have estimated the catches for lampuki by reference to growth rates in the past as well as production growth expectations for the future.
+OECD [2] expects world fisheries production in 2020 to grow by about 15% above the average level for 2008-2010. Major increases in the quantity of fish produced will originate from aquaculture. However, for the projection period, the annual growth rate of aquaculture is estimated at 2.8%; a reduction compared to the rate of 5.6% of the previous decade. Capture fisheries are expected to register small growth over the next ten years as shown in Figure 1 below.
+Figure 1 Declining growth rate of fish production
+On the other hand, the revised CFP estimates that a rise in average consumption of between 0.5% to 1% average yearly growth rate is expected in the majority of European countries (Austria, Belgium, Denmark, Finland, France, Germany, Greece, the Netherlands, Italy Luxembourg, Malta and the United Kingdom) [3].
+The effects that the planned management measures might have on the fishing effort have been taken into consideration in this procedure.
+7.4.2 Projected price trends
+OECD/FAO [2] expects world fish prices to continue the growing trend experienced in 2010 and early 2011. They will be affected by income and population growth, stagnant capture fisheries production, increasing feed cost and higher crude oil prices. All these factors will contribute to the rise in fish prices over the medium term.
+However, OECD/FAO [2] opines that there will be different scenarios for capture fisheries production and for aquaculture. With the growing price of fishmeal and the higher price of other feeds, the spread between the average price of output from aquaculture and capture will grow over the medium term. In addition, the average price for wild fish should increase less than farmed ones due to expected changes in fish composition, with more catches of lower value fish.
+OECD/FAO [2] expects the average world price for captured species to increase by 23% and for aquaculture species by a significant 50% by 2020 compared to the average 2008- 10. In addition to the need to compensate for the higher cost of fish meal, prices of aquaculture will also grow due to strong domestic demand.
+The price-quantity relationship has been specified by various formulae in the literature [4]. We have derived the price elasticity co-efficient from Nielsen [5] and are summarised below.
+Table 2 Price elasticity co-efficient for some of the species targeted in Malta
+Species Price elasticity co-efficient for every 1% fall in production Hake -0.37 Mullet -0.22 Shrimp -0.20
+Choice of ordinary or inverse demand model may be based on the realism of causality. In the case of food, the causality from demand changes to price is found more realistic than vice versa, as demand for food seems more determined by human needs, regardless of the price, than the demand for other goods. In the case of seafood in particular, the causality from demand changes to price is found more realistic than vice versa. This is because seafood is food and that demand is given by a marked exogenous supply, which is determined by circumstances such as bio-economy, weather, fishery management etc.
+In the literature ordinary demand models are used to forecast demand and inverse demand models are used to forecast price. In a part of this literature both models are used on the same data set and thereby forecast properties are tested. Burton (1992) finds that the inverse demand model forecasts price of wet fish in UK significantly better than the ordinary model forecasts demand for wet fish in UK. Eales et. al. (1997) reach the same conclusion regarding Japanese fish markets.
+7.4.3 Projected income streams
+Revenues by species are obtained as a product of the projected price and the estimated landings of a particular species. The costs of each fleet segment are broken down in categories that include salaries and wages, energy costs, repairs and maintenance costs, variable costs and non-variable costs. The cost projections are based on cost relationships that are derived from actual results registered in the period 2008 to 2011.
+7.4.4 Supporting workings with respect to loss of profits estimates
+The following table includes the workings that were used in estimating the loss of profits that could be incurred in the different scenarios envisaged in the management plans. Table 3 Profitability estimate per vessel
+Lampuki
+Five year revenues 4,373,610 Number of vessels 123.00 Average five year revenue per vessel 35,558 Average profit conversion 10% Average five year contribution per vessel 3,556
+The information is based on the economic data collected annually for the purpose of the EU Data
+Collection Programme by means of a sample survey. This data provides indications of the revenues generated by each type of fleet, nature and split of operational costs between fixed and variable costs and resultant profit contributions. The number of vessels is based on the fishing vessel register information.
+7.4.5 Carbon footprint of capture fisheries
+Global fisheries have a number of environmental consequences. These represent a cost to society, which is generally not accounted for by the industry's direct revenues and costs. Many of them are also very difficult to assign a monetary value to.
+Total CO2 emissions from fisheries globally are around 132 million tonnes [6]. The cost of carbon has a wide range of estimates across the literature. After considered analysis, the methodology adopted by the International Sustainability Unit in February 2012 [7] uses a social cost of carbon of US$29 (€23) based on Tol, 2009 [8], but recognises the high margins of error and differences of opinion inherent in this analysis.
+To calculate the global cost to society of the impact of greenhouse gas emissions linked to the fishery the average global figure for CO2 emissions of 1.7 tonnes of CO2 per tonne of catch could be used.
+7.4.6 Projected results - lampuki
+The management plan applies to fishing vessels authorised to fish for lampuki using FADs. The authorised fleet in 2011 consisted of 123 boats having an overall tonnage of 1,258 GT, a total main engine power of 16,122 kW and provides 109 gainfully occupied jobs. This represents more than 11% of the number of vessels registered in the Commercial fishing register. In 2011, lampuki landings amounted to almost 342 metric tonnes (€850,786 in value terms) which represents close to 18% of total landings but only 7.5% of its selling value.
+The management plan indicates that the current level of lampuki fishing is not threatening the conservation of the target fish stock as shown by the stable catch per unit effort. The management plan is in essence geared to freeze the fishing capacity/effort until the necessary research is carried out to enable future plans to provide a more reliable foundation for future initiatives. Three simulation scenarios have been simulated to estimate the effects of the different management initiatives included in the plan. For each scenario, given the results on total landings, the model was used to estimate the changes in economic variables over time. The main assumptions behind the different scenarios are included in Table 3.
+Table 4: Assumptions made in the scenario analysis
+2012 2013 2014 2015
+Landings growth Scenario 1 0.80% 0.70% 0.60% 0.50%
+Scenario 2 5.00% 4.00% 3.00% 2.00% Scenario 3 (10.00%) 0.70% 0.60% 0.50%
+Growth in prices Scenario 1 (0.16%) (0.14%) (0.12%) (0.10%)
+Scenario 2 (1.00%) (0.80%) (0.60%) (0.40%) Scenario 3 2.00% (0.14%) (0.12%) (0.10%)
+Temporary cessation Cost % of current capacity
+Scenario 1 - 100% Scenario 2 - 100% Scenario 3 (9,000) 100%
+Lampuki landings are projected to increase in line with the projected national average increase in landings when fishing effort is frozen i.e. growth per annum in landings drops from 0.9% to 0.5% at which level it stabilises from 2016 onwards. These landings growth projections are based on OECD and CFP studies that are referred to earlier. When fishing effort is not regulated it is assumed that landings growth stabilises at 1% per annum from 2016 onwards.
+The price-quantity relationship has been specified by various formulae in the literature (Huang, 2005). We have derived the price elasticity co-efficient from Nielsen [9] and
+assume that for every 1kg increase in landings, the price drops by 0.2%.
+Every month of temporary cessation leads to a 10% reduction in landings. The cost of temporary cessation is set at €9,000 and is based on the estimated earnings per vessel from the lampuki fishery activity over a five-year period.
+The figures below show the outcome of the scenario analysis compared with the 2011 baseline data.
+400 397.44
+353.76 350 315.86
+2011 2013 2014 2015 2016 2017
+Scenario 1 Scenario 2 Scenario 3
+Figure 2 Landings in Metric Tonnes under each scenario
+Landings are expected to stabilise under Scenario 1 wherein fishing effort is frozen at current levels, drop significantly under scenario 3 where temporary cessation policies are introduced. Landings are expected to increase mostly under scenario 2 where fishing capacity is frozen but fishing effort is not regulated.
+Total income
+Scenario 3 784,407
+Scenario 2 986,021
+Total income
+Scenario 1 878,536
+- 200,000 400,000 600,000 800,000 1,000,000 1,200,000
+Figure 3 Income in 2017 under each scenario
+Fluctuations in income are mainly determined by the dynamics of landings since price elasticity is generally low on fish products. Figure 3 shows that income is highest under scenario 2 and lowest under Scenario 3, as indeed is operating cash flow.
+Table 5 Economic net present value of all scenarios compared to scenario 1
+Scenario 1 Scenario 2 Scenario 3
+% variations with Baseline Baseline 14.3% (15.8% )
+While the economic net present value (ENPV, discounted at 5.5%) is positive in scenario 2, scenario 3 represents the lowest return.
+In view of the dual objective of conserving fish stocks and economic viability of fishing sector, it appears that Scenario 1 is the plan which provides results that are closest to its objectives since increase in landings is subdued when compared to increases under Scenario 2 whilst still retaining positive net economic benefits. Nonetheless these short term predictions must be treated with caution due to the natural oscillating pattern of the stock and thus Scenario 2 may also be considered to be viable based on the long series data provided in Figure 10.
+7.5 Selection of best management tools
+Since the fishery is predominantly shared with other Member States and third countries, Malta cannot unilaterally identify actions in order to manage these stocks. In view of this, regional management plans based on a level playing field with third countries are required. Malta will however continue to work towards setting up these regional plans. Efforts like participation in the MedSudMed and CopeMed II workshop and fisheries appraisal of C. hippurus in the Mediterranean will be maintained.
+Malta will continue working towards data collection and research towards the following topics included in the work plan drafted by the MedSudMed CopeMed II meeting:
+1. Identification of stock units in the Mediterranean sub-regions
+2. Identification of critical habitats (nursery and spawning sites) and of ecological requirements for the development of eggs and larvae
+3. Definition of some biological aspects like growth parameters and maturity ogives 4. Impact of fisheries based on FADs on by-catch species and on the environment
+Considering the stable historical time series of Maltese lampuki landings, the state of this fishery if considered on its own is sustainable, that is, the level of current fishing pressure can be maintained. Since the number of fishers participating in the FAD fishery is already fixed, Scenario 2 is the most favourable.
+7.6 Implementation of management measures
+The number of fishing vessels authorised to fish in the FAD fishery will be retained to 130 vessels. Such vessels will be installed with a tracking system as from 15 August 2014. In addition all 130 authorised vessels including those below 10 m will have to record the landings in a catch logbook and land in a designated port.
+Furthermore the Department of Fisheries and Aquaculture will continue to enhance data collection and research on:
+1. Identification of stock units in the Mediterranean sub-regions
+2. Identification of critical habitats (nursery and spawning sites) and of ecological requirements for the development of eggs and larvae 3. Definition of some biological aspects like growth parameters and maturity ogives 4. Impact of fisheries based on FADs on by-catch species and on the environment
+7.7 Review of management measures
+The review of the management measures will be conducted in 2018, unless there is a drastic change in the catches /economic situation of the fishery. In such cases the review should take place earlier. In the instance that regional management plans are adopted, this management plan will be reviewed.
+8 Conclusion
+Malta is committed to continue improving its efforts in carrying out effective monitoring and control of the fishing activity of the FAD fishery through ongoing reviews of this action plan. However, in view of the fact that the stock has a wide spatial distribution, well beyond the Malta 25 NM FMZ, considerable knowledge gaps need to be filled in order to fully understand the biology and population dynamics of lampuki; without this, scientifically sound assessment of stock status cannot be achieved. Thus, it is critical that management of this fishing activity be co-ordinated with all those countries with fleets targeting lampuki in order to develop and implement integrated effective management measures.
+Annex 1 - Lampuki FAD Fishery
+1. Description of the fishery
+1.1 General description
+The lampuki (C. hippurus) is one of the most important species for the economy of the Maltese fishing industry. Due to its importance a consistent number of boat owners participate in this seasonal activity.
+Lampuki FADs are of an artisanal nature. They consist of a floating rectangular structure anchored to the bottom by means of a limestone block. Attached to the float close to the surface are a number of palm fronds which serve to attract the fish. Whether lampuki simply seek refuge or are attracted by other small fish, which serve as prey, hiding under the FADs is the subject of ongoing scientific studies. The FADs are distributed along transects all around the Maltese Islands with the exception of an area known as the swordfish corridor in the south-west of Malta, which is reserved for fishing with surface longlines. Once the lampuki are aggregated under the FADs, they are caught by surrounding nets.
+Figure 4 Fish Aggregating Device (FAD) typically used in the Maltese Islands (adapted from [10]).
+1.2 The Lampuki Net
+The Lampuki net is a surrounding net with a central body and 2 wings, that neither has a purse line and nor envelopes the fish from below. The net consists of four main parts: two wings, a body (centre) and a landing-bag. The centre is made up of various sections, and there are a further two strips of net running the whole length of the net, both where it is attached to the float-line and lead-line. Each section of the net has different specifications, and these vary not only from fisher to fisher, but also for the same vessel as the season progresses. It is usual to increase the number of meshes (depth), and make other modifications as the fish grow larger and occur deeper.
+Figure 5 Diagram of a Lampuki net [11].
+The total length of the net varies from 180 metres as would be used by a traditional craft of the luzzu type, to 300 metres for a large fishing vessel (20 m in length). The main component of the increase in length is in the wings, particularly the second wing. Factors having an effect on the length of the wings include length of vessel and manoeuvrability.
+The setting wing (banda tal-pruwwa)
+This varies in length from 54 metres for smaller vessels, to 100 metres for the larger vessels. This is usually 400 meshes deep, but can be 600 meshes for a large boat. It consists of mesh of 24-26 mm bar (usually 25 mm) and twine from denier 210/6 to 210/9. As winter approaches, a net with wings of 500/600 meshes is sometimes preferred (for reasons explained above).
+The second wing (banda tal-poppa)
+Though the specifications are the same as those of the setting wing in use at the time, this wing is always considerably longer varying from 85-200 metres depending on the size of the vessel.
+The centre (fonti)
+This consists of a central and upper landing-bag (qtil il-ħut), bordered on each side by the shoulders (spalla) and below by the ëan. Though in the past, before the introduction of mechanised winches, these parts had different specifications, now it is usually only the landing-bag which is different from the rest of the fonti. (It is possible that this name is derived from fond meaning deep, as the net deepens in the centre). A simpler version of the fonti has the landing-bag running its whole length.
+The fonti varies in length from 24-50 metres (34 metres and 36 metres being more common). It varies from 500 to 600 meshes deep. A 600 mesh fonti could be 36 metres deep. The mesh size varies from 22 mm bar to 28 mm bar. Some fishermen prefer a mesh size smaller than that used in the wings, while others have it larger. The thickness of twine at the centre is thicker than at the wings; denier 210/9 to denier 210/21 is usually used.
+At the fonti, one might have 24 metres of netting. This would be attached to 16 metres of floatline (thus creating a bag). Furthermore, below it is attached to 12 metres of lead-line giving a 'funnel' effect. Such a fonti would drop to a depth of about 26 metres.
+The landing-bag (qtil il-ħut)
+The landing-bag varies in length (at the float-line), from 10-15 metres. It consists of meshes 300 x 300 or 400 x 400. The length at the bottom end is reduced to create a funnel effect. This is the part of the net having the smallest mesh size, with a variance of from 18 mm bar to 22 mm bar. Also, this is where the net is at its strongest with a twine of denier 210/20, or for those preferring lighter nets, denier 210/27 is more common. (Another factor affecting choice of netting is number of crew, with small crews preferring lighter nets).
+The sardun - border / protective strip
+Running the whole length of the net, both where it is attached to the float-line and to the lead-line, is a strip of netting whose purpose is to avoid damage to the net by floats / weights when the net is being hauled in by winches. Though it is usual to have a sardun, it is not always present in smaller nets used on the traditional luzzu.
+The length corresponds to the length of the net, and the depth varies from 25 to 50 meshes, with 25 being more common. The mesh size is usually similar to that of the wings 24/25 mm bar, but larger mesh of 28 mm bar is also used. The twine varies from denier 210/15 to denier 210/21.
+The float-line is 6 - 6.7 mm in diameter. The number of floats varies from 450 to over 600, depending on the length, and consequently, the weight of the net and lead-line. Commonly used floats are 40 mm long. Whereas over the wings the floats are spaced roughly every 30 cm. over the landing-bag, they are practically touching. This is a result of the added lead-lines. When deeper nets are used for the wings (600 meshes) the frequency of the floats is increased (every 10 cm).
+The lead-line, which is 12-14 mm diameter, weighs typically 40 kg/100 metres. While only one lead-line runs the length of the wings, three consecutive lead-lines lie under the landing-bag. The general opinion among fishers is that the more lead the better, as the net drops quicker and is therefore more efficient. On the other hand, number of crew is a limiting factor in this regard.
+2. Maltese Fleet Structure and Capacity
+The lampuki fishing season runs from 15 August till 31 December, but may be extended to January due to bad weather days during the season in accordance to article 12 of Regulation 1343/2011. Fishing authorisations for a maximum of 130 vessels, with a set FAD trajectory per vessel, are issued on an annual basis in accordance to article 27 of Council Regulation 1967/2009.
+A summary of the 2011 fleet with lampuki fishing permits is presented below. In 2011, vessel length varied from 6 m to 24 m, with an average vessel length of 10 m. Vessel gross tonnage varied from 1 to 75 t, with an average gross tonnage of 10 t. Vessel engine power ranged from 16 kW to 597 kW, with an average power of 133 kW.
+Table 6 2006-2011 fleet capacity data for the vessels licensed to fish for lampuki (C. hippurus) using FADs
+Average Average Average Total Average
+age of Number Total GT length of engine engine Year GT of
+vessels of vessels of vessels vessels power power vessels
+(years)3 (m) (kW) (kW)
+2006 108 23 11.7 1264.4 11 139.9 15110.6 2007 87 24 12.4 1076.6 11.2 131 11393.8 2008 115 25 9.9 1140.2 10.4 128.2 14738.6 2009 110 24 10.8 1172.9 10.6 136.4 15006 2010 112 23 10.7 1197.3 10.4 138.3 15490.1 2011 123 23 10.4 1257.7 10.3 133.2 16121.7
+3 Average age refers to average age in reference year. .
+As can be seen from Table 6, fleet capacity of vessels targeting C. hippurus remained constant in 2006-2011. Catches declined from 563 tonnes to a minimum of 188.6 tonnes in 2008, but in 2010 recovered to 524.2 tonnes.
+Table 7 Characteristics of vessels licensed to participate in the 2011 lampuki (C. hippurus) fishery.
+Average Total Vessel LOA Number of
+Average GT Average kW Number of Number of
+(m) Vessels
+FADs FADs 6 17 2 68 83 1320 7 27 3 95 100 2590 8 11 5 116 101 1110 9 15 6 125 122 1830 10 11 9 135 171 1880 11 12 10 159 144 1730 12 4 11 208 163 650 13 4 15 118 163 650 14 9 19 181 207 1860 15 1 24 134 200 200 16 2 36 213 225 450 17 1 37 246 300 300 18 2 40 198 160 320 19 1 46 287 300 300 20 1 52 313 250 250 21 2 49 269 300 300 23 1 75 597 80 80
+On the other hand in Tunisia about 260 vessels of an average length of 11 m and engine power of 45 hp are involved in the lampuki fisheries, each boat using between 17 and 75 FADs during each fishing season [12], compared to 38 boats deploying circa 1150-1500 FADs in Majorca in 2009.
+3. Fishing effort data
+Effort data are currently only available in terms of the total number of vessels participating in the fishery (including vessel details such as vessel LOA, GT, engine kW) and the total number of FADs deployed. Only estimates are available on the actual number of fishing trips (since vessels < 10 m are sampled through the Catch Assessment Survey), or on the number of FADs visited during a fishing trip. Indeed the number of FADs visited during a fishing trip can be highly variable, depending on factors such as vessel size, abundance of fish and general weather conditions [13] as well as wind and current conditions, in particular since the latter may have considerable influence on capture probability [14].
+3.2 Trends in Total Effort
+The nominal annual fishing effort of the lampuki FAD fleet in terms of number of FADs fished * number of fishing trips showed an overall increasing trend during the period 2006-2011. This increasing trend was primarily due to an important increase in the fishing effort exerted in 2011; the nominal fishing effort recoded in 2011 increased by 64% compared to 2010.
+A linear regression analysis was carried out in order to gauge the linearity of the trend in the data series (Figure 6). The results returned a R2 value of 0.69, confirming that the trend was not linear due to important inter-annual fluctuations in the data.
+200000
+y = 27756x - 6E+07
+2 = 0.6875 R
+Effort (N FADs * N Trips)
+150000
+(Thousands)
+100000
+2005 2007 2009
+Year
+Figure 6 Temporal variation in nominal fishing effort, expressed in terms of number of FADs fished * number of fishing trips by the lampuki FAD fishing fleet in 2006-2011, with fitted regression line.
+3.3 Trends in Monthly Effort
+The monthly variations in mean nominal fishing effort in terms of the number of FADs fished * number of fishing trips made during a fishing season (August - January of the following year, where applicable) were analysed (Figure 7).The results showed an increase in fishing effort recorded during the month of August to peak levels of activity in September and October. Mean fishing effort in November was similar to fishing effort exerted on the lampuki stock in August; the lowest levels of activity were recorded in December and January.
+Such information is important in relation to the biology of the target species. Data on the size (as fork length) composition of Maltese lampuki catches shows that the smallest individuals are caught in August and September of each fishing season; despite the rapid growth of the species, individuals which are sexually mature are only fished in October- January (Figure 16).
+(N FADs * N Trips)
+10000 Mean Effort (Thousands)
+Aug Sep Oct Nov Dec Jan
+Month
+Figure 7 Mean monthly fishing effort (+/- 1 SD) for the lampuki FAD fishing fleet in 2006-2011; units are effort as number of FADs fished * number of fishing trips.
+Catch/effort control measures should target the months of August and September, when the fishing effort, and thus the fishing mortality levels of the lampuki stock by the Maltese lampuki FAD fishing fleet, are highest. Such measures would allow more individuals to reproduce successfully and ultimately will ensure long term sustainability of catches.
+4. Biological characteristics of the main species caught
+A brief description of the distribution of the main target species has been included in Table 8 below. While Table 9 depicts information on the age, maturity and spawning season of the commercial targeted and by-catch species caught when fishing for the lampuki using FADs. The information provided in the table has been gathered from several different literature since such information is not specifically available for the Maltese waters.
+Table 8 Species distribution of main species caught when fishing for lampuki using FADs
+Species distribution Scientific Vernacular
+Geographical Bathymetric Spawning/ name name Species habitat
+Distribution distribution Nursery site Dolphin fish Cosmopolitan, epipelagic, but Surface Open water C. hippurus tropical and also approaching waters- 200m when water subtropical the coast. [16] temperature waters [15] Aggregate under rises. [17] floating objects
+in search of
+refuge and prey
+[15]
+Pilot fish Circumtropical Oceanic with a Surface - 30m Eggs are Naucrates in tropical semi-obligate [20] pelagic. Young doctor seas. [18] commensal are usually relationship with associated with sharks, rays, jellyfish and other bony fishes drifting and turtles [19] seaweed [21] Amberjack Circumglobal deep seaward depth range 1 - Eggs are Seriola [22] reefs; 360 m [23] pelagic. dumerili occasionally Juveniles entering coastal associate with bays [23] floating plants or debris. [24]
+Table 9 Maximum age, maturity and spawning season of main species caught when fishing for lampuki using FADs.
+Species Max Age Maturity (L50) Spawning Season
+Dolphin fish 4 years [25] 58.9 cm FL for males June to September and 62.5 cm FL for (Western and Central females [26] Mediterranean)[27] Pilot fish 3 years [28] N/A Probably a prolonged spawning season starting from early summer till late autumn. [29] Amberjack 17 years [30] 109.0 cm [31] Peak spawning off south Florida and the Florida Keys occurred during April and May [32]
+5. Conservation Status of the Stock
+The target species C. hippurus is an epipelagic, oceanic species known to migrate over considerable distances. Traditional small-scale fisheries for lampuki are carried out in the Central Mediterranean (Sicily, Malta, Tunisia, Libya) and the Western Mediterranean (Balearic Islands). Although there is no documented information for other areas in the Mediterranean it is likely that Algerian artisanal fishers, and possibly others, also target C. hippurus [33]. The FAD fishery targets juvenile lampuki (0 age group), despite the fact that the lifespan of this species has been estimated at four years [34].
+Information on the biology, migratory patterns and population structure is limited, and the only information on the conservation status of the Mediterranean lampuki stock is a stock assessment carried out for the western Mediterranean based on fisheries dependent data from Mallorca [34]. The authors concluded that the exploited fraction of the lampuki population is composed of individuals in the 0-age class, and suggest that fluctuations in catches may be related to environmental parameters and to the migratory behaviour of the species. Since only a part of the stock was included in the assessment, the assessment was considered preliminary.
+It is very likely that the Italian, Tunisian, Maltese, Spanish and Libyan fisheries are exploiting a single, shared stock. Pla and Pujolar [35] used protein electrophoresis to study the population genetic structure of lampuki in the Mediterranean and eastern Atlantic. Genetic variability characteristic of a highly migratory species was found, and the authors conclude that it is likely that lampuki form one large panmictic population across the Mediterranean.
+This conclusion was confirmed in a second study carried out by Zanuy and Pla as part of the COPEMED project which assessed dolphinfish samples from Malta and Tunis [36].
+Using an approach based on mitochondrial DNA, Diaz-James et al. [37] have provided evidence for the existence of a separate Mediterranean phylogroup. Samples of dolphinfish taken from the Mediterranean were found to differ significantly from those taken in the Northeastern Atlantic. Furthermore, the Mediterranean samples showed a low level of genetic diversity. This implies that despite the connection between the Mediterranean and the Atlantic via the straits of Gibraltar, the population targeted by fishers in the Mediterranean is separate to that found in the Atlantic. Diaz-James et al. [37] propose that this may be due to the fact that the Mediterranean population was isolated for long periods of time during successive ice-ages where the sea level in the Mediterranean basin decreased, separating it from the Atlantic. These periods of isolation were characterised by a decrease in the population of dolphinfish resident in the Mediterranean - which explains the high degree of homogeneity found between individuals across the Mediterranean.
+A strong link between environmental factors and survival of larvae has been investigated in studies by Alemany et al. [38], Kraul [39], Sabates et al. [40], and Sabates and Saiz [41]. Larval survival appears to be coupled to areas characterised by marine fronts where currents with different densities and water temperatures meet. In these areas, downwelling occurs, concentrating debris and plankton ensuring a ready supply of food and shelter for the larvae. Survival is also dependent on anticyclonic currents that favour retention of larvae in an area, temperatures of above 16 - 18oC, and marine stratification which further concentrates plankton in surface waters.
+The Mediterranean population of Coryphaena hippurus spawns between June and September in the Balearic islands. This region functions as an important spawning ground for most of the large pelagic fishes inhabiting Mediterranean. Monthly progression of maturity stage and gonadosomatic index in adult fish sampled from the western and central Mediterranean show a reproduction period from June to September [42]. A pre-spawning migration of adult, mature dolphinfish into the Mediterranean from the Atlantic is suggested, following migratory patterns similar to those of bluefin tuna (Thunnus thynnus) [42]. The adult originate from a different spawning and are at least one year old. The peak spawning season occurs in June and July. This is the origin of the fish caught by traditional fisheries between August and December [42]. The capture of dolphinfish fingerlings from the western Mediterranean in June is in agreement with the proposed June - July spawning peak in the Mediterranean.
+During summer, the dynamics of surface water masses in the Balearic region are mainly conditioned by the interaction between Surface Mediterranean Waters (SMW), moving southward from the northern part of western Mediterranean, and Modified Atlantic Waters (MAW), flowing northwards from the Algerian Basin. This leads to a complex hydrographic situation with strong currents in open water away from the continental shelf, fronts, and eddies present in the area [47] As summer progresses, stratification and surface water temperatures increase, while salinity decreases since a layer of MAW forms above the denser SMW due to downwelling of the latter [38]. Larvae tend to concentrate on the continental shelf where there are no strong currents and circulation is anticyclonic -favouring larval retention. The well-mixed surface waters ensure that plankton is distributed uniformly [40].
+Similar findings were made for dolphinfish in the waters around Hawaii [39]. Dolphinfish are particularly abundant during the summer months due to propitious survival of larvae spawned around July. CPUE data shows that maximum catches are recorded in the vicinity of an area where equatorial currents meet colder northern currents.
+The phenomenon of meridionalisation has led to Coryphaena hippurus extending its range northwards in various marine basins. Range extensions have been observed in the Mediterranean [43], and in the Pacific [44].
+In order to reliably assess the population status of lampuki, regional collaboration on data collection and data analysis is needed. In the absence of such a regional stock assessment, available data on total landings in the Mediterranean and stock parameters measured in the
+Maltese Islands since 2006 are presented in the rest of Section 5 below.
+5.1 Trends in Regional Catches
+Figure 8 Evolution of total lampuki landings from the Mediterranean in the period 1970- 2010 (GFCM Capture Production 1970-2010).
+The lampuki fishery using FADs was a developing fishery in the Mediterranean over the last 4 decades. Based on catch data available from the GFCM Capture Production Database, the total landings of lampuki in the Mediterranean averaged around 376 t in the 1970s, increased to an average of 556 t in the 1980s and 793 t in the 1990s. Total landings continued to increase during the 2000s (with an average of 2,544 t), especially during the last few years (average total landings between 2006 and 2010 is 4,015 t). This means that the landings of lampuki in the Mediterranean increased at least ten fold over a period of forty years.
+Based on the same data, changes in the exploitation pattern of this species by country can be analysed (Table 10). During the 1970s the species was mainly exploited by Malta with some landings from Tunisia, with no other country recording landings of lampuki during the period. The same pattern can be observed during the 1980s and 1990s, with increasing interest in the species from Tunisia, being the main exploiter of this species in the 1990s. Interest from other countries, mainly Italy and Spain started to be recorded during the 2000s, at which point their landings surpassed those from the Maltese Islands. The greatest change in exploitation of this resource was observed during the last 5 years of the series. While between 2001 and 2005 on average lampuki landings in the Mediterranean were attributed 63% to Tunisia, 26% to Malta and 11% to Spain, on average between 2006 and 2010 Italy was responsible for 56%, Tunisia for 26%, Malta for 10%, Spain for 4% and Libya for 4% of landings. Malta clearly has a long history of targeting lampuki, and seems to be the only country which did not increase its total lampuki landings over the last decade. Italian landings on the other hand seem to have increased dramatically since 2005; Tunisian and Spanish landings have increased steadily since the 1980s and the 1990s respectively, and Libyan fishermen for the first time harvested as many lampuki as Malta in 2009.
+Whilst the data is likely to give a reliable indication of the trend in landings, earlier reports of lampuki being harvested by the Sicilian fleet do exist despite the lack of data on Italian landings prior to 2005. According to Cannizzaro [45] about 300 Sicilian, 200 Tunisian and 50 Majorcan artisanal vessels were fishing for lampuki in the 1990s.
+Table 10 Average percentage contribution of lampuki landings by country from the 1970s onwards (GFCM Capture Production 1970-2010).
+Average percentage contribution of lampuki landings
+Country
+1970-1979 1980-1989 1990-1999 2000-2009 2001-2005 2006-2010
+Italy 0 0 0 23 0 56 Libya 0 0 0 1 0 4 Malta 96 70 40 19 26 10 Spain 0 0 1 8 11 4 Tunisia 4 30 60 49 63 26
+Figure 9 Evolution of lampuki landings by different Mediterranean countries in the period 1970-2010 (GFCM Capture Production 1970-2010).
+5.2 Trends in Maltese Catches
+Total landings data for the traditional Maltese 'lampuki' fishery have been recorded since 1954. Total landings of lampuki have oscillated around an average of 350 t per year since 1954. No pattern of increasing or decreasing landings can be discerned. The fluctuations of total catches are likely to be due to the impacts of environmental variations as well as the poorly understood migratory behaviour of C. hippurus. Lleonart et al. [34] recorded a similar pattern and suggested that these two related factors could result in both recruitment and spawning failures in the Western Mediterranean. Recruitment variations linked to fluctuations in oceanographic conditions is however likely to be the more important factor affecting the number of juveniles available to fishers, rather than spawning stock biomass [46].
+In the absence of effort data for the historical time series another factor which may have caused fluctuations in total landings is weather conditions during the lampuki FAD season; rough weather will reduce the number of fishing days available to fishers.
+Landings (t)
+1954 1959 1964 1969 1974 1979 1984 1989 1994 1999 2004 2009
+Figure 10 C. hippurus landings in the Maltese Islands since 1954 (historical Maltese data).
+Mean Landings (t)
+Aug Sep Oct Nov Dec Jan
+Month
+Figure 11 Mean monthly landings (+/- 1 SD9) for the lampuki FAD fishing fleet in 2006-
+An analysis of monthly variations in mean landings during the period 2006-2011 (Figure 11) showed lower levels of landings in the month of August, followed by two months of higher landings in September-October before gradually decreasing in November. December and January only contributed 8% of the mean landings recorded in 2006-2011. This pattern is similar to the pattern of mean monthly fishing effort exerted during the same period (Figure 7 above), indicating that monthly fluctuations in landings are linked to variations in fishing effort. similar pattern of landing peaks in September-October has been identified for the Balearic Islands based on 1987-1996 and 2004 seasonal data [28, 34], and for the Tunisian lampuki fishery, where 70% of total landings in the 1990-1997 fishing seasons were landed during the months of September and October [12].
+5.3 Catch per Unit Effort
+Catch per Unit Effort (CPUE) estimates provide a relative index of stock abundance; an increase in CPUE can be interpreted as a positive sign showing that species are not yet subjected to overfishing. However, inter-annual changes in CPUE can also be due to changes in fishing technology, stock abundance due to natural fluctuations in population productivty, and changes in the species targetted by fishers. All these aspects need to be taken into consideration when interpreting CPUE as an indicator of stocks. Moreover, particular caution needs to be applied in relation to stocks similar to C. hippurus for which sinusoidal fluctuations are observed in time (Figure 10), especially when the series of CPUE data being considered is relatively low. In similar cases, in order fro CPUE data to have any meaning, data series must cover multiple cycles, including several crests and troughs.
+A CPUE analysis was nevertheless carried out for C. hippurus based on the nominal effort parameter, number of FADs * number of fishing trips.
+Results show a clear decreasing trend in CPUE for the lampuki FAD fishery of the Maltese Islands over the analysed period 2006-2011. Due to the short time series available and the considerable inter-annual variations in CPUE, linear regression analysis gave a low value with regards to goodness-of-fit (R2 = 0.62). As already stated above, such results are to be treated with caution, since the data series analysed is too short in order to be able to extract any conclusive advice using CPUE trends.
+0.05
+(t / N FADs * N Trips)
+y = -0.0052x + 10.42
+0.04
+R2 = 0.6198
+0.03 CPUE
+0.02
+0.01
+0.00
+2005 2006 2007 2008 2009 2010 2011 2012
+Year
+Figure 12 Catch per unit effort (as t/number of FADs fished * number of fishing trips) for lampuki (C. hippurus) estimated for the Maltese FAD fishery during the period 2006- 2011, with fitted regression line.
+Total CPUE of C. hippurus fluctuates on a seasonal basis, and a migratory pattern around the Maltese Islands has been hypothesised [46] was based on an analysis of annual catch data from sales vouchers and the number and location of FADs allocated to vessels in 2005, 2006, 2008 and 2009, as well as fishers' knowledge with regards to seasonal changes in fish distribution patterns.
+Figure 13 Density map of average CPUE in kg day-1 FAD-1 of C. hippurus for the 2009 fishing season (August - December) [46].
+Based on information from professional fishermen and patterns from the monthly density maps of Maltese lampuki catches (Figure 13), C. hippurus seem to migrate in a counter-clockwise direction from the South of Malta (Marsaxlokk) to the west of Gozo (Xlendi) as the FAD fishing season progresses from August to December. Statistical analysis confirmed that mean landings per month were significantly different between districts during the studied months. When mean landings per transect per season were analysed, the district of Xlendi had significantly higher values compared to other districts [46].
+Figure 14 Mean C. hippurus landings per transect per season (kg/transect/season) for each district in 2005, 2006, 2008 and 2009 FAD fishing seasons; error bars show 95% confidence intervals [46].
+A limitation of this study was however that the number of fishing days was only calculated based on the days fishers reported any catches; no data were available on the number of days fishers went to sea without landing fish. Moreover the number of FADs visited during a trip is highly variable and depends on the weather and abundance of fish; the only data available was for the total number of deployed FADs on each transect.
+5.4 Population State Indicators from Maltese Data
+In the absence of information on stock parameters from Italy, Tunisia, Spain and Libya, information from the Maltese Islands is presented below. Considering the fact that Malta was only responsible for 10% of total landings in 2006-2010 it is clear that any reliable assessment of population state or fishing pressure will need to also incorporate Italian and Tunisian data. Nevertheless the available, fisheries-dependent, data from Malta was presented below. At present, no fisheries-independent surveys of C. hippurus have been carried out, and hence, no fisheries independent population state indicators are available.
+Figure 15 below shows the length frequency distributions for catches of vessels measuring 6-12 m and 12-18 m, in 2005-2011. Lampuki have very rapid growth rates and metabolism.
+The length frequency distribution for 2011 illustrates an increase in landed individuals measuring less than 30 cm fork length in 2011.
+50 6-12 m vessels 50
+12-18 m vessels
+40 N Individuals
+N Individuals
+20 30 20 30 40 50 60 70
+Fork Length (cm) Fork Length (cm)
+6-12 m vessels 50 50
+12-18 m vessels
+40 40
+N Individuals N Individuals
+30 30
+20 20 10 10 0 0
+20 30 20 30 40 50 60 70 Fork Length (cm) Fork Length (cm)
+6-12 m vessels
+50 50
+12-18 m vessels
+40 40
+N Individuals N Individuals
+30 30 20 20 10 10 0 0
+20 30 40 50 60 70 20 30 Fork Length (cm) Fork Length (cm)
+6-12 m vessels 50 12-18 m vessels
+N Individuals
+20 30 40 50 60 70
+Fork Length (cm)
+Figure 15 Length frequency distributions of FAD lampuki (C. hippurus) catches in by the
+6-12 m and 12-18 m vessel length fleet segments in the Maltese Islands.
+September August
+N Individuals Landed 20000 20000
+10000 10000
+0 0
+18 28 38 48 58 68 18 28 38 48 58 68 Fork Length Class (cm) Fork Length Class (cm)
+November October
+N Individuals Landed 20000 20000
+10000 10000
+0 0
+18 28 38 48 58 68 18 28 38 48 58 68 Fork Length Class (cm) Fork Length Class (cm)
+December January
+N Individuals Landed 20000 20000 N Individuals Landed
+10000 10000
+0 0
+18 28 38 48 58 68 18 28 38
+Fork Length Class (cm) Fork Length Class (cm)
+Figure 16 Average monthly length frequency distribution of C. hippurus recorded in the Maltese Islands in 2009-2011; fork length composition of catches increases rapidly over the fishing season as a result of the high growth rates of this species.
+Minimum Size (cm)
+6-12 m vessels 12-18 m vessels
+2005 2006 2007 2008 2009 2010 2011
+Figure 17 Minimum size of lampuki (C. hippurus) caught by the 6-12 m and 12-18 m fleet segments in the Maltese Islands
+An analysis of the overall length frequency distributions of lampuki catches in the Maltese Islands in 2005-2011 shows a decreasing trend in the minimum size of juvenile C. hippurus landed, both by the 6-12 m and the 12-18 m fleet segments.
+When considering maximum sizes of C. hippurus landed, an increasing trend was observed from 2005 to 2009, followed by a decline in 2010 to 2011. This is most likely due to the fact that until 2007 the fishery closed at the end of December, whereas in 2008- 2010 the season was extended until the end of January, thus enabling fishers to target larger sized individuals.
+100 Maximum Size (cm)
+6-12 m vessels 12-18 m vessels
+2005 2006 2007 2008 2009 2010
+Figure 18 Maximum size of lampuki (C. hippurus) caught by the 6-12 m and 12-18 m fleet segments in the Maltese Islands
+Average size of fish caught remained constant in 2005-2010, before declining from circa 40 cm to circa 30 cm in 2011.
+Average Size (cm)
+6-12 m vessels 12-18 m vessels
+2005 2006 2007 2008 2009 2010 2011
+Figure 19 Average size of lampuki (C. hippurus) caught by the 6-12 m and 12-18 m fleet segments in the Maltese Islands.
+Overall the decrease in minimum and average sizes of fish caught in recent years indicates a cause for concern. Although the precise stock status is unknown since a regional stock assessment would be necessary, it is clear that growth overfishing is being exerted on the stock of C. hippurus caught by the Maltese fleet.
+Figure 20 Age in days against fork length (cm), for market samples of lampuki (C. hippurus) caught in the Maltese islands in 2005-2010.
+Table 11 Mean sagitta age (days), mean lapillus age (days) and mean fork length (cm) for market samples of lampuki (C. hippurus) caught in the Maltese islands in 2005-2010.
+2005 2006 2007 2008 2009 2010 Mean Sagitta Age (days) 95.6 88.6 100.2 46.6 114.8 83.0 Mean Lapillus Age (days) 72.7 69.6 107.0 100.4 N/A N/A Mean Fork Length (cm) 41.7 39.8 49.4 26.7 50.4 40.8
+Mean sagittal age rose between the years of 2007 - 2009, falling to pre-2007 levels in 2010. A similar pattern can be observed for age determined via the use of the lapillus method, although the latter was not carried out for 2009 and 2010. Since Maltese lampuki fisheries tend to target juveniles from the 0 age class only a few individuals older than a year were obtained for sampling in the laboratory. A total of 3 individuals were identified as being over 1 year old in 2008. In 2009, 27 individuals were found to be 1 year old, while 4 individuals were 2 years old. Finally, in 2010, 5 individuals were found to be 1 year old, and 8 individuals were found to be 2 years old
+Although effort data is only available for a short time series, six decades of landings data fluctuating around a stable mean seems to indicate that even if the fishery is not harvesting the lampuki stock at a maximum yield, the yield from the Maltese fishery by itself is sustainable even in the long term. The recent rise in overall landings of the species in the Mediterranean, and in particular the dramatic rise in Italian landings may not be sustainable and potentially may be the cause for the decrease in size of lampuki caught by Maltese fishermen in recent years.
+Nevertheless there are considerable knowledge gaps to be filled in order to fully understand the biology and population dynamics of lampuki, without which scientifically sound conclusions on stock status cannot be derived. For this reason Malta is involved in a number of ongoing research initiatives, described in more detail below.
+6.Impact on By-Catch Species and the Environment
+6.2 By-catch species
+By-catch is taken to mean the total catch of untargeted fish which are of commercial value. With regards to by-catch pilot fish (Naucrates ductor) and a small number of small amberjack (Seriola dumerili) are caught besides the target species in this fishery. The same species are caught as bycatch in the Sicilian and Mallorcan lampuki fisheries [45, 47]. Other by-catch which is taken on occasion includes chub mackerel (Scomber japonicus) and horse mackerel (Trachurus trachurus).
+Very rarely, at times catches include juvenile albacore (Thunnus alalunga) and juvenile bluefin tunas (Thunnus thynnus)) which are returned to sea alive since most species caught are below the minimum landing size.
+6.3 Environmental Impacts
+A study on the number and distribution of limestone slabs in Maltese waters carried out by Pace et al. (2007a) found a much lower than expected abundance of slabs. However, the study was carried out in areas where trawling is permitted within the 25 nautical mile Maltese Fisheries Management Zone; it is thus possible that the low number of recorded slabs was due to the fact that trawlers clear trawling lanes from such obstructions. Another potential explanation for the lower than expected number of limestone slabs is that the slabs may be gradually sinking into the sediment until they are completely buried and the possible disintegration resulting from natural erosion reactions.
+Limestone slabs dropped on sandy/muddy habitats may in fact have a positive impact on the benthos of GSA 15 by providing a more heterogeneous habitat, effectively acting as small artificial reefs and thus increasing biodiversity.
+7. Ongoing Research
+A workshop on fisheries and appraisal of C. hippurus in the MedSudMed and CopeMed II Project areas was held in Palermo, Italy on 05 - 06 July 2011. The meeting was attended by researchers from the institutions involved in MedSudMed and CopeMed II activities, namely from Malta, Tunisia, Italy and Spain.
+The main objective of the meeting was to initiate a process that in the medium term would lead to a better description of the fisheries and the stock of C. hippurus in the Mediterranean region. In order to achieve this, ongoing national activities on C. hippurus in the south-central and western Mediterranean were reviewed together with the data available at national level on this species.
+The knowledge gaps to be filled in order to understand the biology and population dynamics of this species in the Mediterranean region were identified, thus beginning the process toward a joint regional stock assessment of C. hippurus. The following topics were identified as topics to be included in a work plan in order to progress on assessing the stock status of C. hippurus:
+• Identification of stock units in the Mediterranean sub-regions • Identification of critical habitats (nursery and spawning sites) and of ecological requirements for the development of eggs and larvae
+• Definition of some biological aspects like growth parameters and maturity ogives • Impact of fisheries based on FADs on by-catch species and on the environment
+The Italian project Ritmare has recently made available funds to begin with the study on stock connectivity of C. hippurus. Samples are currently being collected throughout the Mediterranean in order to carry out a genetic comparison and identify potential population sub-units. The sampling process is being co-ordinated by the FAO regional projects CopeMed II, MedSudMed, AdriaMed and EastMed; samples are being collected from the following locations:
+• North Tunisia • South Tunisia • Malta • Libya • Morocco Atlantic / Mediterranean • Spain (incl. Balearic Islands) • Tyrrhenian Sea • Northern Sicily • Southern Sicily • Adriatic (Montenegro) • Eastern Mediterranean
+Samples from some of the locations mentioned above, including Malta, have already been collected and sent to the University of Palermo, where they will be analysed. A presentation of preliminary results is planned for a joint MedSudMed - CopeMed II meeting on C. hippurus in 2013. Although this project is a step in the right direction more funding to carry out scientific work on C. hippurus is crucial if future management measures are to be based on sound scientific advice.
+8. Socio-economic characteristics of the fishery
+The economic performance of the lampuki FAD fishery is based on a set of variables and indicators which were calculated using the economic data collected annually for the purpose of the EU Data Collection Programme whereby surveys are carried out to owners of vessels chosen through stratified random sampling. It must be noted that the majority of the fishers surveyed do not have any accounting practices and thus values obtained cannot be considered as precise. The population is defined as the entire Maltese commercial fishing fleet which includes the entire full-time commercial (MFA) and part-time commercial (MFB) fishing vessels. Both inactive and active vessels were considered.
+It is very important to note that vessels using FADs also use other fishing gear throughout the year. Economic variables related only to the fishery using FADs started being collected for the reference year 2011 specifically for use in the management plans. For previous years, in order to estimate data solely related to the use of FADs, energy costs, repair and maintenance costs, variable costs, wages and salaries were divided by the proportion of working hours spent on FADs obtained for the reference year 2011.
+The different regulations upon which the national data collection was based that is, DCR (Data Collection Regulation) and DCF (Data Collection Framework) introduce differences in the type of data collected and consequently the variables available. Data collected for the reference year 2006 and 2007 are based on the DCR, while data collected for the reference years 2008 to 2011 are based on the DCF.
+Table 12 Values for the economic variables and indicators for the vessels licensed to fish for lampuki (C. hippurus) using FADs.
+FADs 2006 2007 2008 2009 2010 2011 Economic Variables Gross Value of
+875,106 805,285 725,564 873,405 1,049,133 850,786 EURO landings Other income N/A N/A 46,370 196,429 0 0 EURO 1,069,83 Total income 875,106 805,285 771,934 1,049,133 850,786 EURO
+Energy costs 241,378 116,778 106,172 159,141 416,503 392,366 EURO Repair and
+40,256 20,966 56,259 43,070 60,241 78,817 EURO maintenance costs Variable costs 225,860 101,345 264,134 177,457 196,757 8,506 EURO Non-variable costs 25,865 9,674 28,841 37,823 60,033 90,981 EURO Total costs 533,359 248,763 455,406 417,491 733,534 570,670 EURO Economic Performance Indicators Operating Cash Flow
+269,041 515,498 261,414 507,126 32,858 87,768 EURO (OCF) Social Variables Wages and salaries of
+72,706 41,024 55,114 145,217 282,741 192,348 EURO staff No. of employees 105 99 61 132 386 N/A NUMBER No. of FTE National N/A N/A 90 139 213 109 NUMBER The highest value for gross value of landings was experienced during the year 2010 and amounted to €1,049,133, while the highest value for total income was that for the year 2009 and amounted to €1,069,834. The latter's positive difference is attributed to the substantial value of other income for the year 2009, amounting to €196,429. Variable costs and energy costs for all the years are the highest costs as a fraction of total costs except for 2011 where the variable costs were very low. This low value may be attributed to the fact that the 2011 questionnaires were directed towards getting data directly related to the lampuki fishery while in previous years they were not. The next highest costs are the wages and salaries followed by the repair and maintenance costs. The lowest cost value for all the years is that of the non-variable (fixed) costs with the exception of 2011 where the non-variable costs surpass the repair and maintenance costs. Again this exception is probably due to the fact that fishers were asked for costs related to FADs fishing gear only in 2011.
+Wages and salaries for the year 2010 are the highest amongst the six year trend and amount to €282,741. In practice this type of seasonal fishery mainly applies the concepts of cost-sharing and profit sharing amongst all the people working on board.
+In conclusion, the best year in terms of operating cash flow was the year 2007 with a gross profit amounting to €515,498.
+References
+1. STECF, 38th plenary meeting report of the scientific, technical and economic
+committee for fisheries (PLEN-11-03). EUR (Luxembourg), 2011.
+2. OECD/FAO, OECD-FAO Agricultural Outlook 2011-2020, OECD Publishing and
+FAO. http://dx.doi.org/10.1787/agr_outlook-2011-en 2011.
+3. EC DG-MARE, Study on the supply and marketing of fishery in and aquaculture products in the European Union. 2009.
+4. Huang, K.S. How Reliable Is It to Obtain Price Flexibilities from Inverting Price Elasticities? in 2005 Annual meeting, July 24-27, Providence, RI. 2005: American Agricultural Economics Association (New Name 2008: Agricultural and Applied Economics Association).
+5. Nielson, J.R., Fishery studies. 2000.
+6. Tyedmers, P.H., R. Watson, and D. Pauly, Fueling global fishing fleets. AMBIO: a
+Journal of the Human Environment, 2005. 34(8): p. 635-638.
+7. The Prince's Charities - International Sustainability Unit, Towards global sustainable fisheries - The opportunity for transition. 2012.
+8. Tol, R.S., The economic effects of climate change. The Journal of Economic Perspectives, 2009. 23(2): p. 29-51.
+9. Nielsen, J.R., Fishery studies. 2000.
+10. Potoschi, A., et al., Sicilian dolphinfish (Coryphaena hippurus) fishery. Scientia Marina, 1999. 63(3-4): p. 439-445.
+11. Galea, J.A., The 'Kannizzati' fishery General Fisheries Council for the Mediterranean , FAO, 7, 86-91. , 1961.
+12. Zaouali, J. and H. Missaoui, Small-scale Tunisian fishery for dolphinfish. Scientia Marina, 1999. 63(3-4): p. 469-472.
+13. Cannizzaro, L., et al. FAO/COPEMED CORY03: Dolphinfish (Coryphaena hippurus) fishery in central-western Mediterranean. FAO -COPEMED. [WWW
+resource] 2005 31/05/2005 24th January 2013]; Available from: http://
+www.faocopemed.org/old_copemed/en/activ/research/dolphinfish.htm.
+14. Morales-Nin, B., et al. FAO/COPEMED CORY03: Final report Mediterranean dolphinfish fishery. 2003 24th January 2013]; Available from: http:// www.faocopemed.org/old_copemed/vldocs/0000869/cory03report.pdf.
+15. Gibbs, J., H. Robert, and B.B. Collette, On the identification, distribution, and biology of the dolphins, Coryphaena hippurus and C. equiselis. Bulletin of Marine Science, 1959. 9(2): p. 117-152.
+16. Maguire, J.J., The state of world highly migratory, straddling and other high seas fishery resources and associated species. 2006: FAO.
+17. Fischer, W., et al., Guia FAO para la identificacion de especies para los fines de la pesca: Pacifico centro-oriental. Volumenes 1-3. 1995: FAO.
+18. Ray, C. and C.R. Robins, A field guide to Atlantic Coast fishes: North America. Vol. 32. 1999: Houghton Mifflin Harcourt.
+19. Cervigón, F., et al., Guía de campo de las especies comerciales marinas y de aguas salobres de la costa septentrional de Sur América. 1992: FAO Roma.
+20. Humann, P. and N. Deloach, Reef fish identificiation. Galapagos. 1993: New World Publications Inc, Florida p.267.
+21. Herald, E.S. and W.N. Eschmeyer, A field guide to Pacific Coast fishes: North America. 1999: Houghton Mifflin Harcourt.
+22. Smith, C.L., National Audubon Society field guide to tropical marine fishes of the Caribbean, the Gulf of Mexico, Florida, the Bahamas, and Bermuda. 1997: Alfred A. Knopf ^ eNew York New York.
+23. Whitehead, P., et al., Fishes of the North-eastern Atlantic and the Mediterranean. Vol. I, II & III. Paris, United Nations Educational, Scientific and Cultural Organisation. 1986, Unesco.
+24. Fischer, W., et al., Fichas FAO de identificaçao de espécies para actividades de pesca. Guia de campo das espécies comerciais marinhas e de águas salobras de Moçambique. Publicaçao preparada em collaboraçao com o Instituto de Investigaçao Pesquiera de Moçambique, com financiamento do Projecto PNUD/FAO MOZ/86/ 030 e de NORAD. Roma, FAO, 1990.
+25. Uchiyama, J., R. Burch, and S. Kraul Jr, Growth of dolphins, Coryphaena hippurus and C. equiselis. Hawaiian waters as determined by daily increments on otoliths. Fish. Bull. US, 1986. 84(1): p. 186-191.
+26. Gatt, M., Age and growth studies on Coryphaena hippurus (Linnaeus, 1758) in Maltese waters. 2012, University of Malta: Malta.
+27. Massutí, E. and B. Morales-Nin, Otolith microstructure, age, and growth patterns of dolphin, Coryphaena hippurus, in the western Mediterranean. 1999.
+28. Morales-Nin, B. and O. Reñones, Population size structure, age and growth of Naucrates ductor in the small scale FADs fishery of Mallorca Island (western- Mediterranean). 1999.
+29. Vassilopoulou, V., et al., The biology and ecology of juvenile pilotfish (Naucrates ductor) associated with Fish Aggregating Devices (FADs) in eastern Mediterranean waters. Mediterranean Marine Science, 2004. 5(1): p. 61.
+30. Manooch, C.S. and J.C. Potts, Age, growth and mortality of greater amberjack from the southeastern United States. Fisheries research, 1997. 30(3): p. 229-240. 31. Paxton, J.R., et al., Pisces: Petromyzontidae to Carangidae. Vol. 7. 1989.
+32. Harris, P.J., et al., Age, growth, and reproduction of greater amberjack off the southeastern US Atlantic coast. Transactions of the American Fisheries Society, 2007. 136(6): p. 1534-1545.
+33. Morales-Nin, B., et al., Report on the COPEMED/IMEDEA workshop on dolphinfish fishery sampling. 2000, Institut Mediterrani d'Estudis Avancats: Spain. p. 21.
+34. Lleonart, J., et al., Population dynamics and fishery of dolphinfish (Coryphaena hippurus) in the western Mediterranean. . Scientia Marina, 63 (3-4), 447-457., 1999. 35. Pla, C. and J.M. Pujolar, Genetic homogeneity of dolphinfish (Coryphaena hippurus) in the western Mediterranean and the eastern Atlantic. Scientia Marina, 1999. 63(3- 4): p. 337-341.
+36. Zanuy, C. and C. Pla, Genetic analysis of two Mediterranean fisheries of Coryphaena hippurus from Malta and Tunis. COPEMED, 2002.
+37. Diaz-James, P., Global phylogeography of the dolphinfish (Coryphaena hippurus). The influence of large effective population size and recent dispersal on the divergence of a marine pelagic cosmopolitan species,. Molecular phylogenetics and Evolution, 2010(57): p. 1209-1218.
+38. Alemany, F., et al, Influence of physical environmental factors on the composition and horizontal distribution of summer larval fish assemblages off Mallorca island (Balearic archipelago, western Mediterranean). Journal of Plankton Research, 2006(28(5)): p. 473-487.
+39. Kraul, S., Seasonal abundance of dolphinfish (Coryphaena hippurus) in Hawaii and
+the tropical Pacific Ocean. Scientia Marina, 1999(63 (3-4)): p. 261-266.
+40. Sabates, A.e.a., Physical and biological processes controlling the distribution of fish larvae in the NW Mediterranean, in Globec International Newsletter. October 2007. 41. Sabates, A. and E. Saiz, Intra- and interspecific variability in prey size and niche breadth of mesopelagic fish larvae. Marine Ecology Progress Series 2004(201): p. 261-271.
+42. Massuti, E. and Morales-Nin, Seasonality and reproduction of dolphin-fish (Coryphaena hippurus) in the Western Mediterranean. Scientia Marina, 1995(59): p. 357-364.
+43. Andaloro, F., et al.,, Dolphin fish Fisheries in Sicilian water: About fleet, fishing techniques and gaps to be filled for the proper management. Fisheries and appraisal of Coryphaena hippurus. 05-06 July 2011, Palermo, Italy, COPEMED II, FAO and MedSudMed.
+44. Norton, J.G., Apparent habitat extensions of dolphinfish (Coryphaena hippurus) in response to climate transients in the California current. 1999(63 (3-4)): p. 239-260. 45. Cannizzaro, L., Study to improve the knowledge of the dolphin-fish fishery in the south-east of Sicily. Italy: Istituto di Richerce sulle Risorte Marine e l'Ambiente, Consiglio Nazzionale delle Ricerche. [FAO/COPEMED CORY03], pp. 27., 2002. 46. Cassar, J., Spatio-temporal distribution of the catch from the Maltese FAD fishery. 2011, Department of Biology, University of Malta.
+47. Reñones, O., B. Morales-Nin, and S. Deudero, Population size structure, age and growth of Naucrates ductor in the small scale FADs fishery of Mallorca Island
+(western-Mediterranean). Scientia Marina, 1999. 63(3-4): p. 355-366.
