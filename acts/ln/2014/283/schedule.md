@@ -1,0 +1,128 @@
+## SCHEDULE
+# schedule
+(Regulation 3)
+COUNCIL REGULATION (EC) No 2580/2001
+of 27 December 2001
+on specific restrictive measures directed against certain persons and entities
+with a view to combating terrorism
+Having regard to the Treaty establishing the European Community, and in particular Articles 60, 301 and 308 thereof,
+Having regard to Common Position 2001/931/CFSP on the application of specific measures to combat terrorism, adopted by the Council on 27 December 2001,
+Having regard to the proposal from the Commission,
+Having regard to the opinion of the European Parliament (*),
+Whereas:
+(1) At its extraordinary meeting on 21 September 2001, the European Council declared that terrorism is a real challenge to the world and to Europe and that the fight against terrorism will be a priority objective of the European Union.
+(2) The European Council declared that combating the funding of terrorism is a decisive aspect of the fight against terrorism and called upon the Council to take the necessary measures to combat any form of financing for terrorist activities.
+(3) In its Resolution 1373(2001), the United Nations Security Council decided on 28 September 2001 that all States should implement a freezing of funds and other financial assets or economic resources as against persons who commit, or attempt to commit, terrorist acts or who participate in or facilitate the commission of such acts.
+(4) In addition, the Security Council decided that measures should be taken to prohibit funds and other financial assets or economic resources from being made available for the benefit of such persons, and to prohibit financial or other related services from being rendered for the benefit of such persons.
+(5) Action by the Community is necessary in order to implement the CFSP aspects of Common Position 2001/931/CFSP.
+(6) This Regulation is a measure needed at Community level and complementary to administrative and judicial procedures regarding terrorist organisations in the European Union and third countries.
+(7) Community territory is deemed to encompass, for the purposes of this Regulation, all the territories of the Member States to which the Treaty is applicable, under the conditions laid down in that Treaty.
+(8) With a view to protecting the interests of the Community, certain exceptions
+* Opinion delivered on 13 December 2001 (not yet published in the Official Journal).
+may be granted.
+(9) As regards the procedure for establishing and amending the list referred to in Article 2(3) of this Regulation, the Council should exercise the corresponding implementing powers itself in view of the specific means available to its members for that purpose.
+(10) Circumvention of this Regulation should be prevented by an adequate system of information and, where appropriate, remedial measures, including additional Community legislation.
+(11) The competent authorities of the Member States should, where necessary, be empowered to ensure compliance with the provisions of this Regulation.
+(12) Member States should lay down rules on sanctions applicable to infringements of the provisions of this Regulation and ensure that they are implemented. Those sanctions must be effective, proportionate and dissuasive.
+(13) The Commission and the Member States should inform each other of the measures taken under this Regulation and of other relevant information at their disposal in connection with this Regulation.
+(14) The list referred to in Article 2(3) of this Regulation may include persons and entities linked or related to third countries as well as those who otherwise are the focus of the CFSP aspects of Common Position 2001/931/CFSP. For the adoption of provisions in this Regulation concerning the latter, the Treaty does not provide powers other than those under Article 308.
+(15) The European Community has already implemented UNSCR 1267(1999) and 1333(2000) by adopting Regulation (EC) No 467/2001 (*) freezing the assets of certain persons and groups and therefore those persons and groups are not covered by this Regulation,
+HAS ADOPTED THIS REGULATION:
+Article 1
+For the purpose of this Regulation, the following definitions shall apply:
+1. 'Funds, other financial assets and economic resources' means assets of every kind, whether tangible or intangible, movable or immovable, however acquired, and legal documents or instruments in any form, including electronic or digital, evidencing title to, or interest in, such assets, including, but not limited to, bank credits, travellers' cheques, bank cheques, money orders, shares, securities, bonds, drafts and letters of credit.
+2. 'Freezing of funds, other financial assets and economic resources' means the prevention of any move, transfer, alteration, use of or dealing with funds in any way that would result in any change in their volume, amount, location, ownership, possession, character, destination or other change that would enable the funds to be used, including
+* OJ L 67, 9.3.2001, p. 1.
+portfolio management.
+3. 'Financial services' means any service of a financial nature, including all insurance and insurance-related services, and all banking and other financial services (excluding insurance) as follows:
+Insurance and insurance-related services
+(i) Direct insurance (including co-insurance):
+(A) life assurance;
+(B) non-life;
+(ii) Reinsurance and retrocession;
+(iii) Insurance intermediation, such as brokerage and agency;
+(iv) Services auxiliary to insurance, such as consultancy, actuarial, risk assessment and claim settlement services.
+Banking and other financial services (excluding insurance)
+(v) Acceptance of deposits and other repayable funds;
+(vi) Lending of all types, including consumer credit, mortgage credit, factoring and financing of commercial transaction;
+(vii) Financial leasing;
+(viii) All payment and money transmission services, including credit, charge and debit cards, travellers' cheques and bankers' drafts;
+(ix) Guarantees and commitments;
+(x) Trading for own account or for account of customers, whether on an exchange, in an over-the-counter market or otherwise, the following:
+(A) money market instruments (including cheques, bills, certificates of deposits);
+(B) foreign exchange;
+(C) derivative products including, but not limited to, futures and options;
+(D) exchange rate and interest rate instruments, including products such as swaps and forward rate agreements;
+(E) transferable securities;
+(F) other negotiable instruments and financial assets, including bullion;
+(xi) Participation in issues of all kinds of securities, including underwriting and placement as agent (whether publicly or privately) and provision of services related to such issues;
+(xii) Money brokering;
+(xiii) Asset management, such as cash or portfolio management, all forms of collective investment management, pension fund management, custodial, depository and trust services;
+(xiv) Settlement and clearing services for financial assets, including securities, derivative products, and other negotiable instruments;
+(xv) Provision and transfer of financial information, and financial data processing and related software by suppliers of other financial services;
+(xvi) Advisory, intermediation and other auxiliary financial services on all the activities listed in subparagraphs (v) to (xv), including credit reference and analysis, investment and portfolio research and advice, advice on acquisitions and on corporate restructuring and strategy.
+4. For the purposes of this Regulation, the definition of 'terrorist act' shall be the one contained in Article 1(3) of Common Position 2001/931/CFSP.
+5. 'Owning a legal person, group or entity' means being in possession of 50% or more of the proprietary rights of a legal person, group or entity, or having a majority interest therein.
+6. 'Controlling a legal person, group or entity' means any of the following:
+(a) having the right to appoint or remove a majority of the members of the administrative, management or supervisory body of such legal person, group or entity;
+(b) having appointed solely as a result of the exercise of one's voting rights a majority of the members of the administrative, management or supervisory bodies of a legal person, group or entity who have held office during the present and previous financial year;
+(c) controlling alone, pursuant to an agreement with other shareholders in or members of a legal person, group or entity, a majority of shareholders' or members' voting rights in that legal person, group or entity;
+(d) having the right to exercise a dominant influence over a legal person, group or entity, pursuant to an agreement entered into with that legal person, group or entity, or to a provision in its Memorandum or Articles of Association, where the law governing that legal person, group or entity permits its being subject to such agreement or provision;
+(e) having the power to exercise the right to exercise a dominant influence referred to in point (d), without being the holder of that right;
+(f) having the right to use all or part of the assets of a legal person, group or entity;
+(g) managing the business of a legal person, group or entity on a unified basis, while publishing consolidated accounts;
+(h) sharing jointly and severally the financial liabilities of a legal person, group or entity, or guaranteeing them.
+Article 2
+1. Except as permitted under Articles 5 and 6:
+(a) all funds, other financial assets and economic resources belonging to, or owned or held by, a natural or legal person, group or entity included in the list referred to in paragraph 3 shall be frozen;
+(b) no funds, other financial assets and economic resources shall be made available, directly or indirectly, to, or for the benefit of, a natural or legal person, group or entity included in the list referred to in paragraph 3.
+2. Except as permitted under Articles 5 and 6, it shall be prohibited to provide financial services to, or for the benefit of, a natural or legal person, group or entity included in the list referred to in paragraph 3.
+3. The Council, acting by unanimity, shall establish, review and amend the list of persons, groups and entities to which this Regulation applies, in accordance with the provisions laid down in Article 1(4), (5) and (6) of Common Position 2001/931/CFSP; such list shall consist of:
+i) natural persons committing, or attempting to commit, participating in or facilitating the commission of any act of terrorism;
+ii) legal persons, groups or entities committing, or attempting to commit, participating in or facilitating the commission of any act of terrorism;
+iii) legal persons, groups or entities owned or controlled by one or more natural or legal persons, groups or entities referred to in points (i) and (ii); or
+iv) natural legal persons, groups or entities acting on behalf of or at the direction of one or more natural or legal persons, groups or entities referred to in points (i) and (ii).
+Article 3
+1. The participation, knowingly and intentionally, in activities, the object or effect of which is, directly or indirectly, to circumvent Article 2 shall be prohibited.
+2. Any information that the provisions of this Regulation are being, or have been, circumvented shall be notified to the competent authorities of the Member States listed in the Annex and to the Commission.
+Article 4
+1. Without prejudice to the applicable rules concerning reporting, confidentiality and professional secrecy and to the provisions of Article 284 of the Treaty, banks, other financial institutions, insurance companies, and other bodies and persons shall:
+- provide immediately any information which would facilitate compliance with this Regulation, such as accounts and amounts frozen in accordance with Article 2 and transactions executed pursuant to Articles 5 and 6:
+- to the competent authorities of the Member States listed in the Annex where they are resident or located, and
+- through these competent authorities, to the Commission,
+- cooperate with the competent authorities listed in the Annex in any verification of this information.
+2. Any information provided or received in accordance with this Article shall be used only for the purposes for which it was provided or received.
+3. Any information directly received by the Commission shall be made available to the competent authorities of the Member States concerned and to the Council.
+Article 5
+1. Article 2(1)(b) shall not apply to the addition to frozen accounts of interest due on those accounts. Such interest shall also be frozen.
+2. The competent authorities of the Member States listed in the Annex may grant specific authorisations, under such conditions as they deem appropriate, in order to prevent the financing of acts of terrorism, for
+1. the use of frozen funds for essential human needs of a natural person included in the list referred to in Article 2(3) or a member of his family, including in particular payments for foodstuffs, medicines, the rent or mortgage for the family residence and fees and charges concerning medical treatment of members of that family, to be fulfilled within the Community;
+2. payments from frozen accounts for the following purposes:
+(a) payment of taxes, compulsory insurance premiums and fees for public utility services such as gas, water, electricity and telecommunications to be paid in the Community; and
+(b) payment of charges due to a financial institution in the Community for the maintenance of accounts;
+3. payments to a person, entity or body person included in the list referred to in Article 2(3), due under contracts, agreements or obligations which were concluded or arose before the entry into force of this Regulation provided that those payments are made into a frozen account within the Community.
+3. Requests for authorisations shall be made to the competent authority of the Member State in whose territory the funds, other financial assets or other economic resources have been frozen.
+Article 6
+1. Notwithstanding the provisions of Article 2 and with a view to the protection of the interests of the Community, which include the interests of its citizens and residents, the competent authorities of a Member State may grant specific authorisations:
+- to unfreeze funds, other financial assets or other economic resources,
+- to make funds, other financial assets or other economic resources available to a person, entity or body included in the list referred to in Article 2(3), or
+- to render financial services to such person, entity or body,
+after consultation with the other Member States, the Council and the Commission in accordance with paragraph 2.
+2. A competent authority which receives a request for an authorisation referred to in paragraph 1 shall notify the competent authorities of the other Member States, the Council and the Commission, as listed in the Annex, of the grounds on which it intends to either reject the request or grant a specific authorisation, informing them of the conditions that it considers necessary in order to prevent the financing of acts of terrorism.
+The competent authority which intends to grant a specific authorisation shall take due account of comments made within two weeks by other Member States, the Council and the Commission.
+Article 7
+The Commission shall be empowered, on the basis of information supplied by Member States, to amend the Annex.
+Article 8
+The Member States, the Council and the Commission shall inform each other of the measures taken under this Regulation and supply each other with the relevant information at their disposal in connection with this Regulation, notably information received in accordance with Articles 3 and 4, and in respect of violation and enforcement problems or judgments handed down by national courts.
+Article 9
+Each Member State shall determine the sanctions to be imposed where the provisions of this Regulation are infringed. Such sanctions shall be effective, proportionate and dissuasive.
+Article 10
+This Regulation shall apply:
+1. within the territory of the Community, including its airspace,
+2. on board any aircraft or any vessel under the jurisdiction of a Member State, 3. to any person elsewhere who is a national of a Member State,
+4. to any legal person, group or entity incorporated or constituted under the law of a Member State,
+5. to any legal person, group or entity doing business within the Community.
+Article 11
+1. This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.
+2. Within a period of one year from the entry into force of this Regulation, the Commission shall present a report on the impact of this Regulation and, if necessary, make proposals to amend it.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
