@@ -1,0 +1,53 @@
+# L.N. 333 of 2015: Public Service Commission Appointments Regulations, 2015
+Public Service Commission Appointments Regulations, 2015
+Arrangement of the Regulations
+Part I - Preliminary
+1. Citation and coming into force.
+2. Interpretation.
+3. Applicability of these regulations.
+Part II - Calls for applications
+4. Authority to publish calls.
+5. General standards applicable to calls.
+6. Publication of calls in more than one official language.
+7. Power of the Commission to prescribe requirements for calls.
+8. Power of the Commission to exempt applicants from requirements in a call.
+9. Power of the Commission to interpret calls and to modify or annul provisions thereof.
+10. Power of the Commission to direct that a call be amended or withdrawn.
+Part III - Standing Selection Panels and selection boards.
+11. Standing Selection Panels.
+12. Appointment and composition of selection boards.
+13. Functions of selection boards.
+14. Assessment of applicants by and independence of selection boards.
+Part IV - The selection process under delegated authority.
+15. Application of this Part.
+16. Selection criteria.
+17. Conclusion of the selection process and communication of the outcome to applicants.
+18. Power of the Commission to regulate the selection process.
+19. Power of the Commission to inquire into selection processes and take remedial action.
+20. Power of the Commission to disqualify applicants.
+Part V - The selection process where power to make appointments has not been delegated
+21. The selection process where power to make appointments has not been delegated or has been withdrawn.
+Part VI - Representations and petitions by applicants
+22. Right of applicants to information concerning the selection process.
+23. Representations by applicants who are found ineligible or excluded at the short-listing stage.
+24. Petitions by applicants concerning the outcome of the selection process.
+Part VII - Appointments
+25. Most suitable applicant to be appointed to a vacant post.
+26. Withholding of appointments pending the submission and resolution of petitions.
+27. Appointments on the basis of contracts or agreements.
+28. Appointment to supersede previous appointment.
+29. Probation.
+30. Withholding of salary increments and progression to higher salary scales.
+31. Withholding of promotions.
+32. Power of the Commission to recommend.
+Part VIII - Additional general provisions
+33. Validity periods and possibility of extension thereof.
+34. Selection of candidates through processes other than selection processes under these regulations.
+35. Directions and other documents issued by the Commission under these regulations.
+36. Restriction on disclosure of information.
+37. Revocation and transitory provisions.
+L.N. 333 of 2015
+CONSTITUTION OF MALTA
+Public Service Commission Appointments Regulations, 2015
+IN EXERCISE of the powers conferred by article 121 of the Constitution of Malta, the Public Service Commission has, with the consent of the Prime Minister, made the following regulations:-
+Part I - Preliminary
