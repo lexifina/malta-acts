@@ -1,0 +1,258 @@
+## FOURTH SCHEDULE
+## _________________________________________________________________________________________________________________________ Ippubblikat mid-Dipartiment tal-Informazzjoni (doi.gov.mt) - Valletta - Published by the Department of Information (doi.gov.mt) - Valletta
+## Prezz/Price €1.08
+# fourth-schedule
+(Regulation 4)
+In this Schedule ''Administrative Penalties'' are those made under and
+for the purposes of article 67(6) of the Act
+Administrative Penalties
+First Second Column Third Column Column Article Infringement Penalty level 7(2) Failure of an authorised insurance undertaking
+carrying on direct business to seek authorisation to
+extend its business to reinsurance business 7(3) Failure of an undertaking whose head office is in Malta
+to notify the competent authority of the carrying on of
+business of insurance in a Member State or EEA State,
+other than Malta, in exercise of a European right 7(4) Carrying on business of insurance without
+authorisation, in classes other than those for which an
+authorised undertaking is already authorised 7(8) Failure of an authorised undertaking to comply with
+any condition of authorisation 8(4) Failure of an authorised undertaking to provide the
+competent authority with information relating to close
+links 10(3) Opening a branch, agency or office, or holding itself
+out as carrying on business of insurance in or from a
+country outside Malta or setting up or acquiring any
+subsidiary in a country outside Malta, without the
+consent of the competent authority First Second Column Third Column Column Article Infringement Penalty level 11(4) Failure of a third country insurance undertaking or a
+third country reinsurance undertaking to maintain in
+Malta at all times an amount of eligible own funds in
+accordance with regulations and deposit a specified
+proportion of such own funds as may be prescribed
+under article 18G 14(2) Failure of an authorised undertaking to obtain the prior
+written approval of the competent authority in relation
+to ancillary own fund items 15(1) Failure of an authorised undertaking to hold eligible
+own funds covering the Solvency Capital Requirement
+15(2) Failure of an authorised undertaking to calculate the
+Solvency Capital Requirement in accordance with the
+standard formula or, a full or partial internal model as
+approved by the competent authority 16(1) Failure of an authorised undertaking to notify the
+competent authority as soon as it observes that the
+Solvency Capital Requirement is no longer complied
+with, or where there is a risk of non-compliance in the
+following three months 16(2) Failure of an authorised undertaking to submit a
+realistic recovery plan for approval by the competent
+authority within two months from the observation of
+non-compliance with the Solvency Capital
+Requirement 16(3) Failure of an authorised undertaking to take the
+necessary measures to achieve within six months from
+the observation of non-compliance with the Solvency
+Capital Requirement, the re-establishment of the level
+of eligible own funds covering the Solvency Capital
+Requirement or the reduction of the risk profile of the
+undertaking to ensure compliance with the Solvency
+Capital Requirement 16(6) Failure of an authorised undertaking to observe the
+restriction or prohibition of the free disposal of the
+assets of such undertaking 17(1) Failure of an authorised undertaking to hold eligible
+basic own funds covering the Minimum Capital
+Requirement 18(1) Failure of an authorised undertaking to immediately
+inform the competent authority where it observes that
+the Minimum Capital Requirement is no longer
+complied with or where there is a risk of non-
+compliance in the following three months 18(2) Failure of an authorised undertaking to submit a short-
+term realistic finance scheme for approval by the
+competent authority within one month from the
+observation of non-compliance with the Minimum
+Capital Requirement 18(3) Failure of an authorised undertaking to observe the
+restriction or prohibition of the free disposal of the
+assets of such undertaking First Second Column Third Column Column Article Infringement Penalty level 18B Failure of an authorised undertaking to notify the
+competent authority immediately where such
+undertaking has identified that it is in a deteriorating
+financial condition 18E(1) Failure of an authorised undertaking to establish and
+maintain technical provisions with respect to all of its
+insurance and reinsurance obligations 18E(2) Failure of an authorised undertaking to value and
+calculate technical provisions in accordance with
+Insurance Rules made for the purposes of article 18E
+18E(4) Failure of an authorised undertaking to increase the
+amount of technical provisions so that they correspond
+to the level determined by such Insurance Rules made
+for the purposes of article 18E 18E(5) Failure of an authorised undertaking to observe the
+prohibition of the free disposal of the assets of such
+undertaking 18F Failure of an authorised undertaking with its head
+office in Malta to disclose publicly and on an annual
+basis a report on the undertaking's solvency and
+financial condition 18G(1) Failure of an undertaking to deposit in custody assets
+of a prescribed kind or amount with a person
+prescribed by regulations made for the purpose of
+article 18G 18G(4) Transferring, withdrawing or encumbering the
+undertaking's assets required to be maintained in Malta
+either without permission of the competent authority or
+without proving to the competent authority that the
+undertaking has no further liability 18H Failure of the Board of Directors to act as the ultimate
+persons responsible for compliance by the authorised
+undertaking with the Act, regulations and Insurance
+Rules issued thereunder and any obligations pursuant
+to the Solvency II Directive 18I Failure of an authorised undertaking to have in place
+an effective system of governance which provides for
+sound and prudent management of the business of the
+undertakings in accordance with Insurance Rules made
+for the purposes of article 18I 19(2) or (3) Failure of an authorised undertaking whose head office
+is in Malta or a third country insurance undertaking or
+a third country reinsurance undertaking applying for
+authorisation under article 7 to carry on business of
+insurance in or from Malta to inform the competent
+authority in writing of altering its financial year 20(1) Failure of an authorised undertaking to forward
+annually to the competent authority a copy of the
+undertaking's audited financial statements; or to
+exhibit those statements within a specified period or in
+a manner provided by article 20 First Second Column Third Column Column Article Infringement Penalty level 20(1A) Failure of an authorised undertaking to provide a copy
+of its audited financial statements to a person applying
+to the undertaking for a copy thereof 21(1) Failure of an authorised undertaking to appoint an approved auditor 21(5) Failure of auditor to give notice to the competent
+authority if he resigns, does not seek re-appointment,
+qualifies the audit report or to specify reasons in the
+case of resignation 21(6) Failure of an authorised undertaking to give notice in
+writing to the competent authority if it receives notice
+of a resolution to appoint as auditor a person other than
+the retiring auditor or not to re-appoint the retiring
+auditor 21(7) Failure of an authorised undertaking to notify the
+competent authority in writing, or to notify the
+competent authority in writing within a specified
+period, the reasons for terminating the appointment of
+the undertaking's auditor 21(8) Failure of an authorised undertaking to change auditor if so required by the competent authority 22(1) Failure of an authorised insurance undertaking
+carrying on long term with-profits business in terms of
+classes I and III, as specified in the Second Schedule to
+the Act, to appoint an approved actuary 22(2) Failure of an authorised insurance undertaking to
+inform the competent authority in writing within a
+specified period, of the appointment of an actuary, or
+termination of appointment of an actuary, as actuary of
+the undertaking 22(4) Failure of actuary to give reasons in writing to the
+competent authority for the termination of his
+appointment as actuary of an authorised insurance
+undertaking 23(3) Failure of an authorised insurance undertaking to
+forward to the competent authority a copy of the
+actuary's report, together with the audited financial
+statements
+Failure of an auditor or an actuary to inform the
+competent authority of any of matters, facts and
+decisions as provided by article 24
+Failure of an authorised undertaking to comply with
+and otherwise give effect to any measures taken by the
+competent authority pursuant to article 28 First Second Column Third Column Column Article Infringement Penalty level 29(1) Failure of an authorised undertaking to furnish the
+competent authority with information or
+documentation as required including existing telephone
+and existing data traffic records; or with information
+and documentation verified in a manner as specified;
+or to attend before the competent authority, or a person
+appointed by the competent authority, to answer
+questions and provide information or documentation as
+required 29(3) Failure of an authorised undertaking to disclose to the
+competent authority where information or
+documentation, as required, which is not in the
+undertaking's possession, may be found; failure of a
+person, including a person to which the undertaking
+has outsourced any activities or functions, to provide
+the competent authority with information or
+documentation in his possession 30(4) Failure of an officer or an agent of an authorised
+undertaking to produce to an inspector all books and
+documents of, or relating to, the undertaking; or to give
+an inspector all assistance in connection with an
+examination of the affairs of the undertaking by the
+inspector
+Failure of a person to assist the competent authority to
+enter and search premises to obtain information or
+documentation 31A Failure of a person to comply with and otherwise give
+effect to any directive imposed by the competent
+authority 31B(5) Failure of an authorised undertaking to remedy such
+weakness or deficiency identified by the competent
+authority as a consequence of the supervisory review
+process 31C(1) Failure of an authorised undertaking to apply a capital
+add-on set by the competent authority in accordance
+with article 31C 31C(3) Failure of an authorised undertaking to remedy the
+deficiencies that led to the imposition of the capital
+add-on without delay
+Failure of an authorised undertaking to forward to the
+competent authority the information which is necessary
+for the purposes of supervision, in terms of article 32
+32C(12) Failure of a parent undertaking which has its head
+office in Malta to provide the competent authority with
+the required information following a request by the
+group supervisor 33(1) Transferring the authorised insurance undertaking's
+rights and obligations under general business policies,
+or general business policies of a description, without
+the approval of the competent authority First Second Column Third Column Column Article Infringement Penalty level 35(1) Transferring an authorised insurance undertaking's
+long term business, in whole or in part, without the
+approval of the Financial Services Tribunal 37(1) Transferring an authorised reinsurance undertaking's
+business, in whole or in part, without the approval of
+the competent authority 37A Failure of an authorised undertaking to notify the
+competent authority prior to accepting the whole or
+part of the general business or long term business from
+an undertaking whose head office is in a country
+outside Malta 38(1) Failure of a person to notify the competent authority of
+a decision to acquire or increase a qualifying
+shareholding in an authorised undertaking; or to
+furnish the information required to be furnished as may
+be determined by Insurance Rules 38(2) Failure of a person to notify the competent authority of
+a decision to reduce or divest itself of a qualifying
+shareholding in an authorised undertaking; or to
+furnish the information required to be furnished as may
+be determined by Insurance Rules 38(4) Failure of an authorised undertaking and its directors to
+notify the competent authority of a person's intention
+to acquire, increase, reduce or divest itself of a
+qualifying shareholding in the undertaking 38C(2) Failure of directors and qualifying shareholders of an
+authorised undertaking to notify the competent
+authority where the undertaking intends to merge with
+another undertaking, or to undergo reconstruction or
+division, or to increase or reduce its nominal or issued
+share capital or to effect any material change in voting
+rights 39(1) and Failure of an authorised undertaking to give notice, or 40A to give notice within a specified period, to the
+competent authority of the undertaking's intention to
+cease to carry on, in whole or in part, the business it is
+authorised to carry on 40 and 40A Failure of an authorised undertaking issued with a
+permit to cease to carry on the business it was
+authorised to carry on, from desisting to effect and
+carry out new contracts of insurance in the business
+permitted to cease 40 and 40A Failure of an authorised undertaking issued with a
+permit to cease to carry on the business it was
+authorised to carry on, to service or run-off contracts of
+insurance effected and carried out before the specified
+date of cessation 41(7) Failure of an authorised undertaking to immediately
+notify in writing the competent authority upon taking a
+decision to dissolve and wind up First Second Column Third Column Column Article Infringement Penalty level 42(1) Dissolving and winding up voluntarily by an
+authorised undertaking carrying on long term business
+without the consent of the competent authority 42(2) Failure of an authorised undertaking and its directors to
+notify the competent authority upon becoming aware
+that such undertaking intends to dissolve and
+consequentially wind up voluntarily 43(1) Failure of holder of authorisation to carry on business
+of insurance or holder of permit to service or run-off
+business of insurance to notify the competent authority
+in writing of any material change in documentation or
+information provided, or required to be provided, by or
+under the Act 43(2)(a) Failure of an authorised undertaking whose head office
+is in Malta to submit to the competent authority in
+writing for the authority's approval particulars of any
+proposed addition or alteration to the undertaking's
+memorandum or articles of association or other
+instrument constituting the undertaking 43(2)(b) Failure of an authorised undertaking whose head office
+is in Malta to inform at least once a year, the competent
+authority of the names of the persons holding a
+qualifying shareholding in the undertaking and the
+percentage of such holding in the form, manner and
+content within such date as determined by Insurance
+Rules made for the purposes of article 43 43(3) Failure of an authorised undertaking to notify the
+competent authority on a continuous basis, with any
+change or circumstances which may give rise to the
+existence of close links 47(1) Failure of an authorised insurance undertaking to issue
+contracts of insurance expressed in a language as may
+be determined by Insurance Rules made for the
+purpose of article 47 47(2) Failure of an authorised undertaking to issue contracts of insurance expressed in the English language 48(1) Issuing of advertisements or undertaking of
+promotional activities by an authorised insurance
+undertaking which generally mislead or deceive
+policyholders and the general public 48B Failure of an authorised undertaking to utilise the
+services of insurance intermediaries enrolled under the
+Insurance Intermediaries Act or registered under
+Article 3 of Directive 2002/92/EC or registered or
+regulated to carry out such services in a non-Member
+State or non-EEA State in accordance with the
+provisions of the laws applicable in such State 67(2)(e) Failure of a person to comply with any condition,
+limitation or requirement, or satisfy any directive or
+order made or given under any provisions of the Act or
+any regulations made thereunder or of any Insurance
+Rules.
+First Second Column Third Column Column Article Infringement Penalty level Any other infringement against any other provision of the Act or any regulations made thereunder or any Insurance Rules not specifically provided for in this Schedule.
+''.
