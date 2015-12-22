@@ -1,0 +1,33 @@
+## SCHEDULE B
+## _________________________________________________________________________________________________________________________ Ippubblikat mid-Dipartiment tal-Informazzjoni (doi.gov.mt) - Valletta - Published by the Department of Information (doi.gov.mt) - Valletta
+## Prezz/Price €3.42
+# schedule-b
+ELECTION OF DIRECTORS
+The Board of Governors shall prescribe rules for the conduct of each election of Directors, in accordance with the following provisions.
+1. Constituencies. Each Director shall represent one or more members in a constituency. The total aggregate voting power of each constituency shall consist of the votes which the Director is entitled to cast under paragraph 3 of Article 28.
+2. Constituency Voting Power. For each election, the Board of Governors shall establish a Minimum Percentage for constituency voting power for Directors to be elected by Governors representing regional members (Regional Directors) and a Minimum Percentage for constituency voting power for Directors to be elected by Governors representing non-regional members (Non-Regional Directors).
+(a) The Minimum Percentage for Regional Directors shall be set as a percentage of the total votes eligible to be cast in the election by the Governors representing regional members (Regional Governors). The initial Minimum Percentage for Regional Directors shall be 6%.
+(b) The Minimum Percentage for Non-Regional Directors shall be set as a percentage of the total votes eligible to be cast in the election by the Governors representing non-regional members (Non-Regional Governors). The initial Minimum Percentage for Non-Regional Directors shall be 15%.
+3. Adjustment Percentage. In order to adjust voting power across constituencies when subsequent rounds of balloting are required under paragraph 7 below, the Board of Governors shall establish, for each election, an Adjustment Percentage for Regional Directors and an Adjustment Percentage for Non- Regional Directors. Each Adjustment Percentage shall be higher than the corresponding Minimum Percentage.
+(a) The Adjustment Percentage for Regional Directors shall be set as a percentage of the total votes eligible to be cast in the election by the Regional Governors. The initial Adjustment Percentage for Regional Directors shall be 15%.
+(b) The Adjustment Percentage for Non-Regional Directors shall be set as a percentage of the total votes eligible to be cast in the election by the Non-Regional Governors. The initial Adjustment Percentage for Non- Regional Directors shall be 60%.
+4. Number of Candidates. For each election, the Board of Governors shall establish the number of Regional Directors and Non-Regional Directors to be elected, in light of its decisions on the size and composition of the Board of Directors pursuant to paragraph 2 of Article 25.
+(a) The initial number of Regional Directors shall be nine.
+(b) The initial number of Non-Regional Directors shall be three.
+5. Nominations. Each Governor may only nominate one person. Candidates for the office of Regional Director shall be nominated by Regional Governors. Candidates for the office of Non-Regional Director shall be nominated by Non-Regional Governors.
+6. Voting. Each Governor may vote for one candidate, casting all of the votes to which the member appointing him is entitled under paragraph 1 of Article 28. The election of Regional Directors shall be by ballot of Regional Governors. The election of Non-Regional Directors shall be by ballot of Non-Regional Governors.
+7. First Ballot. On the first ballot, candidates receiving the highest number of votes, up to the number of Directors to be elected, shall be elected as Directors, provided that, to be elected, a candidate shall have received a sufficient number of votes to reach the applicable Minimum Percentage.
+(a) If the required number of Directors is not elected on the first ballot, and the number of candidates was the same as the number of Directors to be elected, the Board of Governors shall determine the subsequent actions to complete the election of Regional Directors or the election of Non- Regional Directors, as the case may be.
+8. Subsequent Ballots. If the required number of Directors is not elected on the first ballot, and there were more candidates than the number of Directors to be elected on the ballot, there shall be subsequent ballots, as necessary. For subsequent ballots:
+(a) The candidate receiving the lowest number of votes in the preceding ballot shall not be a candidate in the next ballot.
+(b) Votes shall be cast only by: (i) Governors who voted in the preceding ballot for a candidate who was not elected; and (ii) Governors whose votes for a candidate who was elected are deemed to have raised the votes for that candidate above the applicable Adjustment Percentage under
+(c) below.
+(c) The votes of all the Governors who cast votes for each candidate shall be added in descending order of number, until the number of votes representing the applicable Adjustment Percentage has been exceeded. Governors whose votes were counted in that calculation shall be deemed to have cast all their votes for that Director, including the Governor whose votes brought the total over the Adjustment Percentage. The remaining Governors whose votes were not counted in that calculation shall be deemed to have raised the candidate's total votes above the Adjustment Percentage, and the votes of those Governors shall not count towards the election of that candidate. These remaining Governors may vote in the next ballot.
+(d) If in any subsequent ballot, only one Director remains to be elected, the Director may be elected by a simple majority of the remaining votes. All such remaining votes shall be deemed to have counted towards the election of the last Director.
+9. Assignment of Votes. Any Governor who does not participate in voting for the election or whose votes do not contribute to the election of a Director may assign the votes to which he is entitled to an elected Director, provided that such Governor shall first have obtained the agreement of all those Governors who have elected that Director to such assignment.
+10. Founding Member Privileges. The nomination and voting by Governors for Directors and the appointment of Alternate Directors by Directors shall respect the principle that each Founding Member shall have the privilege to designate the Director or an Alternate Director in its constituency permanently or on a rotating basis.
+Passed by the House of Representatives at Sitting No. 341 of the 16th December, 2015.
+ANĠLU FARRUGIA
+Speaker
+RAYMOND SCICLUNA
+Clerk of the House of Representatives
