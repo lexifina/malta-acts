@@ -1,0 +1,4 @@
+## SCHEDULE I
+# schedule-i
+CLASSES OF PERMITTED DEVELOPMENT
+(Regulation 3)
