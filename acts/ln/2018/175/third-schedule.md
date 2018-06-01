@@ -1,0 +1,25 @@
+## THIRD SCHEDULE
+## €0.81
+# third-schedule
+(Regulation 10)
+Second First Column
+Column Offence Fee
+Depositing or taking out waste outside of prescribed
+collection times ..................................................................... €100
+Depositing or taking out waste away from one's own
+premises ................................................................................ €100
+Affixing, abandoning or leaving affixed any flyers, signs,
+posters, expired permits or any other printed material €100
+Puttng a skip in a public place in Valletta without a
+permit from the Local Council or, after having obtained
+such permit, failing to remove the said skip by not later than
+8.00pm of the same day for which the permit has been
+issued €100
+For the purpose of collection of waste, making use of
+vehicles not in accordance with dimensions and
+specifications stipulated in the First Schedule .................. € 350
+Collecting waste in Valletta outside the official collection
+times ...................................................................................... € 350
+Failure by contracted waste collectors to collect waste on
+such days and during such times in which waste should be
+collected ................................................................................ € 350
