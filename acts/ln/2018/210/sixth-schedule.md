@@ -1,0 +1,86 @@
+## SIXTH SCHEDULE
+# sixth-schedule
+(Regulation 35 and 39)
+EXEMPTION AND CLEARANCE CRITERIA
+1. Exemption
+Practices may be exempted from notification either directly, on the basis of compliance with exemption levels (activity values (in Bq) or activity concentration values (in kBq kg-1)) laid down in section 2, or on the basis of higher values that,
+for specific applications, are established by the Commission, satisfying the general exemption and clearance criteria set out in section 3. Practices subject to notification may be exempted from authorisation by law or general administrative act, or through an ad-hoc regulatory decision, on the basis of the information provided in conjunction with the notification of the practice and in line with general exemption criteria set out in section 3.
+2. Exemption and clearance levels
+(a) The total activity values (in Bq) for exemption apply to the total activity involved in a practice and are laid down in column 3 of Table B for artificial radionuclides and for some naturally-occurring radionuclides used in consumer products. For other practices involving naturally-occurring radionuclides, such values are, in general, not applicable
+(b) The exempt activity concentration values (in kBq kg-1) for the materials
+involved in the practice are laid down in Table A, Part 1, for artificial radionuclides, and in Table A, Part 2, for naturally-occurring radionuclides. The values in Table A, Part 1, are given for individual radionuclides, where applicable, including short-lived radionuclides in equilibrium with the parent nuclide, as indicated. The values in Table A, Part 2, apply to all radionuclides in the decay chain of U-238 or Th-232, but for segments of the decay chain, which are not in equilibrium with the parent radionuclide, higher values may be applied
+(c) The concentration values in Table A, Part 1, or in Table A, Part 2, also apply to the clearance of solid materials for reuse, recycling, conventional disposal or incineration. Higher values may be defined for specific materials or specific pathways, taking Community guidance into account, including, where appropriate, additional requirements, in terms of surface activity or monitoring requirements
+(d) For mixtures of artificial radionuclides, the weighted sum of nuclide-specific activities or concentrations (for various radionuclides contained in the same matrix) divided by the corresponding exemption value shall be less than unity. Where appropriate, this condition can be verified on the basis of best estimates of the composition of the radionuclide mix. The values in Table A, Part 2, apply individually to each parent nuclide. Some elements in the decay chain, e.g. Po-210 or Pb-210, may warrant the use of higher values taking Community guidance into account.
+(e) The values in Table A, Part 2, may not be used to exempt the incorporation into building materials of residues from industries processing naturally-occurring radioactive material. For this purpose, compliance with the provisions of regulation 98 shall be verified. The values laid down in Table B, column 3, apply to the total inventory of radioactive substances held by a person or undertaking as part of a specific practice at any point in time. However, the Commission may apply these values to smaller entities or packages, for instance to exempt the transport or storage of exempted consumer products, if the general exemption criteria in section 3 are satisfied.
+(3) General exemption and clearance criteria
+(a) The general criteria for the exemption of practices from notification or authorisation or for the clearance of materials from authorised practices are as follows
+(i) the radiological risks to individuals caused by the practice are sufficiently low, as to be of no regulatory concern; and
+(ii) the type of practice has been determined to be justified; and
+(iii) the practice is inherently safe
+(b) Practices involving small amounts of radioactive substances or low activity concentrations, comparable to the exemption values laid down in Table A or Table B are deemed to fulfil criterion (iii).
+(c) Practices involving amounts of radioactive substances or activity concentrations below the exemption values laid down in Table A, Part 1, or Table B, are deemed to comply with criterion (i) without further consideration. This is also the case for the values in Table A, Part 2, with the exception of the recycling of residues in building materials or the case of specific exposure pathways, for instance, drinking water
+(d) In the case of moderate amounts of material, as specified by Commission for specific types of practice, the activity concentration values laid down in Table B, column 2, may be used instead of the values laid down in Table A, Part 1, for the purpose of exemption from authorisation.
+(e) For the purpose of exemption from notification or for the purpose of clearance, where amounts of radioactive substances or activity concentrations do not comply with the values laid down in Table A or Table B, an assessment shall be made in the light of the general criteria (i) to (iii) above. For compliance with the general criterion (i), it shall be demonstrated that workers should not be classified as exposed workers, and the following criteria for the exposure of members of the public are met in all feasible circumstances:
+- For artificial radionuclides:
+The effective dose expected to be incurred by a member of the public due to the exempted practice is of the order of 10 μSv or less in a year.
+- For naturally-occurring radionuclides:
+The dose increment, allowing for the prevailing background radiation from natural radiation sources, liable to be incurred by an individual due to the exempted practice is of the order of 1 mSv or less in a year. The assessment of doses to members of the public shall take into account not only pathways of exposure through airborne or liquid effluent, but also pathways resulting from the disposal or recycling of solid residues. The Commission may specify dose criteria lower than 1 mSv per year for specific types of practices or specific pathways of exposure.
+For the purpose of exemption from authorisation, less restrictive dose criteria may be applied.
+TABLE A
+Activity concentration values for exemption or clearance of materials which can be applied by default to any amount and to any type of solid material
+TABLE A
+PART 1
+Artificial radionuclides
+Activity Activity Activity concentration concentration concentration Radionuclide Radionuclide Radionuclide (kBq kg-1) (kBq kg-1) (kBq kg-1) H-3 Co-55 Sr-91 (a) Be-7 Co-56 0.1 Sr-92 C-14 Co-57 Y-90 1 000 F-18 Co-58 Y-91 Na-22 0.1 Co-58m 10 000 Y-91m Na-24 Co-60 0.1 Y-92 Si-31 1 000 Co-60m 1 000 Y-93 P-32 1 000 Co-61 Zr-93 P-33 1 000 Co-62m Zr-95 (a) S-35 Ni-59 Zr-97 (a) Cl-36 Ni-63 Nb-93m Cl-38 Ni-65 Nb-94 0.1 K-42 Cu-64 Nb-95 K-43 Zn-65 0.1 Nb-97 (a) Ca-45 Zn-69 1 000 Nb-98 Ca-47 Mo-90 Zn-69m (a) Sc-46 0.1 Ga-72 Mo-93 Sc-47 Ge-71 10 000 Mo-99 (a) Sc-48 As-73 1 000 Mo-101 (a) V-48 As-74 Tc-96 Cr-51 As-76 Tc-96m 1 000 Mn-51 As-77 1 000 Tc-97 Mn-52 Se-75 Tc-97m Mn-52m Br-82 Tc-99 Mn-53 Rb-86 Tc-99m Mn-54 0.1 Sr-85 Ru-97 Mn-56 Sr-85m Ru-103 (a)
+Sr-87m Fe-52 (a) Ru-105 (a) Fe-55 1 000 Sr-89 1 000 0.1 Ru-106 (a) Activity Activity Activity concentration concentration concentration Radionuclide Radionuclide Radionuclide (kBq kg-1) (kBq kg-1) (kBq kg-1) Fe-59 Rh-103m 10 000 Sr-90 (a) Rh-105 I-123 Pm-147 1 000 1 000 I-125 Pm-149 1 000 Pd-103 (a) I-126 Sm-151 1 000 Pd-109 (a) Ag-105 I-129 0.01 Sm-153
+0.1 I-130 Eu-152 0 1 Ag-110m (a) Ag-111 I-131 Eu-152m
+I-132 Eu-154 0 1 Cd-109 (a) I-133 Eu-155 Cd-115 (a) I-134 Gd-153 Cd-115m (a) In-111 I-135 Gd-159 In-113m Cs-129 Tb-160
+Cs-131 1 000 Dy-165 1 000 In-114m (a) In-115m Cs-132 Dy-166
+Cs-134 0,1 Ho-166 Sn-113 (a) Sn-125 Cs-134m 1 000 Er-169 1 000 Sb-122 Cs-135 Er-171 Sb-124 Cs-136 Tm-170
+0.1 0.1 Tm-171 1 000 Sb-125 (a) Cs-137 (a) Te-123m Cs-138 Yb-175 Te-125m 1 000 Ba-131 Lu-177 Te-127 1 000 Ba-140 Hf-181
+La-140 Ta-182 0 1 Te-127m (a) Te-129 Ce-139 W-181
+Ce-141 W-185 1 000 Te-129m (a) Te-131 Ce-143 W-187
+Ce-144 Re-186 1 000 Te-131m (a) Pr-142 Re-188 Te-132 (a) Te-133 Pr-143 1 000 Os-185 Te-133m Nd-147 Os-191 Activity Activity Activity concentration concentration concentration Radionuclide Radionuclide Radionuclide (kBq kg-1) (kBq kg-1) (kBq kg-1) Te-134 Nd-149 Os-191m 1 000 Os-193 U-230 Cm-246 0.1 Ir-190 0.1 U-231 (a) Cm-247 (a) Ir-192 0.1 Cm-248 0.1 U-232 (a) Ir-194 U-233 Bk-249 Pt-191 U-236 Cf-246 1 000 Pt-193m 1 000 U-237 Cf-248 Pt-197 1 000 U-239 Cf-249 0.1 Pt-197m Cf-250 U-240 (a) Au-198 Cf-251 0.1 Np-237 (a) Au-199 Np-239 Cf-252 Hg-197 Np-240 Cf-253 Hg-197m Pu-234 Cf-254 Hg-203 Pu-235 Es-253 Tl-200 Pu-236 0.1 Es-254 (a) Tl-201 Pu-237 Es-254m (a) Tl-202 Pu-238 0.1 Fm-254 10 000 Tl-204 Pu-239 0.1 Fm-255 Pb-203 Pu-240 0.1 Bi-206 Pu-241 Bi-207 0.1 Pu-242 0,1 Po-203 Pu-243 1 000 Po-205 0.1 Pu-244 (a) Po-207 Am-241 0.1 At-211 1 000 Am-242 1 000 Ra-225 0.1 Am-242 (a) Ra-227 0.1 Am-243 (a) Th-226 1 000 Cm-242 Th-229 0.1 Cm-243 Pa-230 Cm-244 Pa-233 Cm-245 0.1
+(a) Parent radionuclides, and their progeny whose dose contributions are taken into account in the dose calculation (thus requiring only the exemption level of the parent radionuclide to be considered), are listed in the following table.
+Parent Parent Parent
+Progeny Progeny Progeny Radionuclide Radionuclide Radionuclide Fe-52 Mn-52m Pd-103 Rh-103m Te132 I-132 Zn-69m Zn-69 Pd-109 Ag-109m Cs-137 Ba-137m Sr-90 Y-90 Ag-110m Ag-110 Ce-144 Pr-144, Pr-144m Pr-144m
+Sr-91 Y-91m Cd-109 Ag-109m U-232 Th-228, Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Tl-208 Zr-95 Nb-95 Cd-115 In-115m U-240 Np-240m, Np-240
+Zr-97 Nb-97m, Nb- Cd-115m In-115m Np237 Pa-233
+Nb-97 Nb-97m In-114m In-114 Pu-244 U-240, Np-240m, Np-240
+Mo-99 Tc-99m Sn-113 In-113m Am-242m Np-238 Mo-101 Tc-101 Sb-125 Te-125m Am-243 Np-239 Ru-103 Rh-103m Te-127m Te-127 Cm-247 Pu-243 Ru-105 Rh-105m Te-129m Te-129 Es-254 Bk-250 Ru-106 Rh-106 Te-131m Te-131 Es-254m Fm-254
+For radionuclides not listed in Table A, Part 1 the Commission shall assign appropriate values for the quantities and concentrations of activity per unit mass where the need arises. Values thus assigned shall be complementary to those in Table A, Part 1
+TABLE A PART 2
+Naturally occurring radionuclides
+Values for exemption or clearance for naturally occurring radionuclides in solid
+materials in secular equilibrium with their progeny:
+Natural radionuclides from the U-238 series 1 kBq kg-1
+Natural radionuclides from the Th-232 series 1 kBq kg-1
+K-40 10 kBq kg-1
+TABLE B
+Total activity values for exemption (column 3) and exemption values for the activity concentration in moderate amounts of any type of material (column 2)
+Activity Activity
+Activity Activity
+concentration concentration Radionuclide Radionuclide
+(Bq) (Bq)
+(kBq kg-1) (kBq kg-1)
+H-3 Mn-56 1x106 1x109 1x101 1x105 Be-7 Fe-52 1x103 1x107 1x101 1x106 C-14 Fe-55 1x104 1x107 1x104 1x106 O-15 Fe-59 1x102 1x109 1x101 1x106 F-18 Co-55 1x101 1x106 1x101 1x106 Na-22 Co-56 1x101 1x106 1x101 1x105 Na-24 Co-57 1x101 1x105 1x102 1x106 Si-31 Co-58 1x103 1x106 1x101 1x106 P-32 Co-58m 1x103 1x105 1x104 1x107 P-33 Co-60 1x105 1x108 1x101 1x105
+S-35 Co-60m 1x105 1x108 1x103 1x106 Cl-36 Co-61 1x104 1x106 1x102 1x106 Cl-38 Co-62m 1x101 1x105 1x101 1x105 Ar-37 Ni-59 1x106 1x108 1x104 1x108 Ar-41 Ni-63 1x102 1x109 1x105 1x108 Ni-65 K-40 (1) 1x102 1x106 1x101 1x106 K-42 Cu-64 1x102 1x106 1x102 1x106 K-43 Zn-65 1x101 1x106 1x101 1x106 Ca-45 Zn-69 1x104 1x107 1x104 1x106 Ca-47 Zn-69m 1x101 1x106 1x102 1x106 Sc-46 Ga-72 1x101 1x106 1x101 1x105 Sc-47 Ge-71 1x102 1x106 1x104 1x108 Sc-48 As-73 1x101 1x105 1x103 1x107 V-48 As-74 1x101 1x105 1x101 1x106
+Activity Activity
+Activity Activity
+concentration concentration Radionuclide Radionuclide
+(Bq) (Bq)
+(kBq kg-1) (kBq kg-1)
+Cr-51 As-76 1x103 1x107 1x102 1x105 Mn-51 As-77 1x101 1x105 1x103 1x106 Mn-52 Se-75 1x101 1x105 1x102 1x106 Mn-52m Br-82 1x101 1x105 1x101 1x106 Mn-53 Kr-74 1x104 1x109 1x102 1x109 Mn-54 Kr-76 1x101 1x106 1x102 1x109 Kr-77 Mo-93 1x102 1x109 1x103 1x108 Kr-79 Mo-99 1x103 1x105 1x102 1x106 Kr-81 Mo-101 1x104 1x107 1x101 1x106 Kr-83m Tc-96 1x105 1x1012 1x101 1x106 Kr-85 Tc-96m 1x105 1x104 1x103 1x107 Kr-85m Tc-97 1x103 1x1010 1x103 1x108 Kr-87 Tc-97m 1x102 1x109 1x103 1x107 Kr-88 Tc-99 1x102 1x109 1x104 1x107 Rb-86 Tc-99m 1x102 1x105 1x102 1x107 Sr-85 Ru-97 1x102 1x106 1x102 1x107 Sr-85m Ru-103 1x102 1x107 1x102 1x106 Sr-87m Ru-105 1x102 1x106 1x101 1x106 Sr-89 1x103 1x106 Ru-106(b) 1x102 1x105 Rh-103m Sr-90 (b) 1x102 1x104 1x104 1x108 Sr-91 Rh-105 1x101 1x105 1x102 1x107 Sr-92 Pd-103 1x101 1x106 1x103 1x108 Y-90 Pd-109 1x103 1x105 1x103 1x106 Y-91 Ag-105 1x103 1x106 1x102 1x106 Y-91m Ag-108m 1x102 1x106 1x101 1x106 Y-92 Ag-110m 1x102 1x105 1x101 1x106 Y-93 Ag-111 1x102 1x105 1x103 1x106 Cd-109 Zr-93(b) 1x103 1x107 1x104 1x106 Zr-95 Cd-115 1x101 1x106 1x102 1x106 Cd-115m Zr-97(b) 1x101 1x105 1x103 1x106 Nb-93m In-111 1x104 1x107 1x102 1x106 Nb-94 In-113m 1x101 1x106 1x102 1x106 Nb-95 In-114m 1x101 1x106 1x102 1x106 Nb-97 In-115m 1x101 1x106 1x102 1x106 Nb-98 Sn-113 1x101 1x105 1x103 1x107 Mo-90 Sn-125 1x101 1x106 1x102 1x105 Sb-122 Cs-132 1x102 1x104 1x101 1x105 Sb-124 Cs-134m 1x101 1x106 1x103 1x105
+Activity Activity
+Activity Activity
+concentration concentration Radionuclide Radionuclide
+(Bq) (Bq)
+(kBq kg-1) (kBq kg-1)
+Sb-125 Cs-134 1x102 1x106 1x101 1x104 Te-123m Cs-135 1x102 1x107 1x104 1x107 Te-125m Cs-136 1x103 1x107 1x101 1x105 Te-127 1x103 1x106 Cs-137(b) 1x101 1x104 Te-127m Cs-138 1x103 1x107 1x101 1x104 Te-129 Ba-131 1x102 1x106 1x102 1x106 Te-129m 1x103 1x106 Ba-140(b) 1x101 1x105 Te-131 La-140 1x102 1x105 1x101 1x105 Te-131m Ce-139 1x101 1x106 1x102 1x106 Te-132 Ce-141 1x102 1x107 1x102 1x107 Te-133 Ce-143 1x101 1x105 1x102 1x106 Te-133m 1x101 1x105 Ce-144(b) 1x102 1x105 Te-134 Pr-142 1x101 1x106 1x102 1x105 I-123 Pr-143 1x102 1x107 1x104 1x106 I-125 Nd-147 1x103 1x106 1x102 1x106 I-126 Nd-149 1x102 1x106 1x102 1x106 I-129 Pm-147 1x102 1x105 1x104 1x107 I-130 Pm-149 1x101 1x106 1x103 1x106 I-131 Sm-151 1x102 1x106 1x104 1x108 I-132 Sm-153 1x101 1x105 1x102 1x106 I-133 Eu-152 1x101 1x106 1x101 1x106 I-134 Eu-152m 1x101 1x105 1x102 1x106 I-135 Eu-154 1x101 1x106 1x101 1x106 Xe-131m Eu-155 1x104 1x104 1x102 1x107 Xe-133 Gd-153 1x103 1x104 1x102 1x107 Xe-135 Gd-159 1x103 1x1010 1x103 1x106 Cs-129 Tb-160 1x102 1x105 1x101 1x106 Cs-131 Dy-165 1x103 1x106 1x103 1x106 Dy-166 Hg-203 1x103 1x106 1x102 1x105 Ho-166 Tl-200 1x103 1x105 1x101 1x106 Er-169 Tl-201 1x104 1x107 1x102 1x106 Er-171 Tl-202 1x102 1x106 1x102 1x106 Tm-170 Tl-204 1x103 1x106 1x104 1x104 Tm-171 Pb-203 1x104 1x108 1x102 1x106 Yb-175 1x103 1x107 Pb-210(b) 1x101 1x104 Lu-177 1x103 1x107 Pb-212(b) 1x101 1x105 Hf-181 Bi-206 1x101 1x106 1x101 1x105 Ta-182 Bi-207 1x101 1x104 1x101 1x106
+Activity Activity
+Activity Activity
+concentration concentration Radionuclide Radionuclide
+(Bq) (Bq)
+(kBq kg-1) (kBq kg-1)
+W-181 Bi-210 1x103 1x107 1x103 1x106 W-185 1x104 1x107 Bi-212(b) 1x101 1x105 W-187 Po-203 1x102 1x106 1x101 1x106 Re-186 Po-205 1x103 1x106 1x101 1x106 Re-188 Po-207 1x102 1x105 1x101 1x106 Os-185 Po-210 1x101 1x106 1x101 1x104 Os-191 At-211 1x102 1x107 1x103 1x107 Os-191m 1x103 1x107 Rn-220(b) 1x104 1x107 Os-193 1x102 1x106 Rn-222(b) 1x101 1x108 Ir-190 1x101 1x106 Ra-223(b) 1x102 1x105 Ir-192 1x101 1x104 Ra-224(b) 1x101 1x105 Ir-194 Ra-225 1x102 1x105 1x102 1x105 Pt-191 1x102 1x106 Ra-226(b) 1x101 1x104 Pt-193m Ra-227 1x103 1x107 1x102 1x106 Pt-197 1x103 1x106 Ra-228(b) 1x101 1x105 Pt-197m Ac-228 1x102 1x106 1x101 1x106 Au-198 1x102 1x106 Th-226(b) 1x103 1x107 Au-199 Th-227 1x102 1x106 1x101 1x104 Hg-197 1x102 1x107 Th-228(b) 1x100 1x104 Hg-197m 1x102 1x106 Th-229(b) 1x100 1x103
+(b) http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L:2014:013:FULL&from=EN - ntr3- L_2014013EN.01004501-E0003
