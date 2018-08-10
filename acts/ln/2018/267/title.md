@@ -1,0 +1,6 @@
+# L.N. 267 of 2018: Drugs (Control) (Amendment) (No. 3) Regulations, 2018
+L.N. 267 of 2018
+MEDICAL AND KINDRED PROFESSIONS ORDINANCE
+(CAP. 31)
+Drugs (Control) (Amendment) (No. 3) Regulations, 2018
+IN EXERCISE of the powers conferred by article 40A of the Medical and Kindred Professions Ordinance, the Minister responsible for Public Health, after consultation with the Council of Health, has made the following regulations:-
