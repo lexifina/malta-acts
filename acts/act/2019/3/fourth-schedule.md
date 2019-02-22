@@ -1,0 +1,25 @@
+## FOURTH SCHEDULE
+# fourth-schedule
+Agencies
+(Article 26)
+Agency Agency function Aġenzija SAPPORT To exercise and execute the functions and duties previously exercised by the Aġenzija SAPPORT within the Foundation for Social Welfare Services, as well as any other matter falling within the ambit of the support and care of persons
+with disability
+Aġenzija Żgħażagħ To mainstream youth policy and to replace the existing Youth Section by providing youth services on behalf of the
+Government
+Governance of Agricultural The registration of agricultural bioresources and to Bioresources Agency promote governance, management and utilisation practices that are technically and economically feasible and environmentally sound Energy and Water Agency To execute the functions and duties of the public administration in matters relating to the design, implementation and dissemination of water, conventional energy and alternative energy policy European Union Programmes To promote, implement and manage the Erasmus+ Agency Programme, and other programmes and initiatives of the
+European Union
+Identity Malta Agency To execute the functions and duties of the public administration in matters relating to passports, identity documents, work and residence permits for expatriates, registration of public deeds, acts of civil status and individual investment programmes Institute for Education To serve as a platform to ascertain, implement and support Government policy where it concerns the formation, quality and standards that promote and develop training and the building of skills within the grades of educators and professionals in the education sector and within European and international dimensions and to reach all those who are and, or may become involved in the education sectors and within a
+socio-economic context
+Land Registry Agency To execute the functions and duties of the public administration in matters relating to land registration and
+condominium registration
+Legal Aid Agency To be responsible for and to administer provision of the service of legal aid in all areas where this is required Local Enforcement System Agency To carry out the functions and duties relating to the enforcement of any law, regulation or bye-law, the enforcement of which has been delegated to regional committees, local councils or to such other local or regional authorities as are designated by the Local
+Councils Act
+Malta Council for Science and To support the Government in the commercialisation of Technology Agency activities relating to science, technology, research and
+innovation matters
+Malta Individual Investor To carry out functions and duties of public Programme Agency administration relating to the Individual Investor Programme of the Government of Malta, as established by and under the Maltese Citizenship Act and to cooperate with Identity Malta Agency in all matters including the set-up and implementation of strategies
+and policies
+Malta International Contemporary To be responsible for strengthening and ensuring the Art Space Agency achievement of the highest quality in contemporary art Malta Marittima Agency To carry out functions related to the promotion, development and growth of the maritime sector Malta Residence Visa Agency To execute the functions and duties of the public administration in matters relating to issuing of residence visas by investment and other administrative matters related to individuals wishing to stay or settle indefinitely in Malta or Gozo Management Efficiency Unit To support public sector change initiatives through the provision of consultancy advice MEUSAC To engage stakeholders in the EU processes through consultation, the dissemination of information and assistance on EU funding programmes National Aerospace Centre To develop, research, enhance the aerospace industry and related policy, including the launching and management of relevant programs and projects National Development and Social To implement the functions of the National Development Fund Agency and Social Fund established under the Individual Investor Programme of the Republic of Malta Regulations
+(S.L. 188.03)
+National Literacy Agency To support the Government in matters relating to literacy Public Administration - Human To achieve the retraining and re-skilling needs of public Resource Development Unit employees Registry of Companies Agency To function as a public registry for commercial partnerships and to execute those functions and duties relating to the registration of such commercial partnerships To execute the functions and duties relating to circular Resource, Recovery and Recycling
+economy
+Agency Servizzi.gov Agency To carry out functions related to the provision of access to as many as possible of Government services to as many as possible service users, in partnership with the responsible Departments and Government entities, through the Servizz.gov regional-based hubs, multi-channel, one-stop service
