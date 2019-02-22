@@ -1,0 +1,32 @@
+## FIFTH SCHEDULE
+# fifth-schedule
+Appointments of Ambassadors, High Commissioners and principal representatives of Malta and appointments to certain posts in
+Government Agencies and other entities
+(Article 38)
+FIRST PART
+Ambassadors, High Commissioners or principal representatives of Malta to countries where they are appointed as resident Ambassadors,
+High Commissioners or principal representatives.
+SECOND PART
+The Governor of the Central Bank of Malta
+The Chairman of the Malta Financial Services Authority
+The Regulator for Energy and Water Services
+The Chairperson of the Authority for Transport in Malta
+The Chairman of the Malta Communications Authority
+The Chairman of the Gaming Authority
+The Chairperson of the Planning Board of the Planning Authority
+The Chairperson of the Environment and Resources Authority
+The Commissioner for Voluntary Organisations
+The Chairperson of the Lands Authority
+The Chairman of the Malta Competition and Consumer Affairs Authority
+The Chief Executive Officer of the Medicines Authority
+The Chairperson of the Malta Tourism Authority
+The Chairman of the National Commission for Further and Higher Education
+The Chairman of the Financial Intelligence Analysis Unit The Chairman of the Malta Digital Innovation Authority
+The list of offices established above shall be deemed to include any other office in which all the legal functions of the offices above-mentioned shall be vested from time to time both if in the same entity and if in another entity, except for a Government Department, which may be established from time to time to fulfil the said legal functions.
+THIRD PART
+Form of advice to be given by the
+Standing Committee on Public Appointments
+"Minister,
+The Standing Committee on Public Appointments has organized a pre-appointment hearing in respect of the proposed appointment of ................................................................................................... as ........................................................ of ................................................ and after having considered the results of the pre-appointment hearing has decided to advise in favour/against the proposed appointment.
+Chairperson
+Standing Committee on Public Appointments".
