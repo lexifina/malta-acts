@@ -1,0 +1,2 @@
+# Act XXIX of 2019: Education Act, 2019
+EDUCATION ACT, 2019
