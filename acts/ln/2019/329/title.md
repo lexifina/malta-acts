@@ -1,0 +1,11 @@
+# L.N. 329 of 2019: State Advocate Act (Cap. 603) - Commencement Notice
+L.N. 329 of 2019
+STATE ADVOCATE ACT
+(CAP. 603)
+Commencement Notice
+BY VIRTUE of the powers conferred by article 1 of the State Advocate Act, the Minister for Justice, Culture and Local Government has established the 18thth December 2019 as the date of the coming
+into force, in addition to article 3(a), (b) and (c) brought into force on the 29th July 2019 by virtue of Legal Notice 174 of 2019, of the
+remaining provisions of the State Advocate Act except for article 31, which article 31 amends the Attorney General Ordinance and out of which article 31 only the words "Articles 3 and 4 of the principal Ordinance shall be re-numbered as articles 4 and 5 respectively" shall come into force on the 18th December 2019.
+The said coming into force shall be subject to the following transitory provisions and to any other transitory provisions as it may from time to time be deemed necessary to provide by further notice:
+(1) Further to the amendments to the Code of Organization and Civil Procedure made by Part III of the State Advocate Act, judicial acts and actions pending on the date of the coming into force provided for by this notice and having been commenced by or against the Attorney General in his representative capacity of the Government in terms of article 181B of the said Code and which have not yet become res judicata or of which notice has been given to the Attorney General by means of a judicial act including a judicial act filed in terms of article 460 of the said Code shall be continued by or against the State Advocate so however that no formality shall be required and no defect or nullity shall ensue by reason of the said change or of anything done or omitted to be done as a consequence thereof;
+(2) Judicial acts and actions pending on the date of the coming into force provided for in this notice which are filed by or against the Attorney General in relation to the performance of the functions of his office other than in his representative capacity of Government under article 181B of the Code of Organization and Civil Procedure shall be continued by or against the Attorney General who may for the said purpose avail himself of the services of the Office of the State Advocate.
