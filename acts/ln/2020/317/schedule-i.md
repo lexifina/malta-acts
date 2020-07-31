@@ -1,0 +1,14 @@
+## Accounts) Regulations, are hereby being repealed.
+## SCHEDULE I
+# schedule-i
+(Regulation 5)
+Category status of voluntary organisations
+1. A Category 1 voluntary organisation shall automatically convert into a Category 2 voluntary organisation, when the generated revenue and income of the voluntary organisation exceeds fifty thousand euro (€50,000) in respect of each financial year but does not exceed or is equal to two hundred and fifty thousand euro (€250,000). When this occurs, the voluntary organisation shall inform the Commissioner in writing within fourteen (14) days from the date on which this fact comes to the voluntary organisation's knowledge.
+2. A Category 1 voluntary organisation shall automatically convert into a Category 3 voluntary organisation, when the generated revenue and income of the voluntary organisation exceeds two hundred and fifty thousand euro (€250,000) in respect of each financial year. When this occurs, the voluntary organisation shall inform the Commissioner in writing within fourteen (14) days from the date on which this fact comes to the voluntary organisation's knowledge.
+3. A Category 2 voluntary organisation shall automatically convert into:
+(a) a Category 1 voluntary organisation when the generated revenue
+and income of such voluntary organisation does not exceed fifty thousand euro (€50,000) in respect of each financial year. When this occurs the voluntary organisation shall inform the Commissioner in writing within fourteen (14) days from the date on which this fact comes to the voluntary organisation's knowledge;
+(b) a Category 3 voluntary organisation, when the generated
+revenue and income of such voluntary organisation exceeds two hundred and fifty thousand euro (€250,000) in respect of each financial year. When this occurs, the voluntary organisation shall inform the Commissioner in writing within fourteen (14) days from the date on which this fact comes to the voluntary organisation's knowledge.
+4. A Category 3 voluntary organisation shall automatically convert into a Category 2 voluntary organisation, when the generated revenue and income of the voluntary organisation exceeds fifty thousand euro (€50,000) in respect of each financial year but does not exceed or is equal to two hundred and fifty thousand euro (€250,000). When this occurs, the voluntary organisation shall inform the Commissioner in writing within fourteen (14) days from the date on which this fact comes to the voluntary organisation's knowledge.
+5. A Category 3 voluntary organisation shall automatically convert into a Category 1 voluntary organisation, when the generated revenue and income of the voluntary organisation does not exceed fifty thousand euro (€50,000) in respect of each financial year. When this occurs, the voluntary organisation shall inform the Commissioner in writing within fourteen (14) days from the date on which this fact comes to the voluntary organisation's knowledge.
