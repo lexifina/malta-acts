@@ -1,0 +1,7 @@
+## SCHEDULE
+## €0.09
+# schedule
+(Article 3)
+Basic Pay Cash Payment
+Attorney General................................ €63,606 €493
+State Advocate......................................... €493 €63,606
