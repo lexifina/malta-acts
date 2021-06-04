@@ -1,0 +1,6 @@
+## SECOND SCHEDULE
+# second-schedule
+Smart Metering Systems (regulations 16, 17 and 18)
+1. The distribution system operator shall be responsible for the deployment of smart metering systems in Malta which may be subject to an economic assessment of all of the long-term costs and benefits to the market and the individual consumer or which form of smart metering is economically reasonable and cost-effective and which time frame is feasible for their distribution.
+2. Such assessment shall take into consideration the methodology for the cost-benefit analysis and the minimum functionalities for smart metering systems provided for in Commission Recommendation 2012/148/EU (1) as well as the best available techniques for ensuring the highest level of cybersecurity and data protection.
+3. Subject to that assessment, the distribution system operator shall prepare a timetable with a target of up to ten years for the deployment of smart metering systems. Where the deployment of smart metering systems is assessed positively, at least eighty per cent (80%) of final customers shall be equipped with smart meters either within seven years of the date of the positive assessment or by 2024 if the systematic deployment of smart metering systems has occurred before 4th July 2019.
