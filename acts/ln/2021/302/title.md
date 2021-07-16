@@ -1,0 +1,5 @@
+# L.N. 302 of 2021: Doctorate in Research Programme Regulations, 2021
+L.N. 302 of 2021
+EDUCATION ACT
+(CAP. 327)
+DOCTORATE IN RESEARCH PROGRAMME REGULATIONS
