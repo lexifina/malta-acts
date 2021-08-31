@@ -1,0 +1,6 @@
+# L.N. 336 of 2021: Petroleum for the Inland (Wholesale) Fuel Market, Bottling of LPG and Primary Storage Facilities (Amendment) Regulations, 2021
+L.N. 336 of 2021
+REGULATOR FOR ENERGY AND WATER SERVICES ACT
+(CAP. 545)
+Petroleum for the Inland (Wholesale) Fuel Market, Bottling of LPG and Primary Storage Facilities (Amendment) Regulations,
+IN EXERCISE of the powers conferred by article 37 of the Regulator for Energy and Water Services Act, the Minister for Energy, Enterprise and Sustainable Development, after consultation with the Regulator for Energy and Water Services, has made the following regulations:-
