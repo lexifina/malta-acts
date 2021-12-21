@@ -1,0 +1,12 @@
+## FIRST SCHEDULE
+# first-schedule
+Vote Title Amount €
+6. Office of the Prime Minister 2,842,999 8. Government Printing Press 30,000 9. Electoral Office 650,000 11. Industrial and Employment Relations 140,000 12. Ministry for Health 141,400,000 13. Ministry for Foreign and European Affairs 5,900,000 15. Ministry for Research, Innovation and the Co-ordination of Post Covid-19 Strategy 500,000 16. Ministry for the National Heritage, the Arts and Local Government 11,000,000 17. Local Government 220,000 18. Ministry for Transport, Infrastructure and Capital Projects 13,000,000 19. Ministry for Social Justice and Solidarity, the Family and
+Children's Rights 2,299,999 20. Social Policy 20,000,000 22. Pensions 400,000 23. Ministry for Justice, Equality and Governance 7,100,000 24. Ministry for Agriculture, Fisheries, Food and Animal Rights 9,700,000 25. Ministry for Social Accommodation 1,100,000 26. Ministry for Education 99,999 27. Education 30,500,000 28. Ministry for the Economy and Industry 45,499,999 29. Commerce 235,000 30. Ministry for Inclusion and Social Wellbeing 4,950,000 32. Ambjent Malta 9,849,999 33. Ministry for Gozo 850,000 34. Ministry for Home Affairs, National Security and Law Enforcement 18,499,999 35. Armed Forces of Malta 14,500,000 36. Police 1,900,000 37. Probation and Parole 40,000 38. Civil Protection 1,500,000 39. Ministry for Tourism and Consumer Protection 10,000,000 40. Ministry for Energy, Enterprise and Sustainable Development 499,599,994 41. Ministry for Finance and Employment 58,000,000 45. Commissioner for Revenue 2,800,000 46. Customs 1,120,000 Vote Title Amount €
+47. Contracts 165,000
+Total Recurrent Expenditure 916,392,988
+Vote Title Amount €
+I Office of the President 265,000 II Office of the Prime Minister 3,500,000 V Ministry for Foreign and European Affairs 7,300,000 IX Ministry for Transport, Infrastructure and Capital Projects 97,100,000 X Ministry for Social Justice and Solidarity, the Family and
+Children's Rights 4,200,000 XII Ministry for Agriculture, Fisheries, Food and Animal Rights 800,000 XV Ministry for the Economy and Industry 15,800,000 XVII Ministry for the Environment, Climate Change and Planning 399,999 XVIII Ministry for Gozo 10,900,000 XX Ministry for Tourism and Consumer Protection 2,000,000 XXII Ministry for Finance and Employment 25,000,000
+Total Capital Expenditure 167,264,999
+Total Schedule 1,083,657,987
