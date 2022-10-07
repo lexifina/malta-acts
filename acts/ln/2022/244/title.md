@@ -1,0 +1,6 @@
+# L.N. 244 of 2022: Electricity Supply (Amendment No. 2) Regulations, 2022
+L.N. 244 of 2022
+REGULATOR FOR ENERGY AND WATER SERVICES ACT
+(CAP. 545)
+Electricity Supply (Amendment No. 2) Regulations, 2022
+IN EXERCISE of the powers conferred by article 37(1) of the Regulator for Energy and Water Services Act, the Minister responsible for energy and water services, after consultation with the Regulator for Energy and Water Services, has made the following regulations:-
