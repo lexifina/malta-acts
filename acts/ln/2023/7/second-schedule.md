@@ -1,0 +1,7 @@
+## SECOND SCHEDULE
+## _________________________________________________________________________________________________________________________
+## Prezz/Price
+## €0.09
+# second-schedule
+Regulation 5(4)
+The rate of interest on late payment shall be 9.97 per cent per annum.".
