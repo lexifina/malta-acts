@@ -1,0 +1,1 @@
+# L.N. 172 of 2023: Bye-Laws of 2023 to amend the Bye-Laws of 2016 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Degree of Master in Teaching and Learning - MTL - under the auspices of the Faculty of Education
