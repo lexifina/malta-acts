@@ -1,0 +1,1 @@
+# L.N. 308 of 2023: Bye-Laws of 2023 in terms of the Doctor of Philosophy - Ph.D. - Degree Regulations, 2023 for the Degree of Doctor of Philosophy - Ph.D. - under the auspices of the Faculty of Information and Communication Technology
