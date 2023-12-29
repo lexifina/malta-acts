@@ -1,0 +1,7 @@
+# L.N. 312 of 2023: Police Act (Amendment of Fourth Schedule) Regulations, 2023
+L.N. 312 of 2023
+POLICE ACT
+(CAP. 164)
+Police Act (Amendment of Fourth Schedule)
+Regulations, 2023
+IN EXERCISE of the powers conferred by articles 82(2) and 101 of the Police Act, the Minister responsible for the police, with the concurrence of the Minister responsible for finance, has made the following regulations:-
