@@ -1,0 +1,1 @@
+# L.N. 11 of 2024: Zootechnical and Genealogical Conditions for the Breeding, Trade in and Entry into Malta of Purebred Breeding Animals, Hybrid Breeding Pigs and the Germinal Products thereof (Implementing) Rules, 2024
