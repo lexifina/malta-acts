@@ -1,0 +1,1 @@
+# L.N. 26 of 2024: Bye-Laws of 2024 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Degree of Master of Science in Work and Organisational Behaviour -M.Sc. - under the auspices of the Centre for Labour Studies
