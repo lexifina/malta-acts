@@ -1,0 +1,1 @@
+# L.N. 22 of 2024: Bye-Laws of 2024 to amend the Bye-Laws of 2005 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Degree of Bachelor of Arts (Honours) in Theology - B.A. (Hons) Theology - under the auspices of the Faculty of Theology
