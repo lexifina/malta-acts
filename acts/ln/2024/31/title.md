@@ -1,0 +1,7 @@
+# L.N. 31 of 2024: Establishment of Maximum Amount which may be Released to Persons who are Subject to Attachment Orders or to Seizing and Freezing Orders under the Proceeds of Crime Act Order, 2024
+L.N. 31 of 2024
+PROCEEDS OF CRIME ACT
+(CAP. 621)
+Establishment of Maximum Amount which may be Released to Persons who are Subject to Attachment Orders or to Seizing and Freezing Orders under the Proceeds of Crime Act Order, 2024
+FOR THE PURPOSES of articles 2, 35, 36 and 57 of the Proceeds of Crime Act the Minister for Justice and the Reform of the Construction Sector has established the amount of twenty-one thousand nine hundred and forty-five euro (€21,945) annually as the maximum amount which may be released to a physical person who is subject to an Attachment Order or to a Seizing and Freezing Order under the Proceeds of Crime Act in order to allow such person and that person's family a decent living.
+It is also being hereby explained for all intents and purposes that the amount established is the amount communicated to the Minister for Justice and Reform of the Construction Sector by the National Statistics Office as the indicative amount currently available which results from the Labour Force Survey as the amount equivalent to the average basic salary received by employed persons, other than self-employed persons, from their principal occupation before deducting social security contributions and tax during the year 2023. This amount also excludes overtime payments, allowances and bonuses.
