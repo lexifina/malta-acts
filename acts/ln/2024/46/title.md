@@ -1,0 +1,1 @@
+# L.N. 46 of 2024: Bye-Laws of 2024 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Certificate in Insurance under the auspices of the Faculty of Economics, Management and Accountancy
