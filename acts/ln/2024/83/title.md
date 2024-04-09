@@ -1,0 +1,6 @@
+# L.N. 83 of 2024: Second Repealing (Repeal) Regulations, 2024
+L.N. 83 of 2024
+PUBLIC HEALTH ACT
+(CAP. 465)
+Second Repealing (Repeal) Regulations, 2024
+IN EXERCISE of the powers conferred by articles 26 and 27 of the Public Health Act, the Minister responsible for public health, after consultation with the Superintendent of Public Health, has made the following regulations:-
