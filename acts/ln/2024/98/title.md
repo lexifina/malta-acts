@@ -1,0 +1,1 @@
+# L.N. 98 of 2024: Bye-Laws of 2024 to amend the Bye-Laws of 2019 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Degree of Master of Arts in International Hospitality and Tourism Experience Management - M.A. - under the auspices of the Institute for Tourism, Travel and Culture
