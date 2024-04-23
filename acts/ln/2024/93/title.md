@@ -1,0 +1,1 @@
+# L.N. 93 of 2024: Bye-Laws of 2024 to amend the Bye-Laws of 2014 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Degree of Bachelor of Arts (Honours) (Tourism Studies) - B.A. (Hons) - under the auspices of the Institute for Tourism, Travel and Culture
