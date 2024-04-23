@@ -1,0 +1,1 @@
+# L.N. 94 of 2024: Bye-Law of 2024 to amend the Bye-Laws of 2011 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Degree of Bachelor of Engineering (Honours) - B.Eng. (Hons) - under the auspices of the Faculty of Engineering
