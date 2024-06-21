@@ -1,0 +1,1 @@
+# L.N. 144 of 2024: Bye-Laws of 2024 to amend the Bye-Laws of 2019 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Degree of Master of Science in Mental Health Studies - M.Sc. - under the auspices of the Faculty of Health Sciences, the Faculty of Medicine and Surgery and the Faculty for Social Wellbeing
