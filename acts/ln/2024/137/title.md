@@ -1,0 +1,1 @@
+# L.N. 137 of 2024: Bye-Law of 2024 to amend the Bye-Laws of 2023 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Degree of Bachelor of Arts (Honours) in Primary Education - B.A. (Hons) - under the auspices of the Faculty of Education
