@@ -1,0 +1,1 @@
+# L.N. 140 of 2024: Bye-Laws of 2024 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Degree of Bachelor of Science (Honours) in Accountancy and Information Systems - B.Sc. (Hons) - under the auspices of the Faculty of Economics, Management and Accountancy and the Faculty of Information and Communication Technology
