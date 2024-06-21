@@ -1,0 +1,1 @@
+# L.N. 142 of 2024: Bye-Laws of 2024 to amend the Bye-Laws of 2019 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Degree of Master of Arts in Taxation - M.A. - under the auspices of the Faculty of Economics, Management and Accountancy and the Faculty of Laws
