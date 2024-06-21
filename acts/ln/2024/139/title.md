@@ -1,0 +1,1 @@
+# L.N. 139 of 2024: Bye-Laws of 2024 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Degree of Bachelor of Science (Honours) in Language Technology and Artificial Intelligence - B.Sc. (Hons) - under the auspices of the Institute of Linguistics and Language Technology and the Faculty of Information and Communication Technology
