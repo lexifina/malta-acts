@@ -1,0 +1,5 @@
+# L.N. 178 of 2024: Medical and Kindred Professions Ordinance (Amendment of Third Schedule) Regulations, 2024
+L.N. 178 of 2024
+MEDICAL AND KINDRED PROFESSIONS ORDINANCE (CAP. 31)
+Medical and Kindred Professions Ordinance (Amendment of Third Schedule) Regulations, 2024
+IN EXERCISE of the powers conferred by article 40A of the Medical and Kindred Professions Ordinance, the Minister responsible for public health, after consulting with the Council of Health, has made the following regulations:-
