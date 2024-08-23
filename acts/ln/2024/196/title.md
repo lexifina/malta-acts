@@ -1,0 +1,1 @@
+# L.N. 196 of 2024: Amendment or Revocation of a Condition Imposed in a Contract of a Property Transferred by the Government, the Lands Authority or Ecclesiastical Entities by means of a Sale or Emphyteusis Regulations, 2024
