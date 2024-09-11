@@ -1,0 +1,1 @@
+# L.N. 226 of 2024: Bye-Laws of 2024 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Pre-Tertiary Certificate in Agriculture under the auspices of the Institute of Earth Systems
