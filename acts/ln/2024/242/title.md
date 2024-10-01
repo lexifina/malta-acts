@@ -1,0 +1,1 @@
+# L.N. 242 of 2024: Bye-Laws of 2024 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Degree of Bachelor of Science (Honours) in Financial Mathematics and Risk Management - B.Sc. (Hons) - under the auspices of the Faculty of Science
