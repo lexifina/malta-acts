@@ -1,0 +1,1 @@
+# L.N. 262 of 2024: Bye-Laws of 2024 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Postgraduate Diploma in Financial Regulation and Compliance - P.G. Dip. - under the auspices of the Faculty of Economics, Management and Accountancy
