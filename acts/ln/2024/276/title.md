@@ -1,0 +1,1 @@
+# L.N. 276 of 2024: Bye-Laws of 2024 to amend the Bye-Laws of 2016 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Degree of Bachelor of Science (Honours) in Sport and Physical Activity - B.Sc. (Hons) SPA - under the auspices of the Institute for Physical Education and Sport
