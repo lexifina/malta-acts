@@ -1,0 +1,1 @@
+# L.N. 273 of 2024: Bye-Laws of 2024 to amend the Bye-Laws of 2005 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Degrees of Bachelor of European Studies (Honours) - B.Eur.Studies (Hons) - and Bachelor of European Studies - B.Eur.Studies - under the auspices of the European Documentation and Research Centre
