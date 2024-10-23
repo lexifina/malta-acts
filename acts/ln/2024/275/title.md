@@ -1,0 +1,1 @@
+# L.N. 275 of 2024: Bye-Laws of 2024 to amend the Bye-Laws of 2011 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Degree of Bachelor of Science (Honours) in Earth Systems - B.Sc. (Hons) -under the auspices of the Institute of Earth Systems
