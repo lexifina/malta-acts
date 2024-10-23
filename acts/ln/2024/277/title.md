@@ -1,0 +1,1 @@
+# L.N. 277 of 2024: Bye-Law of 2024 to amend the Bye-Laws of 2012 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Degree of Bachelor of Science (Honours) in Pharmaceutical Technology - B.Sc. (Hons) Pharm. Tech. - under the auspices of the Faculty of Medicine and Surgery
