@@ -1,0 +1,1 @@
+# L.N. 291 of 2024: Bye-Laws of 2024 to amend the Bye-Laws of 2010 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Degree of Master of Science - M.Sc. - under the auspices of the Faculty for the Built Environment
