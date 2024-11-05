@@ -1,0 +1,1 @@
+# L.N. 292 of 2024: Bye-Laws of 2024 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Postgraduate Certificate in Helping Skills in Psycho-Social Settings - P.G. Cert. - under the auspices of the Faculty for Social Wellbeing
