@@ -1,0 +1,1 @@
+# L.N. 287 of 2024: Bye-Law of 2024 to amend the Bye-Laws of 2012 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Degree of Master of Arts - M.A. - under the auspices of the Faculty of Media and Knowledge Sciences
