@@ -1,0 +1,1 @@
+# L.N. 293 of 2024: Bye-Laws of 2024 in terms of the Doctor of Philosophy - Ph.D. - Degree Regulations, 2023 for the Degree of Doctor of Philosophy - Ph.D. - under the auspices of the Faculty of Media and Knowledge Sciences
