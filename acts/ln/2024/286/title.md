@@ -1,0 +1,1 @@
+# L.N. 286 of 2024: Bye-Laws of 2024 in terms of the Doctor of Philosophy - Ph.D. - Degree Regulations, 2023 for the Degree of Doctor of Philosophy - PhD. - under the auspices of the Centre for the Study and Practice of Conflict Resolution
