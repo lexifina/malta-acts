@@ -1,0 +1,1 @@
+# L.N. 288 of 2024: Bye-Laws of 2024 to amend the Bye-Laws of 2014 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Degree of Master in Counselling - M.Couns. - under the auspices of the Faculty for Social Wellbeing
