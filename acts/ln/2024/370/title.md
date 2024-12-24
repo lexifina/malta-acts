@@ -1,0 +1,6 @@
+# L.N. 370 of 2024: Investment Services Act (Fees) Regulations, 2024
+Suppliment tal-Gazzetta tal-Gvern ta' Malta, Nru. 21,366, 24 ta' Diċembru, 2024 Taqsima B ------------------------------------------------------------------- L.N. 370 of 2024
+INVESTMENT SERVICES ACT
+(CAP. 370)
+Investment Services Act (Fees) Regulations, 2024
+IN EXERCISE of the powers conferred by article 12 of the Investment Services Act the Minister responsible for the regulation of Financial Services acting on the advice of the Malta Financial Services Authority, has made the following regulations:-
