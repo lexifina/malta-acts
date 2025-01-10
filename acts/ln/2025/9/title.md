@@ -1,0 +1,1 @@
+# L.N. 9 of 2025: Bye-Law of 2025 to amend the Bye-laws of 2024 in terms of the Doctor of Philosophy - Ph.D. - Degree Regulations, 2023 for the Degree of Doctor of Philosophy - Ph.D. - under the auspices of the Faculty of Education
