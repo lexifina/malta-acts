@@ -1,0 +1,1 @@
+# L.N. 6 of 2025: Bye-Laws of 2025 to amend the Bye-Laws of 2021 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Degree of Master of Arts in Applied Linguistics and Teaching English to Speakers of Other Languages - M.A. - under the auspices of the Centre for English Language Proficiency
