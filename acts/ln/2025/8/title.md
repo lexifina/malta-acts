@@ -1,0 +1,1 @@
+# L.N. 8 of 2025: Bye-Law of 2025 to amend the Bye-Laws of 2023 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Degree of Master of Science in Environmental Monitoring and Assessment - M.Sc. - under the auspices of the Institute of Earth Systems
