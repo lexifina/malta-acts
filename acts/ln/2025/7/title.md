@@ -1,0 +1,1 @@
+# L.N. 7 of 2025: Bye-Laws of 2025 to amend the Bye-Laws of 2014 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Degree of Master of Science in Digital Games - M.Sc. - under the auspices of the Institute of Digital Games
