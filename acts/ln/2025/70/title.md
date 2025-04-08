@@ -1,0 +1,1 @@
+# L.N. 70 of 2025: Simplification of Exchange of Information between National Law Enforcement Authorities and other Authorities of the Member States of the European Union having similar powers Regulations, 2025
