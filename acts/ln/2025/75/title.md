@@ -1,0 +1,1 @@
+# L.N. 75 of 2025: Amendment or Revocation of a Condition Imposed in a Contract of a Property Transferred by the Government, the Lands Authority or Ecclesiastical Entities by Means of a Sale or Emphyteusis (Amendment) Regulations, 2025
