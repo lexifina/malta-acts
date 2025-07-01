@@ -1,0 +1,1 @@
+# L.N. 117 of 2025: Bye-Laws of 2025 to amend the Bye-Laws of 2010 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Degree of Bachelor of Science (Honours) - B.Sc. (Hons) - under the auspices of the Faculty of Health Sciences
