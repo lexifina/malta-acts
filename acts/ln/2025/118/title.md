@@ -1,0 +1,1 @@
+# L.N. 118 of 2025: Bye-Laws of 2025 to amend the Bye-Laws of 2009 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Degree of Master of Education - M.Ed. - under the auspices of the Faculty of Education
