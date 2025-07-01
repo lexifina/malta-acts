@@ -1,0 +1,1 @@
+# L.N. 119 of 2025: Bye-Laws of 2025 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Degree of Master of Arts in Ombudsman Law and Governance - M.A. - under the auspices of the Faculty of Laws and the Faculty of Economics, Management and Accountancy
