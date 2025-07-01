@@ -1,0 +1,1 @@
+# L.N. 116 of 2025: Bye-Law of 2025 to amend the Bye-Laws of 2008 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Degrees of Bachelor of Science - B.Sc. - and Bachelor of Science (Honours) - B.Sc. (Hons) - under the auspices of the Faculty of Science
