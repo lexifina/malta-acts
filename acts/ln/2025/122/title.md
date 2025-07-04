@@ -1,0 +1,1 @@
+# L.N. 122 of 2025: Bye-Laws of 2025 to amend the Bye-Laws of 2019 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Degree of Master of Science in Insurance and Risk Management - M.Sc. - under the auspices of the Faculty of Economics, Management and Accountancy
