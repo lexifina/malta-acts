@@ -1,0 +1,1 @@
+# L.N. 120 of 2025: Bye-Law of 2025 to amend the Bye-Laws of 2013 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Degree of Master in Access to Education under the auspices of the Faculty of Education
