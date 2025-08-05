@@ -1,0 +1,6 @@
+# L.N. 171 of 2025: Recovery and Resolution (Amendment No. 2) Regulations, 2025
+Suppliment tal-Gazzetta tal-Gvern ta' Malta Nru. 21,481, 5 ta' Awwissu, 2025 Taqsima B
+L.N. 171 of 2025
+MALTA FINANCIAL SERVICES AUTHORITY ACT (CAP. 330)
+Recovery and Resolution (Amendment No. 2) Regulations, 2025
+IN EXERCISE of the powers conferred by articles 20A and 20D of the Malta Financial Services Authority Act, the Minister responsible for the regulation of financial services, acting on the advice of the Malta Financial Services Authority and of the Resolution Authority, has made the following regulations:-
