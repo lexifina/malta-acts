@@ -1,0 +1,7 @@
+# L.N. 182 of 2025: Light Passenger Transport Services and Vehicle Hire Services (Amendment No. 2) Regulations, 2025
+L.N. 182 of 2025
+TRAFFIC REGULATION ORDINANCE
+(CAP. 65)
+AUTHORITY FOR TRANSPORT IN MALTA ACT (CAP. 499)
+Light Passenger Transport Services and Vehicle Hire Services (Amendment No. 2) Regulations, 2025
+IN EXERCISE of the powers conferred by article 54 of the Traffic Regulation Ordinance and by article 43 of the Authority for Transport in Malta Act, the Minister responsible for transport, after consultation with the Authority for Transport in Malta, has made the following regulations:-
