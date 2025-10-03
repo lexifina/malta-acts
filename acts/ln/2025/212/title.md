@@ -1,0 +1,9 @@
+# L.N. 212 of 2025: Algorithmic Trading (Amendment) Regulations, 2025
+Suppliment tal-Gazzetta tal-Gvern ta' Malta Nru. 21,515, 3 ta' Ottubru, 2025 Taqsima B
+L.N. 212 of 2025
+FINANCIAL MARKETS ACT
+(CAP. 345)
+INVESTMENT SERVICES ACT
+(CAP. 370)
+Algorithmic Trading (Amendment) Regulations, 2025
+IN EXERCISE of the powers conferred by article 49 of the Financial Markets Act and by article 12 of the Investment Services Act, the Minister responsible for the regulation of financial services, acting on the advice of the Malta Financial Services Authority, has made the following regulations:
