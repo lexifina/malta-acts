@@ -1,0 +1,1 @@
+# L.N. 244 of 2025: Bye-Laws of 2025 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Degree of Master of Science in Clinical Electrophysiology (Neurophysiology) - M.Sc. - under the auspices of the Centre for Biomedical Cybernetics
