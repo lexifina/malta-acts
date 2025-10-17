@@ -1,0 +1,1 @@
+# L.N. 240 of 2025: Bye-Laws of 2025 to amend the Bye-Laws of 2020 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Certificate in Volunteering Studies under the auspices of the Faculty for Social Wellbeing
