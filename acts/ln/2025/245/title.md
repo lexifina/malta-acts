@@ -1,0 +1,1 @@
+# L.N. 245 of 2025: Bye-Law of 2025 to amend the Bye-Laws of 2024 in terms of the Doctor of Philosophy - Ph.D. - Degree Regulations, 2023 for the Degree of Doctor of Philosophy - Ph.D. - under the auspices of the Centre for Academic Literacies and English Communication Skills
