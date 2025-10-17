@@ -1,0 +1,1 @@
+# L.N. 241 of 2025: Bye-Laws of 2025 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Diploma in Applied Linguistics for Maltese Sign Language under the auspices of the Institute of Linguistics and Language Technology
