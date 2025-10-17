@@ -1,0 +1,1 @@
+# L.N. 243 of 2025: Bye-Laws of 2025 to amend the Bye-Laws of 2014 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Degree of Master of Advocacy - M.Adv. - and the Degree of Master of Notarial Studies - M.Not.St. - under the auspices of the Faculty of Laws
