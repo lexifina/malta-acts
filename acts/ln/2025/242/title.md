@@ -1,0 +1,1 @@
+# L.N. 242 of 2025: Bye-Laws of 2025 to amend the Bye-Laws of 2012 in terms of the General Regulations for University Postgraduate Awards, 2021 for the degree of Master in Accountancy - M.Accty - under the auspices of the Faculty of Economics, Management and Accountancy
