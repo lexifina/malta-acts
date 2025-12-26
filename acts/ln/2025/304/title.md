@@ -1,0 +1,1 @@
+# L.N. 304 of 2025: Malta Financial Services Authority Act (Indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds) (Fees) Regulations, 2025
