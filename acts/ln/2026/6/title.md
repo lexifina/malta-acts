@@ -1,0 +1,1 @@
+# L.N. 6 of 2026: Malta Financial Services Authority Act (Indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds) (Amendment) Regulations, 2026
