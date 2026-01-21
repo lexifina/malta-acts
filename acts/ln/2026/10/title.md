@@ -1,0 +1,1 @@
+# L.N. 10 of 2026: Bye-Laws of 2026 to amend the Bye-Laws of 2017 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Degree of Bachelor of Communications (Honours) - B. Comms (Hons) - under the auspices of the Faculty of Media and Knowledge Sciences
