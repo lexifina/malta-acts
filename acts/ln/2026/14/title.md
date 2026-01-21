@@ -1,0 +1,1 @@
+# L.N. 14 of 2026: Bye-Laws of 2026 to amend the Bye-Laws of 2011 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Diploma in Journalism - Dip. Journalism - under the auspices of the Faculty of Media and Knowledge Sciences
