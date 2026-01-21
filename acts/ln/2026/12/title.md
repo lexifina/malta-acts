@@ -1,0 +1,1 @@
+# L.N. 12 of 2026: Bye-Law of 2026 to amend the Bye-Laws of 2010 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Degree of Bachelor of Science (Honours) - B.Sc. (Hons) - under the auspices of the Faculty of Health Sciences
