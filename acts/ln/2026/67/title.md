@@ -1,0 +1,1 @@
+# L.N. 67 of 2026: Bye-Laws of 2026 in terms of the Doctor of Philosophy - Ph.D. - Degree Regulations, 2023 for the Degree of Doctor of Philosophy - Ph.D. - under the auspices of the Institute of Anglo-Italian Studies
