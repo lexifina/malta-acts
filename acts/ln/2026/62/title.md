@@ -1,0 +1,1 @@
+# L.N. 62 of 2026: Bye-Laws of 2026 to amend the Bye-Laws of 2015 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Degree of Bachelor in Occupational Health and Safety (Honours) - B. O.H.S. (Hons) - under the auspices of the Centre for Labour Studies
