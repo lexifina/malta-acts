@@ -1,0 +1,1 @@
+# L.N. 63 of 2026: Bye-Law of 2026 to amend the Bye-Laws of 2010 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Degree of Bachelor in Work and Human Resources (Honours) under the auspices of the Centre for Labour Studies in collaboration with the Faculty of Economics, Management and Accountancy
