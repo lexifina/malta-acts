@@ -1,0 +1,1 @@
+# L.N. 68 of 2026: Bye-Laws of 2026 to amend the Bye-Laws of 2024 in terms of the Doctor of Philosophy - Ph.D. - Degree Regulations, 2023 for the Degree of Doctor of Philosophy - Ph.D. - under the auspices of the Institute for European Studies
