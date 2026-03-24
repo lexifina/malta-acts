@@ -1,0 +1,1 @@
+# L.N. 64 of 2026: Bye-Laws of 2026 to amend the Bye-Laws of 2011 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Degree of Master of Arts in Anglo-Italian Studies under the auspices of the Institute of Anglo-Italian Studies in collaboration with the Faculty of Arts
