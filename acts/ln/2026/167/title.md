@@ -1,0 +1,1 @@
+# L.N. 167 of 2026: Bye-Laws of 2026 to amend the Bye-Laws of 2016 in terms of the General Regulations for University Undergraduate Awards, 2019 for the Degree of Bachelor of Science (Honours) in Technical Design and Technology - B.Sc. (Hons) TDT - under the auspices of the Faculty of Education
