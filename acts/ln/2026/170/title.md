@@ -1,0 +1,1 @@
+# L.N. 170 of 2026: Bye-Law of 2026 to amend the Bye-Laws of 2018 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Postgraduate Certificate in Teaching Maltese as a Foreign Language - P.G. Cert. -under the auspices of the Faculty of Education
