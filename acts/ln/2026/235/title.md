@@ -1,0 +1,1 @@
+# L.N. 235 of 2026: Data Protection (Processing of Personal Data by Competent Authorities for the Purposes of the Prevention, Investigation, Detection or Prosecution of Criminal Offences or the Execution of Criminal Penalties) (Amendment) Regulations, 2026
