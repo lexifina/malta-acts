@@ -1,0 +1,1 @@
+# L.N. 273 of 2026: Bye-Laws of 2026 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Degree of Master of Science in Financial Regulation and Compliance - M.Sc. - under the auspices of the Faculty of Economics, Management and Accountancy
