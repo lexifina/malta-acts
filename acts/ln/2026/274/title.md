@@ -1,0 +1,1 @@
+# L.N. 274 of 2026: Bye-Laws of 2026 in terms of the General Regulations for University Postgraduate Awards, 2021 for the Postgraduate Diploma in Teaching and Professional Practice - P.G. Dip. - under the auspices of the Faculty of Education
