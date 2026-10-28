@@ -1,0 +1,36 @@
+{
+  "corpus": "mt/national/amending-acts",
+  "name": "Acts and Legal Notices of Malta, as published",
+  "label": "Malta (Acts and Legal Notices)",
+  "language": "en",
+  "history_from": "1964-01-01",
+  "record_to": "2026-10-23",
+  "record_note": "The text of every Act (1520) and Legal Notice (14254) on legislation.mt as published, one commit each, dated by its publication day (1964-01-01 to 2026-10-23); not consolidated and not dated by commencement: a law's own commencement, where it states one, is in its Commencement: trailers. The consolidated laws are lexifina/malta-law (mt/national/acts). Data built 2026-10-28.",
+  "in_force_trailer": "Published",
+  "dates": {
+    "commit": "publication",
+    "trailer": "Published",
+    "other_trailers": [
+      "Commencement",
+      "Commenced-by"
+    ],
+    "time": "12:00 Europe/Malta",
+    "before_1970": "clamped to 1970-01-01, one second apart in order"
+  },
+  "author": {
+    "act": "the Act or Legal Notice itself"
+  },
+  "counts": {
+    "acts": 1520,
+    "legal_notices": 14254,
+    "sections": 71280,
+    "listed_not_found": 607,
+    "undated": 0
+  },
+  "built": "2026-10-28",
+  "citation": {
+    "file": "acts/(act/[0-9]{4}/[0-9]+|ln/[0-9]{4}/[0-9]+)/0*([0-9]+[A-Z]*)\\.md",
+    "cites": "([Ss]ection|[Rr]egulation|[Rr]eg\\.|[Aa]rticle|[Rr]ule|[Pp]aragraph) ?{n}([^0-9A-Z]|$)"
+  },
+  "tool": "tools/in_force_on.py"
+}

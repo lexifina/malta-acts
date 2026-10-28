@@ -1,0 +1,28 @@
+{
+ "built": "2026-10-28",
+ "entries": 16381,
+ "found": 15774,
+ "not_found": 607,
+ "commits": 15774,
+ "acts": 1520,
+ "legal_notices": 14254,
+ "sections": 71280,
+ "text": {
+  "ocr": 3574,
+  "none": 1329,
+  "native": 9668,
+  "maltese": 40,
+  "no-pdf": 1163
+ },
+ "published_from": {
+  "year": 2,
+  "page": 2643,
+  "estimated": 6229,
+  "assent": 74,
+  "pdf-gazette": 34,
+  "gazette": 6792
+ },
+ "undated": 0,
+ "with_commencement": 2055,
+ "amending": 3335
+}
